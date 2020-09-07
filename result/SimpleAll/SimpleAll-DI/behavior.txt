@@ -1,0 +1,268 @@
+Player 0 is dealt [4H, QH, 7H, 9H, 7S, 6H, JS, 4D, TC, 8S].
+Player 1 is dealt [TS, 4S, 2D, TD, 8C, KH, 3H, KC, 9S, 7C].
+Player 0 starts.
+The initial face up card is 2H.
+Player 0 declines 2H.
+Player 1 declines 2H.
+Player 0 draws 3D.
+Player 0 discards 4H.
+Player 0 has [QH, 7H, 9H, 7S, 6H, JS, 4D, TC, 8S, 3D] with 74 deadwood.
+Player 1 draws 6C.
+Player 1 discards KH.
+Player 1 has [[6C, 7C, 8C], [TS, 4S, 2D, TD, 3H, KC, 9S]] with 48 deadwood.
+Player 0 draws 7D.
+Player 0 discards 6H.
+Player 0 has [[7H, 7S, 7D], [QH, 9H, JS, 4D, TC, 8S, 3D]] with 54 deadwood.
+Player 1 draws AD.
+Player 1 discards TS.
+Player 1 has [[6C, 7C, 8C], [4S, 2D, TD, 3H, KC, 9S, AD]] with 39 deadwood.
+Player 0 draws JD.
+Player 0 discards 8S.
+Player 0 has [[7H, 7S, 7D], [QH, 9H, JS, 4D, TC, 3D, JD]] with 56 deadwood.
+Player 1 draws JH.
+Player 1 discards JH.
+Player 1 has [[6C, 7C, 8C], [4S, 2D, TD, 3H, KC, 9S, AD]] with 39 deadwood.
+Player 0 draws JH.
+Player 0 discards 9H.
+Player 0 has [[7H, 7S, 7D], [JH, JS, JD], [QH, 4D, TC, 3D]] with 27 deadwood.
+Player 1 draws JC.
+Player 1 discards JC.
+Player 1 has [[6C, 7C, 8C], [4S, 2D, TD, 3H, KC, 9S, AD]] with 39 deadwood.
+Player 0 draws JC.
+Player 0 discards TC.
+Player 0 has [[7H, 7S, 7D], [JC, JH, JS, JD], [QH, 4D, 3D]] with 17 deadwood.
+Player 1 draws QD.
+Player 1 discards QD.
+Player 1 has [[6C, 7C, 8C], [4S, 2D, TD, 3H, KC, 9S, AD]] with 39 deadwood.
+Player 0 draws 3S.
+Player 0 discards QH.
+Player 0 has [[7H, 7S, 7D], [JC, JH, JS, JD], [4D, 3D, 3S]] with 10 deadwood.
+Player 0 melds [[7H, 7S, 7D], [JC, JH, JS, JD]] with 10 deadwood from [3S, 3D, 4D].
+Player 1 melds [[6C, 7C, 8C]].
+Player 1 has 39 deadwood with [KC, 3H, 4S, 9S, AD, 2D, TD]
+Player 0 scores the deadwood difference of 29.
+Player	Score
+0	29
+1	0
+Player 0 is dealt [QS, KD, 7D, QC, JD, 5D, TS, JS, JC, QD].
+Player 1 is dealt [7S, 5H, KC, 9H, 2H, 4H, 3H, 7H, 4D, 7C].
+Player 1 starts.
+The initial face up card is AS.
+Player 1 declines AS.
+Player 0 declines AS.
+Player 1 draws 8H.
+Player 1 discards KC.
+Player 1 has [[2H, 3H, 4H, 5H], [7H, 8H, 9H], [7S, 4D, 7C]] with 18 deadwood.
+Player 0 draws KC.
+Player 0 discards 7D.
+Player 0 has [[JC, QC, KC], [TS, JS, QS], [JD, QD, KD], [5D]] with 5 deadwood.
+Player 0 melds [[JC, QC, KC], [TS, JS, QS], [JD, QD, KD]] with 5 deadwood from [5D].
+Player 1 melds [[2H, 3H, 4H, 5H], [7H, 8H, 9H]].
+Player 1 has 18 deadwood with [7C, 7S, 4D]
+Player 0 scores the deadwood difference of 13.
+Player	Score
+0	42
+1	0
+Player 0 is dealt [3C, TC, 2S, JD, TD, 2H, 8S, 8D, KH, 7H].
+Player 1 is dealt [5S, AD, QD, JC, TS, 3H, QS, KS, JS, 4D].
+Player 0 starts.
+The initial face up card is 9C.
+Player 0 declines 9C.
+Player 1 declines 9C.
+Player 0 draws QC.
+Player 0 discards 7H.
+Player 0 has [3C, TC, 2S, JD, TD, 2H, 8S, 8D, KH, QC] with 73 deadwood.
+Player 1 draws 4S.
+Player 1 discards JC.
+Player 1 has [[TS, JS, QS, KS], [5S, AD, QD, 3H, 4D, 4S]] with 27 deadwood.
+Player 0 draws JC.
+Player 0 discards 3C.
+Player 0 has [[TC, JC, QC], [2S, JD, TD, 2H, 8S, 8D, KH]] with 50 deadwood.
+Player 1 draws 3D.
+Player 1 discards QD.
+Player 1 has [[TS, JS, QS, KS], [5S, AD, 3H, 4D, 4S, 3D]] with 20 deadwood.
+Player 0 draws QD.
+Player 0 discards 8S.
+Player 0 has [[TC, JC, QC], [TD, JD, QD], [2S, 2H, 8D, KH]] with 22 deadwood.
+Player 1 draws TH.
+Player 1 discards TH.
+Player 1 has [[TS, JS, QS, KS], [5S, AD, 3H, 4D, 4S, 3D]] with 20 deadwood.
+Player 0 draws TH.
+Player 0 discards 8D.
+Player 0 has [[TC, JC, QC], [TD, JD, QD], [2S, 2H, KH, TH]] with 24 deadwood.
+Player 1 draws 2D.
+Player 1 discards 5S.
+Player 1 has [[AD, 2D, 3D, 4D], [TS, JS, QS, KS], [3H, 4S]] with 7 deadwood.
+Player 1 melds [[AD, 2D, 3D, 4D], [TS, JS, QS, KS]] with 7 deadwood from [3H, 4S].
+Player 0 melds [[TC, JC, QC], [TD, JD, QD]].
+Player 0 has 24 deadwood with [2H, TH, KH, 2S]
+Player 1 scores the deadwood difference of 17.
+Player	Score
+0	42
+1	17
+Player 0 is dealt [5C, 7C, 8H, KH, 8C, 8S, TC, 9D, AD, KD].
+Player 1 is dealt [2H, 3C, 6H, TS, 2C, 9C, QC, 7H, KC, 4H].
+Player 1 starts.
+The initial face up card is 2S.
+Player 1 draws 2S.
+Player 1 discards KC.
+Player 1 has [[2C, 2H, 2S], [3C, 6H, TS, 9C, QC, 7H, 4H]] with 49 deadwood.
+Player 0 draws KC.
+Player 0 discards 5C.
+Player 0 has [[8C, 8H, 8S], [KC, KH, KD], [7C, TC, 9D, AD]] with 27 deadwood.
+Player 1 draws 6C.
+Player 1 discards TS.
+Player 1 has [[2C, 2H, 2S], [3C, 6H, 9C, QC, 7H, 4H, 6C]] with 45 deadwood.
+Player 0 draws 2D.
+Player 0 discards 7C.
+Player 0 has [[8C, 8H, 8S], [KC, KH, KD], [TC, 9D, AD, 2D]] with 22 deadwood.
+Player 1 draws AS.
+Player 1 discards QC.
+Player 1 has [[2C, 2H, 2S], [3C, 6H, 9C, 7H, 4H, 6C, AS]] with 36 deadwood.
+Player 0 draws 4S.
+Player 0 discards 9D.
+Player 0 has [[8C, 8H, 8S], [KC, KH, KD], [TC, AD, 2D, 4S]] with 17 deadwood.
+Player 1 draws 7S.
+Player 1 discards 9C.
+Player 1 has [[2C, 2H, 2S], [3C, 6H, 7H, 4H, 6C, AS, 7S]] with 34 deadwood.
+Player 0 draws 9C.
+Player 0 discards 4S.
+Player 0 has [[8C, 9C, TC], [KC, KH, KD], [8H, 8S, AD, 2D]] with 19 deadwood.
+Player 1 draws 4C.
+Player 1 discards 7H.
+Player 1 has [[2C, 3C, 4C], [2H, 6H, 4H, 2S, 6C, AS, 7S]] with 28 deadwood.
+Player 0 draws AH.
+Player 0 discards 8H.
+Player 0 has [[8C, 9C, TC], [KC, KH, KD], [8S, AD, 2D, AH]] with 12 deadwood.
+Player 1 draws JH.
+Player 1 discards JH.
+Player 1 has [[2C, 3C, 4C], [2H, 6H, 4H, 2S, 6C, AS, 7S]] with 28 deadwood.
+Player 0 draws 5H.
+Player 0 discards 8S.
+Player 0 has [[8C, 9C, TC], [KC, KH, KD], [AD, 2D, AH, 5H]] with 9 deadwood.
+Player 0 melds [[8C, 9C, TC], [KC, KH, KD]] with 9 deadwood from [AH, 5H, AD, 2D].
+Player 1 melds [[2C, 3C, 4C]].
+Player 1 has 28 deadwood with [6C, 2H, 4H, 6H, AS, 2S, 7S]
+Player 0 scores the deadwood difference of 19.
+Player	Score
+0	61
+1	17
+Player 0 is dealt [KH, 4S, TD, 5C, 2C, 8C, TS, 2D, JD, TC].
+Player 1 is dealt [QS, KC, 4D, 6H, 6S, JC, 7S, 2S, KD, 2H].
+Player 0 starts.
+The initial face up card is 9S.
+Player 0 declines 9S.
+Player 1 declines 9S.
+Player 0 draws AS.
+Player 0 discards 5C.
+Player 0 has [[TC, TS, TD], [KH, 4S, 2C, 8C, 2D, JD, AS]] with 37 deadwood.
+Player 1 draws JS.
+Player 1 discards KD.
+Player 1 has [QS, KC, 4D, 6H, 6S, JC, 7S, 2S, 2H, JS] with 67 deadwood.
+Player 0 draws 7D.
+Player 0 discards 4S.
+Player 0 has [[TC, TS, TD], [KH, 2C, 8C, 2D, JD, AS, 7D]] with 40 deadwood.
+Player 1 draws QC.
+Player 1 discards QS.
+Player 1 has [[JC, QC, KC], [4D, 6H, 6S, 7S, 2S, 2H, JS]] with 37 deadwood.
+Player 0 draws 3S.
+Player 0 discards 7D.
+Player 0 has [[TC, TS, TD], [KH, 2C, 8C, 2D, JD, AS, 3S]] with 36 deadwood.
+Player 1 draws KS.
+Player 1 discards KS.
+Player 1 has [[JC, QC, KC], [4D, 6H, 6S, 7S, 2S, 2H, JS]] with 37 deadwood.
+Player 0 draws 9D.
+Player 0 discards 3S.
+Player 0 has [[TC, TS, TD], [KH, 2C, 8C, 2D, JD, AS, 9D]] with 42 deadwood.
+Player 1 draws TH.
+Player 1 discards JS.
+Player 1 has [[JC, QC, KC], [4D, 6H, 6S, 7S, 2S, 2H, TH]] with 37 deadwood.
+Player 0 draws JH.
+Player 0 discards 8C.
+Player 0 has [[TC, TS, TD], [KH, 2C, 2D, JD, AS, 9D, JH]] with 44 deadwood.
+Player 1 draws 9H.
+Player 1 discards TH.
+Player 1 has [[JC, QC, KC], [4D, 6H, 6S, 7S, 2S, 2H, 9H]] with 36 deadwood.
+Player 0 draws TH.
+Player 0 discards AS.
+Player 0 has [[9D, TD, JD], [TC, TH, TS], [KH, 2C, 2D, JH]] with 24 deadwood.
+Player 1 draws 6C.
+Player 1 discards 9H.
+Player 1 has [[JC, QC, KC], [6C, 6H, 6S], [4D, 7S, 2S, 2H]] with 15 deadwood.
+Player 0 draws 9H.
+Player 0 discards 2C.
+Player 0 has [[9H, TH, JH], [TC, TS, TD], [KH, 2D, JD, 9D]] with 31 deadwood.
+Player 1 draws 2C.
+Player 1 discards 7S.
+Player 1 has [[JC, QC, KC], [2C, 2H, 2S], [6C, 6H, 6S], [4D]] with 4 deadwood.
+Player 1 melds [[JC, QC, KC], [2C, 2H, 2S], [6C, 6H, 6S]] with 4 deadwood from [4D].
+Player 0 melds [[9D, TD, JD], [TC, TH, TS]].
+Player 0 lays off 2D on [2C, 2H, 2S].
+Player 0 has 29 deadwood with [9H, JH, KH]
+Player 1 scores the deadwood difference of 25.
+Player	Score
+0	61
+1	42
+Player 0 is dealt [9C, 7H, 4C, 3S, AD, 4H, TC, QS, 4S, 6D].
+Player 1 is dealt [6C, AH, 8D, JS, QH, 9S, 5D, 5S, AC, 2C].
+Player 1 starts.
+The initial face up card is 8S.
+Player 1 declines 8S.
+Player 0 declines 8S.
+Player 1 draws TS.
+Player 1 discards QH.
+Player 1 has [[9S, TS, JS], [6C, AH, 8D, 5D, 5S, AC, 2C]] with 28 deadwood.
+Player 0 draws 5H.
+Player 0 discards 5H.
+Player 0 has [[4C, 4H, 4S], [9C, 7H, 3S, AD, TC, QS, 6D]] with 46 deadwood.
+Player 1 draws 5H.
+Player 1 discards 8D.
+Player 1 has [[9S, TS, JS], [5H, 5S, 5D], [6C, AH, AC, 2C]] with 10 deadwood.
+Player 1 melds [[9S, TS, JS], [5H, 5S, 5D]] with 10 deadwood from [AC, 2C, 6C, AH].
+Player 0 melds [[4C, 4H, 4S]].
+Player 0 lays off QS on [9S, TS, JS].
+Player 0 has 36 deadwood with [9C, TC, 7H, 3S, AD, 6D]
+Player 1 scores the deadwood difference of 26.
+Player	Score
+0	61
+1	68
+Player 0 is dealt [5S, 9S, 3D, JC, 4S, KD, JS, QC, 3H, 2C].
+Player 1 is dealt [3C, AH, AC, JD, 2H, TH, 6D, 3S, 7D, 4C].
+Player 0 starts.
+The initial face up card is 9D.
+Player 0 declines 9D.
+Player 1 declines 9D.
+Player 0 draws AS.
+Player 0 discards 3H.
+Player 0 has [5S, 9S, 3D, JC, 4S, KD, JS, QC, 2C, AS] with 64 deadwood.
+Player 1 draws 3H.
+Player 1 discards JD.
+Player 1 has [[3C, 3H, 3S], [AH, AC, 2H, TH, 6D, 7D, 4C]] with 31 deadwood.
+Player 0 draws JD.
+Player 0 discards 3D.
+Player 0 has [[JC, JS, JD], [5S, 9S, 4S, KD, QC, 2C, AS]] with 41 deadwood.
+Player 1 draws 3D.
+Player 1 discards TH.
+Player 1 has [[AH, 2H, 3H], [3C, 3S, 3D], [AC, 6D, 7D, 4C]] with 18 deadwood.
+Player 0 draws 6H.
+Player 0 discards 6H.
+Player 0 has [[JC, JS, JD], [5S, 9S, 4S, KD, QC, 2C, AS]] with 41 deadwood.
+Player 1 draws 6C.
+Player 1 discards 7D.
+Player 1 has [[AH, 2H, 3H], [3C, 3S, 3D], [AC, 6D, 4C, 6C]] with 17 deadwood.
+Player 0 draws TS.
+Player 0 discards 2C.
+Player 0 has [[JC, JS, JD], [5S, 9S, 4S, KD, QC, AS, TS]] with 49 deadwood.
+Player 1 draws 2C.
+Player 1 discards 6D.
+Player 1 has [[3H, 3S, 3D], [AC, 2C, 3C, 4C], [AH, 2H, 6C]] with 9 deadwood.
+Player 1 melds [[3H, 3S, 3D], [AC, 2C, 3C, 4C]] with 9 deadwood from [6C, AH, 2H].
+Player 0 melds [[JC, JS, JD]].
+Player 0 has 49 deadwood with [QC, AS, 4S, 5S, 9S, TS, KD]
+Player 1 scores the deadwood difference of 40.
+Player	Score
+0	61
+1	108
+Player 1 wins.
+1 games played in 781 ms.
+Games Won: P0:0, P1:1.

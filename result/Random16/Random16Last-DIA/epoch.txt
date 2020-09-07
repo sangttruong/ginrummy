@@ -1,0 +1,436 @@
+Model: "model_1"
+__________________________________________________________________________________________________
+Layer (type)                    Output Shape         Param #     Connected to                     
+==================================================================================================
+o (InputLayer)                  [(None, 4, 13, 1)]   0                                            
+__________________________________________________________________________________________________
+x (InputLayer)                  [(None, 4, 13, 1)]   0                                            
+__________________________________________________________________________________________________
+o41 (Conv2D)                    (None, 1, 10, 4)     68          o[0][0]                          
+__________________________________________________________________________________________________
+o31 (Conv2D)                    (None, 2, 11, 4)     40          o[0][0]                          
+__________________________________________________________________________________________________
+o21 (Conv2D)                    (None, 3, 12, 4)     20          o[0][0]                          
+__________________________________________________________________________________________________
+x41 (Conv2D)                    (None, 1, 10, 4)     68          x[0][0]                          
+__________________________________________________________________________________________________
+x31 (Conv2D)                    (None, 2, 11, 4)     40          x[0][0]                          
+__________________________________________________________________________________________________
+x21 (Conv2D)                    (None, 3, 12, 4)     20          x[0][0]                          
+__________________________________________________________________________________________________
+f (InputLayer)                  [(None, 4)]          0                                            
+__________________________________________________________________________________________________
+o4 (Flatten)                    (None, 40)           0           o41[0][0]                        
+__________________________________________________________________________________________________
+o3 (Flatten)                    (None, 88)           0           o31[0][0]                        
+__________________________________________________________________________________________________
+o2 (Flatten)                    (None, 144)          0           o21[0][0]                        
+__________________________________________________________________________________________________
+x4 (Flatten)                    (None, 40)           0           x41[0][0]                        
+__________________________________________________________________________________________________
+x3 (Flatten)                    (None, 88)           0           x31[0][0]                        
+__________________________________________________________________________________________________
+x2 (Flatten)                    (None, 144)          0           x21[0][0]                        
+__________________________________________________________________________________________________
+concat (Concatenate)            (None, 548)          0           f[0][0]                          
+                                                                 o4[0][0]                         
+                                                                 o3[0][0]                         
+                                                                 o2[0][0]                         
+                                                                 x4[0][0]                         
+                                                                 x3[0][0]                         
+                                                                 x2[0][0]                         
+__________________________________________________________________________________________________
+dense1 (Dense)                  (None, 16)           8784        concat[0][0]                     
+__________________________________________________________________________________________________
+g (InputLayer)                  [(None, 126)]        0                                            
+__________________________________________________________________________________________________
+y (Dense)                       (None, 1)            17          dense1[0][0]                     
+==================================================================================================
+Total params: 9,057
+Trainable params: 9,057
+Non-trainable params: 0
+__________________________________________________________________________________________________
+Epoch 1/96
+12613/12621 [============================>.] - ETA: 0s - loss: 209.3405
+Epoch 00001: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 80s 6ms/step - loss: 209.3204 - val_loss: 191.2001 - lr: 0.0010
+Epoch 2/96
+12617/12621 [============================>.] - ETA: 0s - loss: 188.4534
+Epoch 00002: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 80s 6ms/step - loss: 188.4577 - val_loss: 187.2044 - lr: 0.0010
+Epoch 3/96
+12612/12621 [============================>.] - ETA: 0s - loss: 187.0188
+Epoch 00003: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 80s 6ms/step - loss: 187.0152 - val_loss: 185.3369 - lr: 0.0010
+Epoch 4/96
+12613/12621 [============================>.] - ETA: 0s - loss: 185.3577
+Epoch 00004: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 80s 6ms/step - loss: 185.3670 - val_loss: 183.1316 - lr: 0.0010
+Epoch 5/96
+12615/12621 [============================>.] - ETA: 0s - loss: 183.8177
+Epoch 00005: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 79s 6ms/step - loss: 183.8204 - val_loss: 182.6605 - lr: 0.0010
+Epoch 6/96
+12617/12621 [============================>.] - ETA: 0s - loss: 183.1914
+Epoch 00006: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 80s 6ms/step - loss: 183.1918 - val_loss: 182.2589 - lr: 0.0010
+Epoch 7/96
+12615/12621 [============================>.] - ETA: 0s - loss: 182.7827
+Epoch 00007: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 79s 6ms/step - loss: 182.7786 - val_loss: 181.4006 - lr: 0.0010
+Epoch 8/96
+12615/12621 [============================>.] - ETA: 0s - loss: 182.3616
+Epoch 00008: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 79s 6ms/step - loss: 182.3499 - val_loss: 181.2757 - lr: 0.0010
+Epoch 9/96
+12620/12621 [============================>.] - ETA: 0s - loss: 181.9893
+Epoch 00009: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 80s 6ms/step - loss: 181.9906 - val_loss: 181.8631 - lr: 0.0010
+Epoch 10/96
+12616/12621 [============================>.] - ETA: 0s - loss: 181.8042
+Epoch 00010: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 80s 6ms/step - loss: 181.8016 - val_loss: 180.6365 - lr: 0.0010
+Epoch 11/96
+12613/12621 [============================>.] - ETA: 0s - loss: 181.6042
+Epoch 00011: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 79s 6ms/step - loss: 181.5929 - val_loss: 180.5624 - lr: 0.0010
+Epoch 12/96
+12613/12621 [============================>.] - ETA: 0s - loss: 181.4817
+Epoch 00012: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 79s 6ms/step - loss: 181.4828 - val_loss: 181.9160 - lr: 0.0010
+Epoch 13/96
+12620/12621 [============================>.] - ETA: 0s - loss: 181.2891
+Epoch 00013: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 80s 6ms/step - loss: 181.2877 - val_loss: 181.2344 - lr: 0.0010
+Epoch 14/96
+12616/12621 [============================>.] - ETA: 0s - loss: 181.2278
+Epoch 00014: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 81s 6ms/step - loss: 181.2249 - val_loss: 179.9643 - lr: 0.0010
+Epoch 15/96
+12618/12621 [============================>.] - ETA: 0s - loss: 181.1413
+Epoch 00015: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 80s 6ms/step - loss: 181.1427 - val_loss: 180.3909 - lr: 0.0010
+Epoch 16/96
+12616/12621 [============================>.] - ETA: 0s - loss: 181.1342
+Epoch 00016: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 81s 6ms/step - loss: 181.1367 - val_loss: 180.3277 - lr: 0.0010
+Epoch 17/96
+12620/12621 [============================>.] - ETA: 0s - loss: 181.0677
+Epoch 00017: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 79s 6ms/step - loss: 181.0689 - val_loss: 179.9368 - lr: 0.0010
+Epoch 18/96
+12613/12621 [============================>.] - ETA: 0s - loss: 181.0552
+Epoch 00018: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 81s 6ms/step - loss: 181.0493 - val_loss: 179.8315 - lr: 0.0010
+Epoch 19/96
+12613/12621 [============================>.] - ETA: 0s - loss: 180.8512
+Epoch 00019: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 79s 6ms/step - loss: 180.8469 - val_loss: 179.4960 - lr: 0.0010
+Epoch 20/96
+12611/12621 [============================>.] - ETA: 0s - loss: 180.8222
+Epoch 00020: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 79s 6ms/step - loss: 180.8224 - val_loss: 181.1075 - lr: 0.0010
+Epoch 21/96
+12618/12621 [============================>.] - ETA: 0s - loss: 180.8468
+Epoch 00021: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 80s 6ms/step - loss: 180.8353 - val_loss: 183.9944 - lr: 0.0010
+Epoch 22/96
+12617/12621 [============================>.] - ETA: 0s - loss: 180.6938
+Epoch 00022: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 78s 6ms/step - loss: 180.6963 - val_loss: 179.5738 - lr: 0.0010
+Epoch 23/96
+12616/12621 [============================>.] - ETA: 0s - loss: 180.6488
+Epoch 00023: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 76s 6ms/step - loss: 180.6468 - val_loss: 180.5786 - lr: 0.0010
+Epoch 24/96
+12613/12621 [============================>.] - ETA: 0s - loss: 180.6527
+Epoch 00024: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 180.6550 - val_loss: 179.7895 - lr: 0.0010
+Epoch 25/96
+12617/12621 [============================>.] - ETA: 0s - loss: 180.5331
+Epoch 00025: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 76s 6ms/step - loss: 180.5321 - val_loss: 181.2724 - lr: 0.0010
+Epoch 26/96
+12618/12621 [============================>.] - ETA: 0s - loss: 180.5709
+Epoch 00026: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 180.5750 - val_loss: 179.5570 - lr: 0.0010
+Epoch 27/96
+12613/12621 [============================>.] - ETA: 0s - loss: 180.5083
+Epoch 00027: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 180.5036 - val_loss: 179.3362 - lr: 0.0010
+Epoch 28/96
+12620/12621 [============================>.] - ETA: 0s - loss: 180.2385
+Epoch 00028: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 180.2406 - val_loss: 181.1581 - lr: 0.0010
+Epoch 29/96
+12617/12621 [============================>.] - ETA: 0s - loss: 179.9207
+Epoch 00029: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 179.9218 - val_loss: 179.3555 - lr: 0.0010
+Epoch 30/96
+12612/12621 [============================>.] - ETA: 0s - loss: 179.7333
+Epoch 00030: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 179.7199 - val_loss: 179.9762 - lr: 0.0010
+Epoch 31/96
+12618/12621 [============================>.] - ETA: 0s - loss: 179.6482
+Epoch 00031: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 179.6469 - val_loss: 178.8634 - lr: 0.0010
+Epoch 32/96
+12616/12621 [============================>.] - ETA: 0s - loss: 179.6010
+Epoch 00032: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 179.5985 - val_loss: 178.6253 - lr: 0.0010
+Epoch 33/96
+12618/12621 [============================>.] - ETA: 0s - loss: 178.8104
+Epoch 00033: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.8172 - val_loss: 178.5033 - lr: 1.0000e-04
+Epoch 34/96
+12616/12621 [============================>.] - ETA: 0s - loss: 178.8121
+Epoch 00034: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.8104 - val_loss: 178.3677 - lr: 1.0000e-04
+Epoch 35/96
+12618/12621 [============================>.] - ETA: 0s - loss: 178.8018
+Epoch 00035: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.8032 - val_loss: 178.2649 - lr: 1.0000e-04
+Epoch 36/96
+12611/12621 [============================>.] - ETA: 0s - loss: 178.7718
+Epoch 00036: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.7747 - val_loss: 178.6665 - lr: 1.0000e-04
+Epoch 37/96
+12613/12621 [============================>.] - ETA: 0s - loss: 178.7895
+Epoch 00037: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.7905 - val_loss: 178.2881 - lr: 1.0000e-04
+Epoch 38/96
+12611/12621 [============================>.] - ETA: 0s - loss: 178.7168
+Epoch 00038: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 76s 6ms/step - loss: 178.7210 - val_loss: 178.4022 - lr: 1.0000e-04
+Epoch 39/96
+12621/12621 [==============================] - ETA: 0s - loss: 178.7458
+Epoch 00039: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.7458 - val_loss: 178.1087 - lr: 1.0000e-04
+Epoch 40/96
+12615/12621 [============================>.] - ETA: 0s - loss: 178.7010
+Epoch 00040: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.6992 - val_loss: 178.5863 - lr: 1.0000e-04
+Epoch 41/96
+12612/12621 [============================>.] - ETA: 0s - loss: 178.7030
+Epoch 00041: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.7024 - val_loss: 178.3868 - lr: 1.0000e-04
+Epoch 42/96
+12614/12621 [============================>.] - ETA: 0s - loss: 178.7738
+Epoch 00042: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 76s 6ms/step - loss: 178.7649 - val_loss: 178.2740 - lr: 1.0000e-04
+Epoch 43/96
+12617/12621 [============================>.] - ETA: 0s - loss: 178.6619
+Epoch 00043: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.6608 - val_loss: 178.1556 - lr: 1.0000e-04
+Epoch 44/96
+12619/12621 [============================>.] - ETA: 0s - loss: 178.6714
+Epoch 00044: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.6722 - val_loss: 178.1643 - lr: 1.0000e-04
+Epoch 45/96
+12619/12621 [============================>.] - ETA: 0s - loss: 178.6971
+Epoch 00045: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.6942 - val_loss: 178.3822 - lr: 1.0000e-04
+Epoch 46/96
+12617/12621 [============================>.] - ETA: 0s - loss: 178.6059
+Epoch 00046: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.6122 - val_loss: 178.2057 - lr: 1.0000e-04
+Epoch 47/96
+12620/12621 [============================>.] - ETA: 0s - loss: 178.6716
+Epoch 00047: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.6706 - val_loss: 178.1559 - lr: 1.0000e-04
+Epoch 48/96
+12612/12621 [============================>.] - ETA: 0s - loss: 178.6159
+Epoch 00048: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.6282 - val_loss: 178.2089 - lr: 1.0000e-04
+Epoch 49/96
+12615/12621 [============================>.] - ETA: 0s - loss: 178.6445
+Epoch 00049: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.6509 - val_loss: 178.1650 - lr: 1.0000e-04
+Epoch 50/96
+12621/12621 [==============================] - ETA: 0s - loss: 178.6859
+Epoch 00050: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 76s 6ms/step - loss: 178.6859 - val_loss: 178.1914 - lr: 1.0000e-04
+Epoch 51/96
+12620/12621 [============================>.] - ETA: 0s - loss: 178.6393
+Epoch 00051: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.6469 - val_loss: 178.0981 - lr: 1.0000e-04
+Epoch 52/96
+12615/12621 [============================>.] - ETA: 0s - loss: 178.6786
+Epoch 00052: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.6695 - val_loss: 178.4129 - lr: 1.0000e-04
+Epoch 53/96
+12620/12621 [============================>.] - ETA: 0s - loss: 178.6794
+Epoch 00053: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.6834 - val_loss: 178.2522 - lr: 1.0000e-04
+Epoch 54/96
+12615/12621 [============================>.] - ETA: 0s - loss: 178.5777
+Epoch 00054: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.5787 - val_loss: 178.1200 - lr: 1.0000e-04
+Epoch 55/96
+12619/12621 [============================>.] - ETA: 0s - loss: 178.6832
+Epoch 00055: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.6875 - val_loss: 178.2617 - lr: 1.0000e-04
+Epoch 56/96
+12613/12621 [============================>.] - ETA: 0s - loss: 178.5602
+Epoch 00056: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.5656 - val_loss: 178.2842 - lr: 1.0000e-04
+Epoch 57/96
+12619/12621 [============================>.] - ETA: 0s - loss: 178.6408
+Epoch 00057: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.6375 - val_loss: 178.1780 - lr: 1.0000e-04
+Epoch 58/96
+12615/12621 [============================>.] - ETA: 0s - loss: 178.6587
+Epoch 00058: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.6636 - val_loss: 178.3972 - lr: 1.0000e-04
+Epoch 59/96
+12618/12621 [============================>.] - ETA: 0s - loss: 178.6760
+Epoch 00059: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.6823 - val_loss: 178.0816 - lr: 1.0000e-04
+Epoch 60/96
+12612/12621 [============================>.] - ETA: 0s - loss: 178.6134
+Epoch 00060: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.6151 - val_loss: 178.4606 - lr: 1.0000e-04
+Epoch 61/96
+12614/12621 [============================>.] - ETA: 0s - loss: 178.6293
+Epoch 00061: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.6277 - val_loss: 178.1267 - lr: 1.0000e-04
+Epoch 62/96
+12618/12621 [============================>.] - ETA: 0s - loss: 178.5842
+Epoch 00062: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.5773 - val_loss: 178.1021 - lr: 1.0000e-04
+Epoch 63/96
+12615/12621 [============================>.] - ETA: 0s - loss: 178.6127
+Epoch 00063: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.6202 - val_loss: 178.2755 - lr: 1.0000e-04
+Epoch 64/96
+12617/12621 [============================>.] - ETA: 0s - loss: 178.5450
+Epoch 00064: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.5436 - val_loss: 178.2710 - lr: 1.0000e-04
+Epoch 65/96
+12612/12621 [============================>.] - ETA: 0s - loss: 178.4970
+Epoch 00065: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.5002 - val_loss: 178.1843 - lr: 1.0000e-05
+Epoch 66/96
+12614/12621 [============================>.] - ETA: 0s - loss: 178.5238
+Epoch 00066: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.5352 - val_loss: 178.1667 - lr: 1.0000e-05
+Epoch 67/96
+12617/12621 [============================>.] - ETA: 0s - loss: 178.5226
+Epoch 00067: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.5246 - val_loss: 178.1454 - lr: 1.0000e-05
+Epoch 68/96
+12619/12621 [============================>.] - ETA: 0s - loss: 178.5175
+Epoch 00068: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.5144 - val_loss: 178.1721 - lr: 1.0000e-05
+Epoch 69/96
+12616/12621 [============================>.] - ETA: 0s - loss: 178.4140
+Epoch 00069: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4087 - val_loss: 178.0600 - lr: 1.0000e-05
+Epoch 70/96
+12614/12621 [============================>.] - ETA: 0s - loss: 178.4444
+Epoch 00070: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4406 - val_loss: 178.1211 - lr: 1.0000e-05
+Epoch 71/96
+12617/12621 [============================>.] - ETA: 0s - loss: 178.4954
+Epoch 00071: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 76s 6ms/step - loss: 178.4988 - val_loss: 178.1449 - lr: 1.0000e-05
+Epoch 72/96
+12612/12621 [============================>.] - ETA: 0s - loss: 178.4235
+Epoch 00072: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.4150 - val_loss: 178.0823 - lr: 1.0000e-05
+Epoch 73/96
+12611/12621 [============================>.] - ETA: 0s - loss: 178.4539
+Epoch 00073: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4670 - val_loss: 177.9732 - lr: 1.0000e-05
+Epoch 74/96
+12620/12621 [============================>.] - ETA: 0s - loss: 178.4892
+Epoch 00074: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4886 - val_loss: 178.1973 - lr: 1.0000e-05
+Epoch 75/96
+12613/12621 [============================>.] - ETA: 0s - loss: 178.5873
+Epoch 00075: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 76s 6ms/step - loss: 178.5792 - val_loss: 178.1343 - lr: 1.0000e-05
+Epoch 76/96
+12612/12621 [============================>.] - ETA: 0s - loss: 178.5169
+Epoch 00076: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.5086 - val_loss: 178.1122 - lr: 1.0000e-05
+Epoch 77/96
+12616/12621 [============================>.] - ETA: 0s - loss: 178.5017
+Epoch 00077: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4969 - val_loss: 178.1336 - lr: 1.0000e-05
+Epoch 78/96
+12611/12621 [============================>.] - ETA: 0s - loss: 178.5620
+Epoch 00078: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.5636 - val_loss: 178.0237 - lr: 1.0000e-05
+Epoch 79/96
+12619/12621 [============================>.] - ETA: 0s - loss: 178.4859
+Epoch 00079: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4878 - val_loss: 178.1714 - lr: 1.0000e-05
+Epoch 80/96
+12615/12621 [============================>.] - ETA: 0s - loss: 178.4395
+Epoch 00080: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4471 - val_loss: 178.0788 - lr: 1.0000e-05
+Epoch 81/96
+12614/12621 [============================>.] - ETA: 0s - loss: 178.4699
+Epoch 00081: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4727 - val_loss: 178.1740 - lr: 1.0000e-05
+Epoch 82/96
+12619/12621 [============================>.] - ETA: 0s - loss: 178.4198
+Epoch 00082: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.4243 - val_loss: 178.0749 - lr: 1.0000e-05
+Epoch 83/96
+12619/12621 [============================>.] - ETA: 0s - loss: 178.4733
+Epoch 00083: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4774 - val_loss: 178.0198 - lr: 1.0000e-05
+Epoch 84/96
+12621/12621 [==============================] - ETA: 0s - loss: 178.4545
+Epoch 00084: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4545 - val_loss: 178.2113 - lr: 1.0000e-05
+Epoch 85/96
+12617/12621 [============================>.] - ETA: 0s - loss: 178.4441
+Epoch 00085: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4470 - val_loss: 178.1330 - lr: 1.0000e-05
+Epoch 86/96
+12618/12621 [============================>.] - ETA: 0s - loss: 178.4917
+Epoch 00086: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 74s 6ms/step - loss: 178.4922 - val_loss: 178.0392 - lr: 1.0000e-05
+Epoch 87/96
+12617/12621 [============================>.] - ETA: 0s - loss: 178.4627
+Epoch 00087: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4545 - val_loss: 177.9753 - lr: 1.0000e-05
+Epoch 88/96
+12613/12621 [============================>.] - ETA: 0s - loss: 178.4874
+Epoch 00088: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 76s 6ms/step - loss: 178.4801 - val_loss: 178.0934 - lr: 1.0000e-05
+Epoch 89/96
+12618/12621 [============================>.] - ETA: 0s - loss: 178.4702
+Epoch 00089: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4709 - val_loss: 178.0646 - lr: 1.0000e-05
+Epoch 90/96
+12618/12621 [============================>.] - ETA: 0s - loss: 178.4157
+Epoch 00090: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4166 - val_loss: 178.1256 - lr: 1.0000e-05
+Epoch 91/96
+12612/12621 [============================>.] - ETA: 0s - loss: 178.4214
+Epoch 00091: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4201 - val_loss: 178.1838 - lr: 1.0000e-05
+Epoch 92/96
+12618/12621 [============================>.] - ETA: 0s - loss: 178.4838
+Epoch 00092: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4872 - val_loss: 178.0679 - lr: 1.0000e-05
+Epoch 93/96
+12615/12621 [============================>.] - ETA: 0s - loss: 178.4663
+Epoch 00093: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4747 - val_loss: 178.0004 - lr: 1.0000e-05
+Epoch 94/96
+12611/12621 [============================>.] - ETA: 0s - loss: 178.4503
+Epoch 00094: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4632 - val_loss: 178.0640 - lr: 1.0000e-05
+Epoch 95/96
+12621/12621 [==============================] - ETA: 0s - loss: 178.4674
+Epoch 00095: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4674 - val_loss: 177.9244 - lr: 1.0000e-05
+Epoch 96/96
+12613/12621 [============================>.] - ETA: 0s - loss: 178.4401
+Epoch 00096: saving model to gdrive/My Drive/Colab Notebooks/GR-TrainModel/Checkpoint/cp.ckpt
+12621/12621 [==============================] - 75s 6ms/step - loss: 178.4557 - val_loss: 178.0975 - lr: 1.0000e-05

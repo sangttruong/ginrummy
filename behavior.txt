@@ -1,0 +1,2297 @@
+
+
+SIMPLE ===============================
+Player 0 is dealt [7S, QH, KD, 2D, 7D, JC, 7C, 3H, KS, 6D].
+Player 1 is dealt [3C, 9S, TS, TC, TH, 4H, 3D, 8C, 4D, 5D].
+Player 1 starts.
+The initial face up card is 6S.
+Player 1 declines 6S.
+Player 0 declines 6S.
+Player 1 draws QD.
+1
+Player 1 discards QD.
+Player 1 has [[3D, 4D, 5D], [TC, TH, TS], [3C, 9S, 4H, 8C]] with 24 deadwood.
+Player 0 draws 5C.
+4
+Player 0 discards JC.
+Player 0 has [[7C, 7S, 7D], [QH, KD, 2D, 3H, KS, 6D, 5C]] with 46 deadwood.
+Player 1 draws 8D.
+1
+Player 1 discards 9S.
+Player 1 has [[3D, 4D, 5D], [TC, TH, TS], [3C, 4H, 8C, 8D]] with 23 deadwood.
+Player 0 draws 7H.
+3
+Player 0 discards KD.
+Player 0 has [[7C, 7H, 7S, 7D], [QH, 2D, 3H, KS, 6D, 5C]] with 36 deadwood.
+Player 1 draws AS.
+2
+Player 1 discards 8D.
+Player 1 has [[3D, 4D, 5D], [TC, TH, TS], [3C, 4H, 8C, AS]] with 16 deadwood.
+Player 0 draws 8D.
+2
+Player 0 discards KS.
+Player 0 has [[6D, 7D, 8D], [7C, 7H, 7S], [QH, 2D, 3H, 5C]] with 20 deadwood.
+Player 1 draws KH.
+1
+Player 1 discards KH.
+Player 1 has [[3D, 4D, 5D], [TC, TH, TS], [3C, 4H, 8C, AS]] with 16 deadwood.
+Player 0 draws 2C.
+1
+Player 0 discards QH.
+Player 0 has [[6D, 7D, 8D], [7C, 7H, 7S], [2D, 3H, 5C, 2C]] with 12 deadwood.
+Player 1 draws 5H.
+1
+Player 1 discards 8C.
+Player 1 has [[3D, 4D, 5D], [TC, TH, TS], [3C, 4H, AS, 5H]] with 13 deadwood.
+Player 0 draws 9H.
+1
+Player 0 discards 9H.
+Player 0 has [[6D, 7D, 8D], [7C, 7H, 7S], [2D, 3H, 5C, 2C]] with 12 deadwood.
+Player 1 draws 6H.
+1
+Player 1 discards 3C.
+Player 1 has [[4H, 5H, 6H], [3D, 4D, 5D], [TC, TH, TS], [AS]] with 1 deadwood.
+Player 1 melds [[4H, 5H, 6H], [3D, 4D, 5D], [TC, TH, TS]] with 1 deadwood from [AS].
+Player 0 melds [[6D, 7D, 8D], [7C, 7H, 7S]].
+Player 0 lays off 3H on [4H, 5H, 6H].
+Player 0 lays off 2D on [3D, 4D, 5D].
+Player 0 has 7 deadwood with [2C, 5C]
+Player 1 scores the deadwood difference of 6.
+Player	Score
+0	0
+1	6
+Player 0 is dealt [2D, 4C, TH, 2C, 3H, 9D, 3D, 9S, JC, 8H].
+Player 1 is dealt [3S, KC, 8S, JH, JD, TD, QC, 2S, TS, 6H].
+Player 0 starts.
+The initial face up card is 3C.
+Player 0 draws 3C.
+2
+Player 0 discards JC.
+Player 0 has [[2C, 3C, 4C], [2D, TH, 3H, 9D, 3D, 9S, 8H]] with 44 deadwood.
+Player 1 draws JC.
+6
+Player 1 discards QC.
+Player 1 has [[JC, JH, JD], [3S, KC, 8S, TD, 2S, TS, 6H]] with 49 deadwood.
+Player 0 draws KS.
+2
+Player 0 discards TH.
+Player 0 has [[2C, 3C, 4C], [2D, 3H, 9D, 3D, 9S, 8H, KS]] with 44 deadwood.
+Player 1 draws TH.
+1
+Player 1 discards KC.
+Player 1 has [[TH, TS, TD], [JC, JH, JD], [3S, 8S, 2S, 6H]] with 19 deadwood.
+Player 0 draws 7C.
+1
+Player 0 discards KS.
+Player 0 has [[2C, 3C, 4C], [2D, 3H, 9D, 3D, 9S, 8H, 7C]] with 41 deadwood.
+Player 1 draws 5S.
+1
+Player 1 discards 8S.
+Player 1 has [[TH, TS, TD], [JC, JH, JD], [3S, 2S, 6H, 5S]] with 16 deadwood.
+Player 0 draws QS.
+1
+Player 0 discards QS.
+Player 0 has [[2C, 3C, 4C], [2D, 3H, 9D, 3D, 9S, 8H, 7C]] with 41 deadwood.
+Player 1 draws QH.
+1
+Player 1 discards QH.
+Player 1 has [[TH, TS, TD], [JC, JH, JD], [3S, 2S, 6H, 5S]] with 16 deadwood.
+Player 0 draws 8D.
+2
+Player 0 discards 9D.
+Player 0 has [[2C, 3C, 4C], [2D, 3H, 3D, 9S, 8H, 7C, 8D]] with 40 deadwood.
+Player 1 draws 9D.
+1
+Player 1 discards 6H.
+Player 1 has [[TH, TS, TD], [JC, JH, JD], [3S, 2S, 5S, 9D]] with 19 deadwood.
+Player 0 draws 2H.
+1
+Player 0 discards 9S.
+Player 0 has [[2C, 2H, 2D], [3C, 3H, 3D], [4C, 8H, 7C, 8D]] with 27 deadwood.
+Player 1 draws 6D.
+1
+Player 1 discards 9D.
+Player 1 has [[TH, TS, TD], [JC, JH, JD], [3S, 2S, 5S, 6D]] with 16 deadwood.
+Player 0 draws KH.
+1
+Player 0 discards KH.
+Player 0 has [[2C, 2H, 2D], [3C, 3H, 3D], [4C, 8H, 7C, 8D]] with 27 deadwood.
+Player 1 draws 9C.
+1
+Player 1 discards 9C.
+Player 1 has [[TH, TS, TD], [JC, JH, JD], [3S, 2S, 5S, 6D]] with 16 deadwood.
+Player 0 draws AD.
+2
+Player 0 discards 8D.
+Player 0 has [[2C, 3C, 4C], [AD, 2D, 3D], [3H, 8H, 7C, 2H]] with 20 deadwood.
+Player 1 draws 4H.
+1
+Player 1 discards 6D.
+Player 1 has [[TH, TS, TD], [JC, JH, JD], [3S, 2S, 5S, 4H]] with 14 deadwood.
+Player 0 draws AH.
+1
+Player 0 discards 8H.
+Player 0 has [[2C, 3C, 4C], [AH, 2H, 3H], [AD, 2D, 3D], [7C]] with 7 deadwood.
+Player 0 melds [[2C, 3C, 4C], [AH, 2H, 3H], [AD, 2D, 3D]] with 7 deadwood from [7C].
+Player 1 melds [[TH, TS, TD], [JC, JH, JD]].
+Player 1 lays off 4H on [AH, 2H, 3H].
+Player 1 has 10 deadwood with [2S, 3S, 5S]
+Player 0 scores the deadwood difference of 3.
+Player	Score
+0	3
+1	6
+Player 0 is dealt [3C, 9S, KH, TC, 3S, 6C, QH, QS, JC, AD].
+Player 1 is dealt [2H, 5H, 7D, 4H, 9D, QD, 6S, 8H, 8S, 6D].
+Player 1 starts.
+The initial face up card is 5C.
+Player 1 declines 5C.
+Player 0 declines 5C.
+Player 1 draws 8D.
+1
+Player 1 discards QD.
+Player 1 has [[6D, 7D, 8D, 9D], [2H, 5H, 4H, 6S, 8H, 8S]] with 33 deadwood.
+Player 0 draws QD.
+3
+Player 0 discards TC.
+Player 0 has [[QH, QS, QD], [3C, 9S, KH, 3S, 6C, JC, AD]] with 42 deadwood.
+Player 1 draws 5S.
+2
+Player 1 discards 8S.
+Player 1 has [[6D, 7D, 8D, 9D], [2H, 5H, 4H, 6S, 8H, 5S]] with 30 deadwood.
+Player 0 draws TD.
+3
+Player 0 discards KH.
+Player 0 has [[QH, QS, QD], [3C, 9S, 3S, 6C, JC, AD, TD]] with 42 deadwood.
+Player 1 draws 2S.
+1
+Player 1 discards 8H.
+Player 1 has [[6D, 7D, 8D, 9D], [2H, 5H, 4H, 6S, 5S, 2S]] with 24 deadwood.
+Player 0 draws 8C.
+2
+Player 0 discards TD.
+Player 0 has [[QH, QS, QD], [3C, 9S, 3S, 6C, JC, AD, 8C]] with 40 deadwood.
+Player 1 draws TD.
+1
+Player 1 discards 6S.
+Player 1 has [[6D, 7D, 8D, 9D, TD], [2H, 5H, 4H, 5S, 2S]] with 18 deadwood.
+Player 0 draws 2D.
+1
+Player 0 discards JC.
+Player 0 has [[QH, QS, QD], [3C, 9S, 3S, 6C, AD, 8C, 2D]] with 32 deadwood.
+Player 1 draws 9H.
+1
+Player 1 discards 9H.
+Player 1 has [[6D, 7D, 8D, 9D, TD], [2H, 5H, 4H, 5S, 2S]] with 18 deadwood.
+Player 0 draws AS.
+1
+Player 0 discards 9S.
+Player 0 has [[QH, QS, QD], [3C, 3S, 6C, AD, 8C, 2D, AS]] with 24 deadwood.
+Player 1 draws 4C.
+2
+Player 1 discards 5S.
+Player 1 has [[6D, 7D, 8D, 9D, TD], [2H, 5H, 4H, 2S, 4C]] with 17 deadwood.
+Player 0 draws 3H.
+1
+Player 0 discards 8C.
+Player 0 has [[3C, 3H, 3S], [QH, QS, QD], [6C, AD, 2D, AS]] with 10 deadwood.
+Player 0 melds [[3C, 3H, 3S], [QH, QS, QD]] with 10 deadwood from [6C, AS, AD, 2D].
+Player 1 melds [[6D, 7D, 8D, 9D, TD]].
+Player 1 has 17 deadwood with [4C, 2H, 4H, 5H, 2S]
+Player 0 scores the deadwood difference of 7.
+Player	Score
+0	10
+1	6
+Player 0 is dealt [6H, QC, 5H, 2H, KC, 6D, AS, 2S, AH, QH].
+Player 1 is dealt [KD, 5C, JC, QS, 5D, 4H, 8S, TH, KH, 9S].
+Player 0 starts.
+The initial face up card is 8H.
+Player 0 declines 8H.
+Player 1 declines 8H.
+Player 0 draws AC.
+3
+Player 0 discards KC.
+Player 0 has [[AC, AH, AS], [6H, QC, 5H, 2H, 6D, 2S, QH]] with 41 deadwood.
+Player 1 draws KC.
+3
+Player 1 discards QS.
+Player 1 has [[KC, KH, KD], [5C, JC, 5D, 4H, 8S, TH, 9S]] with 51 deadwood.
+Player 0 draws QS.
+2
+Player 0 discards 6D.
+Player 0 has [[AC, AH, AS], [QC, QH, QS], [6H, 5H, 2H, 2S]] with 15 deadwood.
+Player 1 draws 2C.
+2
+Player 1 discards TH.
+Player 1 has [[KC, KH, KD], [5C, JC, 5D, 4H, 8S, 9S, 2C]] with 43 deadwood.
+Player 0 draws 4S.
+1
+Player 0 discards 6H.
+Player 0 has [[AC, AH, AS], [QC, QH, QS], [5H, 2H, 2S, 4S]] with 13 deadwood.
+Player 1 draws 2D.
+1
+Player 1 discards JC.
+Player 1 has [[KC, KH, KD], [5C, 5D, 4H, 8S, 9S, 2C, 2D]] with 35 deadwood.
+Player 0 draws TC.
+1
+Player 0 discards TC.
+Player 0 has [[AC, AH, AS], [QC, QH, QS], [5H, 2H, 2S, 4S]] with 13 deadwood.
+Player 1 draws KS.
+1
+Player 1 discards 9S.
+Player 1 has [[KC, KH, KS, KD], [5C, 5D, 4H, 8S, 2C, 2D]] with 26 deadwood.
+Player 0 draws TS.
+1
+Player 0 discards TS.
+Player 0 has [[AC, AH, AS], [QC, QH, QS], [5H, 2H, 2S, 4S]] with 13 deadwood.
+Player 1 draws TD.
+1
+Player 1 discards TD.
+Player 1 has [[KC, KH, KS, KD], [5C, 5D, 4H, 8S, 2C, 2D]] with 26 deadwood.
+Player 0 draws 9H.
+1
+Player 0 discards 9H.
+Player 0 has [[AC, AH, AS], [QC, QH, QS], [5H, 2H, 2S, 4S]] with 13 deadwood.
+Player 1 draws 7D.
+1
+Player 1 discards 8S.
+Player 1 has [[KC, KH, KS, KD], [5C, 5D, 4H, 2C, 2D, 7D]] with 25 deadwood.
+Player 0 draws 7C.
+1
+Player 0 discards 7C.
+Player 0 has [[AC, AH, AS], [QC, QH, QS], [5H, 2H, 2S, 4S]] with 13 deadwood.
+Player 1 draws 6C.
+1
+Player 1 discards 7D.
+Player 1 has [[KC, KH, KS, KD], [5C, 5D, 4H, 2C, 2D, 6C]] with 24 deadwood.
+Player 0 draws 3D.
+1
+Player 0 discards 5H.
+Player 0 has [[AC, AH, AS], [QC, QH, QS], [2H, 2S, 4S, 3D]] with 11 deadwood.
+Player 1 draws 5H.
+1
+Player 1 discards 6C.
+Player 1 has [[5C, 5H, 5D], [KC, KH, KS, KD], [4H, 2C, 2D]] with 8 deadwood.
+Player 1 melds [[5C, 5H, 5D], [KC, KH, KS, KD]] with 8 deadwood from [2C, 4H, 2D].
+Player 0 melds [[AC, AH, AS], [QC, QH, QS]].
+Player 0 has 11 deadwood with [2H, 2S, 4S, 3D]
+Player 1 scores the deadwood difference of 3.
+Player	Score
+0	10
+1	9
+Player 0 is dealt [2C, AC, 3S, KS, 8S, 9H, KH, 4C, KD, JC].
+Player 1 is dealt [6S, TC, TH, 9C, QC, 6C, 5C, 3C, 5H, AS].
+Player 1 starts.
+The initial face up card is QS.
+Player 1 declines QS.
+Player 0 declines QS.
+Player 1 draws 7H.
+3
+Player 1 discards TC.
+Player 1 has [6S, TH, 9C, QC, 6C, 5C, 3C, 5H, AS, 7H] with 62 deadwood.
+Player 0 draws 4H.
+1
+Player 0 discards JC.
+Player 0 has [[KH, KS, KD], [2C, AC, 3S, 8S, 9H, 4C, 4H]] with 31 deadwood.
+Player 1 draws 6D.
+2
+Player 1 discards TH.
+Player 1 has [[6C, 6S, 6D], [9C, QC, 5C, 3C, 5H, AS, 7H]] with 40 deadwood.
+Player 0 draws QD.
+1
+Player 0 discards QD.
+Player 0 has [[KH, KS, KD], [2C, AC, 3S, 8S, 9H, 4C, 4H]] with 31 deadwood.
+Player 1 draws JH.
+2
+Player 1 discards JH.
+Player 1 has [[6C, 6S, 6D], [9C, QC, 5C, 3C, 5H, AS, 7H]] with 40 deadwood.
+Player 0 draws 5D.
+1
+Player 0 discards 9H.
+Player 0 has [[KH, KS, KD], [2C, AC, 3S, 8S, 4C, 4H, 5D]] with 27 deadwood.
+Player 1 draws 2D.
+1
+Player 1 discards QC.
+Player 1 has [[6C, 6S, 6D], [9C, 5C, 3C, 5H, AS, 7H, 2D]] with 32 deadwood.
+Player 0 draws 4D.
+1
+Player 0 discards 8S.
+Player 0 has [[4C, 4H, 4D], [KH, KS, KD], [2C, AC, 3S, 5D]] with 11 deadwood.
+Player 1 draws 8H.
+1
+Player 1 discards 9C.
+Player 1 has [[6C, 6S, 6D], [5C, 3C, 5H, AS, 7H, 2D, 8H]] with 31 deadwood.
+Player 0 draws 6H.
+1
+Player 0 discards 6H.
+Player 0 has [[4C, 4H, 4D], [KH, KS, KD], [2C, AC, 3S, 5D]] with 11 deadwood.
+Player 1 draws 6H.
+1
+Player 1 discards 5C.
+Player 1 has [[6C, 6S, 6D], [5H, 6H, 7H, 8H], [3C, AS, 2D]] with 6 deadwood.
+Player 1 melds [[6C, 6S, 6D], [5H, 6H, 7H, 8H]] with 6 deadwood from [3C, AS, 2D].
+Player 0 melds [[4C, 4H, 4D], [KH, KS, KD]].
+Player 0 has 11 deadwood with [AC, 2C, 3S, 5D]
+Player 1 scores the deadwood difference of 5.
+Player	Score
+0	10
+1	14
+Player 0 is dealt [8H, TC, 7C, 3H, 4H, 9C, 3S, 5S, 9H, QH].
+Player 1 is dealt [2D, JS, JD, 9S, 6H, 8C, 9D, 6C, AD, 8D].
+Player 0 starts.
+The initial face up card is KS.
+Player 0 declines KS.
+Player 1 declines KS.
+Player 0 draws 3D.
+2
+Player 0 discards TC.
+Player 0 has [[3H, 3S, 3D], [8H, 7C, 4H, 9C, 5S, 9H, QH]] with 52 deadwood.
+Player 1 draws QS.
+3
+Player 1 discards JD.
+Player 1 has [2D, JS, 9S, 6H, 8C, 9D, 6C, AD, 8D, QS] with 69 deadwood.
+Player 0 draws 5C.
+1
+Player 0 discards QH.
+Player 0 has [[3H, 3S, 3D], [8H, 7C, 4H, 9C, 5S, 9H, 5C]] with 47 deadwood.
+Player 1 draws 4D.
+2
+Player 1 discards QS.
+Player 1 has [2D, JS, 9S, 6H, 8C, 9D, 6C, AD, 8D, 4D] with 63 deadwood.
+Player 0 draws 6D.
+2
+Player 0 discards 9H.
+Player 0 has [[3H, 3S, 3D], [8H, 7C, 4H, 9C, 5S, 5C, 6D]] with 44 deadwood.
+Player 1 draws 9H.
+1
+Player 1 discards JS.
+Player 1 has [[9H, 9S, 9D], [2D, 6H, 8C, 6C, AD, 8D, 4D]] with 35 deadwood.
+Player 0 draws JC.
+1
+Player 0 discards JC.
+Player 0 has [[3H, 3S, 3D], [8H, 7C, 4H, 9C, 5S, 5C, 6D]] with 44 deadwood.
+Player 1 draws 7D.
+2
+Player 1 discards 8D.
+Player 1 has [[9H, 9S, 9D], [2D, 6H, 8C, 6C, AD, 4D, 7D]] with 34 deadwood.
+Player 0 draws TH.
+1
+Player 0 discards TH.
+Player 0 has [[3H, 3S, 3D], [8H, 7C, 4H, 9C, 5S, 5C, 6D]] with 44 deadwood.
+Player 1 draws 3C.
+1
+Player 1 discards 8C.
+Player 1 has [[9H, 9S, 9D], [2D, 6H, 6C, AD, 4D, 7D, 3C]] with 29 deadwood.
+Player 0 draws 8C.
+1
+Player 0 discards 8H.
+Player 0 has [[7C, 8C, 9C], [3H, 3S, 3D], [4H, 5S, 5C, 6D]] with 20 deadwood.
+Player 1 draws 5D.
+1
+Player 1 discards 7D.
+Player 1 has [[9H, 9S, 9D], [2D, 6H, 6C, AD, 4D, 3C, 5D]] with 27 deadwood.
+Player 0 draws KD.
+1
+Player 0 discards KD.
+Player 0 has [[7C, 8C, 9C], [3H, 3S, 3D], [4H, 5S, 5C, 6D]] with 20 deadwood.
+Player 1 draws QC.
+1
+Player 1 discards QC.
+Player 1 has [[9H, 9S, 9D], [2D, 6H, 6C, AD, 4D, 3C, 5D]] with 27 deadwood.
+Player 0 draws 6S.
+2
+Player 0 discards 6D.
+Player 0 has [[7C, 8C, 9C], [3H, 3S, 3D], [4H, 5S, 5C, 6S]] with 20 deadwood.
+Player 1 draws 6D.
+1
+Player 1 discards 5D.
+Player 1 has [[6C, 6H, 6D], [9H, 9S, 9D], [2D, AD, 4D, 3C]] with 10 deadwood.
+Player 1 melds [[6C, 6H, 6D], [9H, 9S, 9D]] with 10 deadwood from [3C, AD, 2D, 4D].
+Player 0 melds [[7C, 8C, 9C], [3H, 3S, 3D]].
+Player 0 lays off 6S on [6C, 6H, 6D].
+Player 0 has 14 deadwood with [5C, 4H, 5S]
+Player 1 scores the deadwood difference of 4.
+Player	Score
+0	10
+1	18
+Player 0 is dealt [TS, 7C, QH, 6C, 8C, 3C, 9S, 2S, 9C, AD].
+Player 1 is dealt [8H, KD, 2H, JH, 3H, JC, 8S, JD, 3S, 5C].
+Player 1 starts.
+The initial face up card is 4C.
+Player 1 declines 4C.
+Player 0 declines 4C.
+Player 1 draws 6H.
+1
+Player 1 discards KD.
+Player 1 has [[JC, JH, JD], [8H, 2H, 3H, 8S, 3S, 5C, 6H]] with 35 deadwood.
+Player 0 draws QC.
+3
+Player 0 discards QC.
+Player 0 has [[6C, 7C, 8C, 9C], [TS, QH, 3C, 9S, 2S, AD]] with 35 deadwood.
+Player 1 draws 2D.
+2
+Player 1 discards 8S.
+Player 1 has [[JC, JH, JD], [8H, 2H, 3H, 3S, 5C, 6H, 2D]] with 29 deadwood.
+Player 0 draws 8S.
+1
+Player 0 discards QH.
+Player 0 has [[6C, 7C, 8C, 9C], [8S, 9S, TS], [3C, 2S, AD]] with 6 deadwood.
+Player 0 melds [[6C, 7C, 8C, 9C], [8S, 9S, TS]] with 6 deadwood from [3C, 2S, AD].
+Player 1 melds [[JC, JH, JD]].
+Player 1 lays off 5C on [6C, 7C, 8C, 9C].
+Player 1 has 24 deadwood with [2H, 3H, 6H, 8H, 3S, 2D]
+Player 0 scores the deadwood difference of 18.
+Player	Score
+0	28
+1	18
+Player 0 is dealt [QH, QC, 2H, 4D, 6S, 6D, 4C, 5H, 3C, 7C].
+Player 1 is dealt [2D, JC, AC, 4H, JD, 9D, KH, QD, JS, 5D].
+Player 0 starts.
+The initial face up card is 2C.
+Player 0 draws 2C.
+2
+Player 0 discards QH.
+Player 0 has [[2C, 3C, 4C], [QC, 2H, 4D, 6S, 6D, 5H, 7C]] with 40 deadwood.
+Player 1 draws 7H.
+2
+Player 1 discards QD.
+Player 1 has [[JC, JS, JD], [2D, AC, 4H, 9D, KH, 5D, 7H]] with 38 deadwood.
+Player 0 draws 6H.
+1
+Player 0 discards QC.
+Player 0 has [[2C, 3C, 4C], [6H, 6S, 6D], [2H, 4D, 5H, 7C]] with 18 deadwood.
+Player 1 draws TC.
+2
+Player 1 discards KH.
+Player 1 has [[JC, JS, JD], [2D, AC, 4H, 9D, 5D, 7H, TC]] with 38 deadwood.
+Player 0 draws QS.
+1
+Player 0 discards QS.
+Player 0 has [[2C, 3C, 4C], [6H, 6S, 6D], [2H, 4D, 5H, 7C]] with 18 deadwood.
+Player 1 draws 8D.
+1
+Player 1 discards TC.
+Player 1 has [[JC, JS, JD], [2D, AC, 4H, 9D, 5D, 7H, 8D]] with 36 deadwood.
+Player 0 draws 9H.
+1
+Player 0 discards 9H.
+Player 0 has [[2C, 3C, 4C], [6H, 6S, 6D], [2H, 4D, 5H, 7C]] with 18 deadwood.
+Player 1 draws 6C.
+1
+Player 1 discards 9D.
+Player 1 has [[JC, JS, JD], [2D, AC, 4H, 5D, 7H, 8D, 6C]] with 33 deadwood.
+Player 0 draws 3D.
+1
+Player 0 discards 7C.
+Player 0 has [[2C, 3C, 4C], [6H, 6S, 6D], [2H, 4D, 5H, 3D]] with 14 deadwood.
+Player 1 draws 8C.
+2
+Player 1 discards 8D.
+Player 1 has [[JC, JS, JD], [2D, AC, 4H, 5D, 7H, 6C, 8C]] with 33 deadwood.
+Player 0 draws TD.
+1
+Player 0 discards TD.
+Player 0 has [[2C, 3C, 4C], [6H, 6S, 6D], [2H, 4D, 5H, 3D]] with 14 deadwood.
+Player 1 draws AS.
+1
+Player 1 discards 8C.
+Player 1 has [[JC, JS, JD], [2D, AC, 4H, 5D, 7H, 6C, AS]] with 26 deadwood.
+Player 0 draws KC.
+1
+Player 0 discards KC.
+Player 0 has [[2C, 3C, 4C], [6H, 6S, 6D], [2H, 4D, 5H, 3D]] with 14 deadwood.
+Player 1 draws 7D.
+2
+Player 1 discards 7H.
+Player 1 has [[JC, JS, JD], [2D, AC, 4H, 5D, 6C, AS, 7D]] with 26 deadwood.
+Player 0 draws 7H.
+2
+Player 0 discards 6S.
+Player 0 has [[2C, 3C, 4C], [5H, 6H, 7H], [2H, 4D, 6D, 3D]] with 15 deadwood.
+Player 1 draws TS.
+1
+Player 1 discards TS.
+Player 1 has [[JC, JS, JD], [2D, AC, 4H, 5D, 6C, AS, 7D]] with 26 deadwood.
+Player 0 draws 8S.
+1
+Player 0 discards 8S.
+Player 0 has [[2C, 3C, 4C], [5H, 6H, 7H], [2H, 4D, 6D, 3D]] with 15 deadwood.
+Player 1 draws 4S.
+1
+Player 1 discards 7D.
+Player 1 has [[JC, JS, JD], [2D, AC, 4H, 5D, 6C, AS, 4S]] with 23 deadwood.
+Player 0 draws 9S.
+1
+Player 0 discards 9S.
+Player 0 has [[2C, 3C, 4C], [5H, 6H, 7H], [2H, 4D, 6D, 3D]] with 15 deadwood.
+Player 1 draws 8H.
+1
+Player 1 discards 8H.
+Player 1 has [[JC, JS, JD], [2D, AC, 4H, 5D, 6C, AS, 4S]] with 23 deadwood.
+Player 0 draws 8H.
+1
+Player 0 discards 6D.
+Player 0 has [[2C, 3C, 4C], [5H, 6H, 7H, 8H], [2H, 4D, 3D]] with 9 deadwood.
+Player 0 melds [[2C, 3C, 4C], [5H, 6H, 7H, 8H]] with 9 deadwood from [2H, 3D, 4D].
+Player 1 melds [[JC, JS, JD]].
+Player 1 lays off AC on [2C, 3C, 4C].
+Player 1 lays off 4H on [5H, 6H, 7H, 8H].
+Player 1 has 18 deadwood with [6C, AS, 4S, 2D, 5D]
+Player 0 scores the deadwood difference of 9.
+Player	Score
+0	37
+1	18
+Player 0 is dealt [2H, QS, AS, 3D, 9S, 8S, 5S, TS, AH, KC].
+Player 1 is dealt [JD, 5C, TC, 3S, QH, 4D, 4C, TD, 3H, 6D].
+Player 1 starts.
+The initial face up card is KH.
+Player 1 declines KH.
+Player 0 declines KH.
+Player 1 draws 8H.
+4
+Player 1 discards QH.
+Player 1 has [JD, 5C, TC, 3S, 4D, 4C, TD, 3H, 6D, 8H] with 63 deadwood.
+Player 0 draws KD.
+3
+Player 0 discards QS.
+Player 0 has [[8S, 9S, TS], [2H, AS, 3D, 5S, AH, KC, KD]] with 32 deadwood.
+Player 1 draws JS.
+4
+Player 1 discards JS.
+Player 1 has [JD, 5C, TC, 3S, 4D, 4C, TD, 3H, 6D, 8H] with 63 deadwood.
+Player 0 draws JS.
+2
+Player 0 discards KD.
+Player 0 has [[8S, 9S, TS, JS], [2H, AS, 3D, 5S, AH, KC]] with 22 deadwood.
+Player 1 draws QD.
+1
+Player 1 discards TC.
+Player 1 has [[TD, JD, QD], [5C, 3S, 4D, 4C, 3H, 6D, 8H]] with 33 deadwood.
+Player 0 draws JC.
+2
+Player 0 discards JC.
+Player 0 has [[8S, 9S, TS, JS], [2H, AS, 3D, 5S, AH, KC]] with 22 deadwood.
+Player 1 draws 7S.
+1
+Player 1 discards 8H.
+Player 1 has [[TD, JD, QD], [5C, 3S, 4D, 4C, 3H, 6D, 7S]] with 32 deadwood.
+Player 0 draws AC.
+1
+Player 0 discards KC.
+Player 0 has [[8S, 9S, TS, JS], [AC, AH, AS], [2H, 3D, 5S]] with 10 deadwood.
+Player 0 melds [[8S, 9S, TS, JS], [AC, AH, AS]] with 10 deadwood from [2H, 5S, 3D].
+Player 1 melds [[TD, JD, QD]].
+Player 1 lays off 7S on [8S, 9S, TS, JS].
+Player 1 has 25 deadwood with [4C, 5C, 3H, 3S, 4D, 6D]
+Player 0 scores the deadwood difference of 15.
+Player	Score
+0	52
+1	18
+Player 0 is dealt [AS, 4C, AH, TD, KC, 8D, 7S, 5D, 2H, 7C].
+Player 1 is dealt [9C, JH, 9H, 7D, QS, 2C, 4D, TH, JC, KD].
+Player 0 starts.
+The initial face up card is 8S.
+Player 0 declines 8S.
+Player 1 declines 8S.
+Player 0 draws TS.
+3
+Player 0 discards TD.
+Player 0 has [AS, 4C, AH, KC, 8D, 7S, 5D, 2H, 7C, TS] with 55 deadwood.
+Player 1 draws 8H.
+3
+Player 1 discards QS.
+Player 1 has [[8H, 9H, TH, JH], [9C, 7D, 2C, 4D, JC, KD]] with 42 deadwood.
+Player 0 draws QC.
+3
+Player 0 discards KC.
+Player 0 has [AS, 4C, AH, 8D, 7S, 5D, 2H, 7C, TS, QC] with 55 deadwood.
+Player 1 draws QD.
+3
+Player 1 discards JC.
+Player 1 has [[8H, 9H, TH, JH], [9C, 7D, 2C, 4D, KD, QD]] with 42 deadwood.
+Player 0 draws AD.
+2
+Player 0 discards TS.
+Player 0 has [[AH, AS, AD], [4C, 8D, 7S, 5D, 2H, 7C, QC]] with 43 deadwood.
+Player 1 draws 9D.
+2
+Player 1 discards KD.
+Player 1 has [[8H, 9H, TH, JH], [9C, 7D, 2C, 4D, QD, 9D]] with 41 deadwood.
+Player 0 draws JD.
+2
+Player 0 discards QC.
+Player 0 has [[AH, AS, AD], [4C, 8D, 7S, 5D, 2H, 7C, JD]] with 43 deadwood.
+Player 1 draws 7H.
+1
+Player 1 discards QD.
+Player 1 has [[7H, 8H, 9H, TH, JH], [9C, 7D, 2C, 4D, 9D]] with 31 deadwood.
+Player 0 draws QH.
+2
+Player 0 discards QH.
+Player 0 has [[AH, AS, AD], [4C, 8D, 7S, 5D, 2H, 7C, JD]] with 43 deadwood.
+Player 1 draws QH.
+1
+Player 1 discards 8H.
+Player 1 has [[TH, JH, QH], [9C, 9H, 9D], [7D, 2C, 4D, 7H]] with 20 deadwood.
+Player 0 draws 8C.
+1
+Player 0 discards JD.
+Player 0 has [[AH, AS, AD], [4C, 8D, 7S, 5D, 2H, 7C, 8C]] with 41 deadwood.
+Player 1 draws 3S.
+2
+Player 1 discards 7H.
+Player 1 has [[TH, JH, QH], [9C, 9H, 9D], [7D, 2C, 4D, 3S]] with 16 deadwood.
+Player 0 draws 7H.
+2
+Player 0 discards 8D.
+Player 0 has [[AH, AS, AD], [7C, 7H, 7S], [4C, 5D, 2H, 8C]] with 19 deadwood.
+Player 1 draws 8D.
+1
+Player 1 discards 9C.
+Player 1 has [[9H, TH, JH, QH], [7D, 8D, 9D], [2C, 4D, 3S]] with 9 deadwood.
+Player 1 melds [[9H, TH, JH, QH], [7D, 8D, 9D]] with 9 deadwood from [2C, 3S, 4D].
+Player 0 melds [[AH, AS, AD], [7C, 7H, 7S]].
+Player 0 has 19 deadwood with [4C, 8C, 2H, 5D]
+Player 1 scores the deadwood difference of 10.
+Player	Score
+0	52
+1	28
+Player 0 is dealt [4S, 8S, QH, 5C, 3S, KH, KC, AS, KD, 4D].
+Player 1 is dealt [9C, AH, 3D, JS, 6H, 9H, 5D, 4H, 7S, 7D].
+Player 1 starts.
+The initial face up card is TS.
+Player 1 declines TS.
+Player 0 declines TS.
+Player 1 draws 3C.
+1
+Player 1 discards JS.
+Player 1 has [9C, AH, 3D, 6H, 9H, 5D, 4H, 7S, 7D, 3C] with 54 deadwood.
+Player 0 draws 7H.
+1
+Player 0 discards QH.
+Player 0 has [[KC, KH, KD], [4S, 8S, 5C, 3S, AS, 4D, 7H]] with 32 deadwood.
+Player 1 draws 2D.
+2
+Player 1 discards 9H.
+Player 1 has [9C, AH, 3D, 6H, 5D, 4H, 7S, 7D, 3C, 2D] with 47 deadwood.
+Player 0 draws QC.
+1
+Player 0 discards QC.
+Player 0 has [[KC, KH, KD], [4S, 8S, 5C, 3S, AS, 4D, 7H]] with 32 deadwood.
+Player 1 draws 8D.
+1
+Player 1 discards 9C.
+Player 1 has [AH, 3D, 6H, 5D, 4H, 7S, 7D, 3C, 2D, 8D] with 46 deadwood.
+Player 0 draws 3H.
+1
+Player 0 discards 8S.
+Player 0 has [[KC, KH, KD], [4S, 5C, 3S, AS, 4D, 7H, 3H]] with 27 deadwood.
+Player 1 draws AD.
+1
+Player 1 discards 8D.
+Player 1 has [[AD, 2D, 3D], [AH, 6H, 5D, 4H, 7S, 7D, 3C]] with 33 deadwood.
+Player 0 draws 7C.
+2
+Player 0 discards 7H.
+Player 0 has [[KC, KH, KD], [4S, 5C, 3S, AS, 4D, 3H, 7C]] with 27 deadwood.
+Player 1 draws 7H.
+1
+Player 1 discards 6H.
+Player 1 has [[AD, 2D, 3D], [7H, 7S, 7D], [AH, 5D, 4H, 3C]] with 13 deadwood.
+Player 0 draws 9D.
+1
+Player 0 discards 9D.
+Player 0 has [[KC, KH, KD], [4S, 5C, 3S, AS, 4D, 3H, 7C]] with 27 deadwood.
+Player 1 draws 9S.
+1
+Player 1 discards 9S.
+Player 1 has [[AD, 2D, 3D], [7H, 7S, 7D], [AH, 5D, 4H, 3C]] with 13 deadwood.
+Player 0 draws 5S.
+1
+Player 0 discards 7C.
+Player 0 has [[3S, 4S, 5S], [KC, KH, KD], [5C, AS, 4D, 3H]] with 13 deadwood.
+Player 1 draws 7C.
+1
+Player 1 discards 5D.
+Player 1 has [[AD, 2D, 3D], [7C, 7H, 7S, 7D], [AH, 4H, 3C]] with 8 deadwood.
+Player 1 melds [[AD, 2D, 3D], [7C, 7H, 7S, 7D]] with 8 deadwood from [3C, AH, 4H].
+Player 0 melds [[3S, 4S, 5S], [KC, KH, KD]].
+Player 0 lays off 4D on [AD, 2D, 3D].
+Player 0 has 9 deadwood with [5C, 3H, AS]
+Player 1 scores the deadwood difference of 1.
+Player	Score
+0	52
+1	29
+Player 0 is dealt [8H, AC, 5D, QS, TC, 2C, QC, AS, AD, 3D].
+Player 1 is dealt [3H, 5C, AH, 9S, QH, 2H, 6H, TH, TS, 6D].
+Player 0 starts.
+The initial face up card is 4C.
+Player 0 declines 4C.
+Player 1 declines 4C.
+Player 0 draws 9C.
+3
+Player 0 discards QC.
+Player 0 has [[AC, AS, AD], [8H, 5D, QS, TC, 2C, 3D, 9C]] with 47 deadwood.
+Player 1 draws QD.
+4
+Player 1 discards TH.
+Player 1 has [[AH, 2H, 3H], [5C, 9S, QH, 6H, TS, 6D, QD]] with 56 deadwood.
+Player 0 draws 8S.
+2
+Player 0 discards QS.
+Player 0 has [[AC, AS, AD], [8H, 5D, TC, 2C, 3D, 9C, 8S]] with 45 deadwood.
+Player 1 draws QS.
+1
+Player 1 discards TS.
+Player 1 has [[AH, 2H, 3H], [QH, QS, QD], [5C, 9S, 6H, 6D]] with 26 deadwood.
+Player 0 draws JS.
+2
+Player 0 discards JS.
+Player 0 has [[AC, AS, AD], [8H, 5D, TC, 2C, 3D, 9C, 8S]] with 45 deadwood.
+Player 1 draws 4S.
+1
+Player 1 discards 9S.
+Player 1 has [[AH, 2H, 3H], [QH, QS, QD], [5C, 6H, 6D, 4S]] with 21 deadwood.
+Player 0 draws 6S.
+1
+Player 0 discards TC.
+Player 0 has [[AC, AS, AD], [8H, 5D, 2C, 3D, 9C, 8S, 6S]] with 41 deadwood.
+Player 1 draws 7H.
+1
+Player 1 discards 7H.
+Player 1 has [[AH, 2H, 3H], [QH, QS, QD], [5C, 6H, 6D, 4S]] with 21 deadwood.
+Player 0 draws 9D.
+2
+Player 0 discards 9D.
+Player 0 has [[AC, AS, AD], [8H, 5D, 2C, 3D, 9C, 8S, 6S]] with 41 deadwood.
+Player 1 draws 6C.
+1
+Player 1 discards 5C.
+Player 1 has [[AH, 2H, 3H], [6C, 6H, 6D], [QH, QS, QD], [4S]] with 4 deadwood.
+Player 1 melds [[AH, 2H, 3H], [6C, 6H, 6D], [QH, QS, QD]] with 4 deadwood from [4S].
+Player 0 melds [[AC, AS, AD]].
+Player 0 lays off 6S on [6C, 6H, 6D].
+Player 0 has 35 deadwood with [2C, 9C, 8H, 8S, 3D, 5D]
+Player 1 scores the deadwood difference of 31.
+Player	Score
+0	52
+1	60
+Player 0 is dealt [3D, 6C, QH, 4H, QC, 7H, 5S, 8S, 3H, 5D].
+Player 1 is dealt [KS, KH, TH, AD, 4S, QD, 8H, TC, 8D, 2D].
+Player 1 starts.
+The initial face up card is 4C.
+Player 1 declines 4C.
+Player 0 declines 4C.
+Player 1 draws 5C.
+5
+Player 1 discards TH.
+Player 1 has [KS, KH, AD, 4S, QD, 8H, TC, 8D, 2D, 5C] with 68 deadwood.
+Player 0 draws 9D.
+2
+Player 0 discards QC.
+Player 0 has [3D, 6C, QH, 4H, 7H, 5S, 8S, 3H, 5D, 9D] with 60 deadwood.
+Player 1 draws 6H.
+4
+Player 1 discards KS.
+Player 1 has [KH, AD, 4S, QD, 8H, TC, 8D, 2D, 5C, 6H] with 64 deadwood.
+Player 0 draws KC.
+2
+Player 0 discards KC.
+Player 0 has [3D, 6C, QH, 4H, 7H, 5S, 8S, 3H, 5D, 9D] with 60 deadwood.
+Player 1 draws AH.
+3
+Player 1 discards QD.
+Player 1 has [KH, AD, 4S, 8H, TC, 8D, 2D, 5C, 6H, AH] with 55 deadwood.
+Player 0 draws 9S.
+1
+Player 0 discards QH.
+Player 0 has [3D, 6C, 4H, 7H, 5S, 8S, 3H, 5D, 9D, 9S] with 59 deadwood.
+Player 1 draws 7S.
+2
+Player 1 discards KH.
+Player 1 has [AD, 4S, 8H, TC, 8D, 2D, 5C, 6H, AH, 7S] with 52 deadwood.
+Player 0 draws 3C.
+2
+Player 0 discards 9S.
+Player 0 has [[3C, 3H, 3D], [6C, 4H, 7H, 5S, 8S, 5D, 9D]] with 44 deadwood.
+Player 1 draws AS.
+1
+Player 1 discards TC.
+Player 1 has [[AH, AS, AD], [4S, 8H, 8D, 2D, 5C, 6H, 7S]] with 40 deadwood.
+Player 0 draws 2S.
+1
+Player 0 discards 9D.
+Player 0 has [[3C, 3H, 3D], [6C, 4H, 7H, 5S, 8S, 5D, 2S]] with 37 deadwood.
+Player 1 draws 2C.
+2
+Player 1 discards 8D.
+Player 1 has [[AH, AS, AD], [4S, 8H, 2D, 5C, 6H, 7S, 2C]] with 34 deadwood.
+Player 0 draws 9H.
+1
+Player 0 discards 9H.
+Player 0 has [[3C, 3H, 3D], [6C, 4H, 7H, 5S, 8S, 5D, 2S]] with 37 deadwood.
+Player 1 draws 4D.
+1
+Player 1 discards 8H.
+Player 1 has [[AH, AS, AD], [4S, 2D, 5C, 6H, 7S, 2C, 4D]] with 30 deadwood.
+Player 0 draws 7C.
+1
+Player 0 discards 8S.
+Player 0 has [[3C, 3H, 3D], [6C, 4H, 7H, 5S, 5D, 2S, 7C]] with 36 deadwood.
+Player 1 draws KD.
+1
+Player 1 discards KD.
+Player 1 has [[AH, AS, AD], [4S, 2D, 5C, 6H, 7S, 2C, 4D]] with 30 deadwood.
+Player 0 draws 6S.
+2
+Player 0 discards 7C.
+Player 0 has [[3C, 3H, 3D], [6C, 4H, 7H, 5S, 5D, 2S, 6S]] with 35 deadwood.
+Player 1 draws 2H.
+1
+Player 1 discards 7S.
+Player 1 has [[AH, AS, AD], [2C, 2H, 2D], [4S, 5C, 6H, 4D]] with 19 deadwood.
+Player 0 draws 7S.
+1
+Player 0 discards 7H.
+Player 0 has [[5S, 6S, 7S], [3C, 3H, 3D], [6C, 4H, 5D, 2S]] with 17 deadwood.
+Player 1 draws JS.
+1
+Player 1 discards JS.
+Player 1 has [[AH, AS, AD], [2C, 2H, 2D], [4S, 5C, 6H, 4D]] with 19 deadwood.
+Player 0 draws JH.
+1
+Player 0 discards JH.
+Player 0 has [[5S, 6S, 7S], [3C, 3H, 3D], [6C, 4H, 5D, 2S]] with 17 deadwood.
+Player 1 draws TD.
+1
+Player 1 discards TD.
+Player 1 has [[AH, AS, AD], [2C, 2H, 2D], [4S, 5C, 6H, 4D]] with 19 deadwood.
+Player 0 draws JC.
+1
+Player 0 discards JC.
+Player 0 has [[5S, 6S, 7S], [3C, 3H, 3D], [6C, 4H, 5D, 2S]] with 17 deadwood.
+Player 1 draws 6D.
+2
+Player 1 discards 6D.
+Player 1 has [[AH, AS, AD], [2C, 2H, 2D], [4S, 5C, 6H, 4D]] with 19 deadwood.
+Player 0 draws 6D.
+1
+Player 0 discards 7S.
+Player 0 has [[3C, 3H, 3D], [6C, 6S, 6D], [4H, 5S, 5D, 2S]] with 16 deadwood.
+Player 1 draws 8C.
+1
+Player 1 discards 8C.
+Player 1 has [[AH, AS, AD], [2C, 2H, 2D], [4S, 5C, 6H, 4D]] with 19 deadwood.
+Player 0 draws 9C.
+1
+Player 0 discards 9C.
+Player 0 has [[3C, 3H, 3D], [6C, 6S, 6D], [4H, 5S, 5D, 2S]] with 16 deadwood.
+Player 1 draws 3S.
+1
+Player 1 discards 6H.
+Player 1 has [[AH, AS, AD], [2C, 2H, 2D], [4S, 5C, 4D, 3S]] with 16 deadwood.
+Player 0 draws 6H.
+2
+Player 0 discards 5S.
+Player 0 has [[3C, 3H, 3D], [6C, 6H, 6S, 6D], [4H, 5D, 2S]] with 11 deadwood.
+Player 1 draws 5S.
+1
+Player 1 discards 5C.
+Player 1 has [[3S, 4S, 5S], [AH, AS, AD], [2C, 2H, 2D], [4D]] with 4 deadwood.
+Player 1 melds [[3S, 4S, 5S], [AH, AS, AD], [2C, 2H, 2D]] with 4 deadwood from [4D].
+Player 0 melds [[3C, 3H, 3D], [6C, 6H, 6S, 6D]].
+Player 0 lays off 2S on [3S, 4S, 5S].
+Player 0 has 9 deadwood with [4H, 5D]
+Player 1 scores the deadwood difference of 5.
+Player	Score
+0	52
+1	65
+Player 0 is dealt [5D, 2C, QC, 6H, 3S, AH, 6S, TH, 9S, KD].
+Player 1 is dealt [KH, KS, AC, 5C, 8H, 5S, 8C, 2D, JS, AS].
+Player 0 starts.
+The initial face up card is TS.
+Player 0 declines TS.
+Player 1 declines TS.
+Player 0 draws QD.
+4
+Player 0 discards TH.
+Player 0 has [5D, 2C, QC, 6H, 3S, AH, 6S, 9S, KD, QD] with 62 deadwood.
+Player 1 draws 9C.
+3
+Player 1 discards JS.
+Player 1 has [KH, KS, AC, 5C, 8H, 5S, 8C, 2D, AS, 9C] with 59 deadwood.
+Player 0 draws QH.
+1
+Player 0 discards KD.
+Player 0 has [[QC, QH, QD], [5D, 2C, 6H, 3S, AH, 6S, 9S]] with 32 deadwood.
+Player 1 draws KD.
+1
+Player 1 discards 9C.
+Player 1 has [[KH, KS, KD], [AC, 5C, 8H, 5S, 8C, 2D, AS]] with 30 deadwood.
+Player 0 draws JH.
+1
+Player 0 discards JH.
+Player 0 has [[QC, QH, QD], [5D, 2C, 6H, 3S, AH, 6S, 9S]] with 32 deadwood.
+Player 1 draws 2S.
+2
+Player 1 discards 8H.
+Player 1 has [[KH, KS, KD], [AC, 5C, 5S, 8C, 2D, AS, 2S]] with 24 deadwood.
+Player 0 draws 7H.
+1
+Player 0 discards 9S.
+Player 0 has [[QC, QH, QD], [5D, 2C, 6H, 3S, AH, 6S, 7H]] with 30 deadwood.
+Player 1 draws JC.
+1
+Player 1 discards JC.
+Player 1 has [[KH, KS, KD], [AC, 5C, 5S, 8C, 2D, AS, 2S]] with 24 deadwood.
+Player 0 draws 8D.
+1
+Player 0 discards 8D.
+Player 0 has [[QC, QH, QD], [5D, 2C, 6H, 3S, AH, 6S, 7H]] with 30 deadwood.
+Player 1 draws TD.
+1
+Player 1 discards TD.
+Player 1 has [[KH, KS, KD], [AC, 5C, 5S, 8C, 2D, AS, 2S]] with 24 deadwood.
+Player 0 draws 9H.
+1
+Player 0 discards 9H.
+Player 0 has [[QC, QH, QD], [5D, 2C, 6H, 3S, AH, 6S, 7H]] with 30 deadwood.
+Player 1 draws KC.
+1
+Player 1 discards 8C.
+Player 1 has [[KC, KH, KS, KD], [AC, 5C, 5S, 2D, AS, 2S]] with 16 deadwood.
+Player 0 draws 3C.
+1
+Player 0 discards 7H.
+Player 0 has [[QC, QH, QD], [5D, 2C, 6H, 3S, AH, 6S, 3C]] with 26 deadwood.
+Player 1 draws AD.
+2
+Player 1 discards 5C.
+Player 1 has [[AC, AS, AD], [KC, KH, KS, KD], [5S, 2D, 2S]] with 9 deadwood.
+Player 1 melds [[AC, AS, AD], [KC, KH, KS, KD]] with 9 deadwood from [2S, 5S, 2D].
+Player 0 melds [[QC, QH, QD]].
+Player 0 lays off AH on [AC, AS, AD].
+Player 0 has 25 deadwood with [2C, 3C, 6H, 3S, 6S, 5D]
+Player 1 scores the deadwood difference of 16.
+Player	Score
+0	52
+1	81
+Player 0 is dealt [9H, 5D, 2C, 7D, AH, TC, 5H, JH, KS, 4D].
+Player 1 is dealt [QC, 6C, QS, 8H, 4S, 9D, 2D, JS, TS, KD].
+Player 1 starts.
+The initial face up card is 8S.
+Player 1 declines 8S.
+Player 0 declines 8S.
+Player 1 draws TD.
+3
+Player 1 discards TD.
+Player 1 has [[TS, JS, QS], [QC, 6C, 8H, 4S, 9D, 2D, KD]] with 49 deadwood.
+Player 0 draws 2H.
+3
+Player 0 discards KS.
+Player 0 has [9H, 5D, 2C, 7D, AH, TC, 5H, JH, 4D, 2H] with 55 deadwood.
+Player 1 draws KS.
+2
+Player 1 discards KD.
+Player 1 has [[TS, JS, QS, KS], [QC, 6C, 8H, 4S, 9D, 2D]] with 39 deadwood.
+Player 0 draws 7S.
+2
+Player 0 discards TC.
+Player 0 has [9H, 5D, 2C, 7D, AH, 5H, JH, 4D, 2H, 7S] with 52 deadwood.
+Player 1 draws AS.
+1
+Player 1 discards QC.
+Player 1 has [[TS, JS, QS, KS], [6C, 8H, 4S, 9D, 2D, AS]] with 30 deadwood.
+Player 0 draws 3C.
+1
+Player 0 discards JH.
+Player 0 has [9H, 5D, 2C, 7D, AH, 5H, 4D, 2H, 7S, 3C] with 45 deadwood.
+Player 1 draws 3H.
+1
+Player 1 discards 9D.
+Player 1 has [[TS, JS, QS, KS], [6C, 8H, 4S, 2D, AS, 3H]] with 24 deadwood.
+Player 0 draws TH.
+1
+Player 0 discards TH.
+Player 0 has [9H, 5D, 2C, 7D, AH, 5H, 4D, 2H, 7S, 3C] with 45 deadwood.
+Player 1 draws 6S.
+1
+Player 1 discards 8H.
+Player 1 has [[TS, JS, QS, KS], [6C, 4S, 2D, AS, 3H, 6S]] with 22 deadwood.
+Player 0 draws 6H.
+1
+Player 0 discards 9H.
+Player 0 has [5D, 2C, 7D, AH, 5H, 4D, 2H, 7S, 3C, 6H] with 42 deadwood.
+Player 1 draws JD.
+1
+Player 1 discards JD.
+Player 1 has [[TS, JS, QS, KS], [6C, 4S, 2D, AS, 3H, 6S]] with 22 deadwood.
+Player 0 draws AC.
+2
+Player 0 discards 7D.
+Player 0 has [[AC, 2C, 3C], [5D, AH, 5H, 4D, 2H, 7S, 6H]] with 30 deadwood.
+Player 1 draws 3D.
+2
+Player 1 discards 6C.
+Player 1 has [[TS, JS, QS, KS], [4S, 2D, AS, 3H, 6S, 3D]] with 19 deadwood.
+Player 0 draws 5S.
+1
+Player 0 discards 7S.
+Player 0 has [[AC, 2C, 3C], [5H, 5S, 5D], [AH, 4D, 2H, 6H]] with 13 deadwood.
+Player 1 draws 9S.
+1
+Player 1 discards 6S.
+Player 1 has [[9S, TS, JS, QS, KS], [4S, 2D, AS, 3H, 3D]] with 13 deadwood.
+Player 0 draws 8C.
+1
+Player 0 discards 8C.
+Player 0 has [[AC, 2C, 3C], [5H, 5S, 5D], [AH, 4D, 2H, 6H]] with 13 deadwood.
+Player 1 draws 3S.
+1
+Player 1 discards 4S.
+Player 1 has [[9S, TS, JS, QS, KS], [3H, 3S, 3D], [2D, AS]] with 3 deadwood.
+Player 1 melds [[9S, TS, JS, QS, KS], [3H, 3S, 3D]] with 3 deadwood from [AS, 2D].
+Player 0 melds [[AC, 2C, 3C], [5H, 5S, 5D]].
+Player 0 has 13 deadwood with [AH, 2H, 6H, 4D]
+Player 1 scores the deadwood difference of 10.
+Player	Score
+0	52
+1	91
+Player 0 is dealt [8S, JS, 4C, 8C, TH, 3C, 3D, JC, QC, 2S].
+Player 1 is dealt [2C, 9H, KC, 9C, TD, AS, KS, 6D, 2D, AD].
+Player 0 starts.
+The initial face up card is 5C.
+Player 0 draws 5C.
+4
+Player 0 discards QC.
+Player 0 has [[3C, 4C, 5C], [8S, JS, 8C, TH, 3D, JC, 2S]] with 51 deadwood.
+Player 1 draws 8D.
+3
+Player 1 discards KS.
+Player 1 has [2C, 9H, KC, 9C, TD, AS, 6D, 2D, AD, 8D] with 58 deadwood.
+Player 0 draws 7H.
+3
+Player 0 discards JC.
+Player 0 has [[3C, 4C, 5C], [8S, JS, 8C, TH, 3D, 2S, 7H]] with 48 deadwood.
+Player 1 draws 3H.
+2
+Player 1 discards TD.
+Player 1 has [2C, 9H, KC, 9C, AS, 6D, 2D, AD, 8D, 3H] with 51 deadwood.
+Player 0 draws 6S.
+2
+Player 0 discards JS.
+Player 0 has [[3C, 4C, 5C], [8S, 8C, TH, 3D, 2S, 7H, 6S]] with 44 deadwood.
+Player 1 draws AC.
+1
+Player 1 discards KC.
+Player 1 has [[AC, AS, AD], [2C, 9H, 9C, 6D, 2D, 8D, 3H]] with 39 deadwood.
+Player 0 draws TC.
+2
+Player 0 discards TH.
+Player 0 has [[3C, 4C, 5C], [8S, 8C, 3D, 2S, 7H, 6S, TC]] with 44 deadwood.
+Player 1 draws 3S.
+2
+Player 1 discards 9H.
+Player 1 has [[AC, AS, AD], [2C, 9C, 6D, 2D, 8D, 3H, 3S]] with 33 deadwood.
+Player 0 draws 7S.
+1
+Player 0 discards TC.
+Player 0 has [[3C, 4C, 5C], [6S, 7S, 8S], [8C, 3D, 2S, 7H]] with 20 deadwood.
+Player 1 draws QS.
+1
+Player 1 discards QS.
+Player 1 has [[AC, AS, AD], [2C, 9C, 6D, 2D, 8D, 3H, 3S]] with 33 deadwood.
+Player 0 draws 4D.
+1
+Player 0 discards 8C.
+Player 0 has [[3C, 4C, 5C], [6S, 7S, 8S], [3D, 2S, 7H, 4D]] with 16 deadwood.
+Player 1 draws 7D.
+1
+Player 1 discards 9C.
+Player 1 has [[6D, 7D, 8D], [AC, AS, AD], [2C, 2D, 3H, 3S]] with 10 deadwood.
+Player 1 melds [[6D, 7D, 8D], [AC, AS, AD]] with 10 deadwood from [2C, 3H, 3S, 2D].
+Player 0 melds [[3C, 4C, 5C], [6S, 7S, 8S]].
+Player 0 has 16 deadwood with [7H, 2S, 3D, 4D]
+Player 1 scores the deadwood difference of 6.
+Player	Score
+0	52
+1	97
+Player 0 is dealt [8D, 7D, AD, 4C, 2D, AS, QS, 7H, 9H, 7S].
+Player 1 is dealt [4S, JH, 9C, 5C, KS, KC, AC, 7C, QD, 3C].
+Player 1 starts.
+The initial face up card is KH.
+Player 1 draws KH.
+2
+Player 1 discards JH.
+Player 1 has [[KC, KH, KS], [4S, 9C, 5C, AC, 7C, QD, 3C]] with 39 deadwood.
+Player 0 draws KD.
+2
+Player 0 discards QS.
+Player 0 has [[7H, 7S, 7D], [8D, AD, 4C, 2D, AS, 9H, KD]] with 35 deadwood.
+Player 1 draws TH.
+2
+Player 1 discards TH.
+Player 1 has [[KC, KH, KS], [4S, 9C, 5C, AC, 7C, QD, 3C]] with 39 deadwood.
+Player 0 draws 8H.
+1
+Player 0 discards KD.
+Player 0 has [[7H, 8H, 9H], [8D, 7D, AD, 4C, 2D, AS, 7S]] with 30 deadwood.
+Player 1 draws KD.
+1
+Player 1 discards QD.
+Player 1 has [[KC, KH, KS, KD], [4S, 9C, 5C, AC, 7C, 3C]] with 29 deadwood.
+Player 0 draws 2H.
+1
+Player 0 discards 8D.
+Player 0 has [[7H, 8H, 9H], [7D, AD, 4C, 2D, AS, 7S, 2H]] with 24 deadwood.
+Player 1 draws 3D.
+1
+Player 1 discards 9C.
+Player 1 has [[KC, KH, KS, KD], [4S, 5C, AC, 7C, 3C, 3D]] with 23 deadwood.
+Player 0 draws 2C.
+2
+Player 0 discards 7D.
+Player 0 has [[7H, 8H, 9H], [2C, 2H, 2D], [AD, 4C, AS, 7S]] with 13 deadwood.
+Player 1 draws 6S.
+1
+Player 1 discards 7C.
+Player 1 has [[KC, KH, KS, KD], [4S, 5C, AC, 3C, 3D, 6S]] with 22 deadwood.
+Player 0 draws 7C.
+1
+Player 0 discards 7S.
+Player 0 has [[7H, 8H, 9H], [2C, 2H, 2D], [AD, 4C, AS, 7C]] with 13 deadwood.
+Player 1 draws 4D.
+1
+Player 1 discards 6S.
+Player 1 has [[KC, KH, KS, KD], [4S, 5C, AC, 3C, 3D, 4D]] with 20 deadwood.
+Player 0 draws TD.
+1
+Player 0 discards TD.
+Player 0 has [[7H, 8H, 9H], [2C, 2H, 2D], [AD, 4C, AS, 7C]] with 13 deadwood.
+Player 1 draws TC.
+1
+Player 1 discards TC.
+Player 1 has [[KC, KH, KS, KD], [4S, 5C, AC, 3C, 3D, 4D]] with 20 deadwood.
+Player 0 draws 3S.
+1
+Player 0 discards 7C.
+Player 0 has [[7H, 8H, 9H], [2C, 2H, 2D], [AD, 4C, AS, 3S]] with 9 deadwood.
+Player 0 melds [[7H, 8H, 9H], [2C, 2H, 2D]] with 9 deadwood from [4C, AS, 3S, AD].
+Player 1 melds [[KC, KH, KS, KD]].
+Player 1 has 20 deadwood with [AC, 3C, 5C, 4S, 3D, 4D]
+Player 0 scores the deadwood difference of 11.
+Player	Score
+0	63
+1	97
+Player 0 is dealt [KS, AH, AC, 8D, 7H, KC, JS, 4H, 2C, 3D].
+Player 1 is dealt [7D, TH, 8C, KH, JH, 9D, QS, 8H, 9C, 7S].
+Player 0 starts.
+The initial face up card is 9S.
+Player 0 declines 9S.
+Player 1 draws 9S.
+4
+Player 1 discards TH.
+Player 1 has [[9C, 9S, 9D], [7D, 8C, KH, JH, QS, 8H, 7S]] with 60 deadwood.
+Player 0 draws 5D.
+3
+Player 0 discards KS.
+Player 0 has [AH, AC, 8D, 7H, KC, JS, 4H, 2C, 3D, 5D] with 51 deadwood.
+Player 1 draws 2D.
+3
+Player 1 discards JH.
+Player 1 has [[9C, 9S, 9D], [7D, 8C, KH, QS, 8H, 7S, 2D]] with 52 deadwood.
+Player 0 draws 6D.
+2
+Player 0 discards KC.
+Player 0 has [AH, AC, 8D, 7H, JS, 4H, 2C, 3D, 5D, 6D] with 47 deadwood.
+Player 1 draws 6H.
+2
+Player 1 discards QS.
+Player 1 has [[9C, 9S, 9D], [7D, 8C, KH, 8H, 7S, 2D, 6H]] with 48 deadwood.
+Player 0 draws 3H.
+1
+Player 0 discards JS.
+Player 0 has [AH, AC, 8D, 7H, 4H, 2C, 3D, 5D, 6D, 3H] with 40 deadwood.
+Player 1 draws JC.
+2
+Player 1 discards KH.
+Player 1 has [[9C, 9S, 9D], [7D, 8C, 8H, 7S, 2D, 6H, JC]] with 48 deadwood.
+Player 0 draws 6C.
+1
+Player 0 discards 8D.
+Player 0 has [AH, AC, 7H, 4H, 2C, 3D, 5D, 6D, 3H, 6C] with 38 deadwood.
+Player 1 draws 8D.
+1
+Player 1 discards JC.
+Player 1 has [[8C, 8H, 8D], [9C, 9S, 9D], [7D, 7S, 2D, 6H]] with 22 deadwood.
+Player 0 draws 2H.
+1
+Player 0 discards 7H.
+Player 0 has [[AH, 2H, 3H, 4H], [AC, 2C, 3D, 5D, 6D, 6C]] with 23 deadwood.
+Player 1 draws 7H.
+1
+Player 1 discards 6H.
+Player 1 has [[7H, 7S, 7D], [8C, 8H, 8D], [9C, 9S, 9D], [2D]] with 2 deadwood.
+Player 1 melds [[7H, 7S, 7D], [8C, 8H, 8D], [9C, 9S, 9D]] with 2 deadwood from [2D].
+Player 0 melds [[AH, 2H, 3H, 4H]].
+Player 0 has 23 deadwood with [AC, 2C, 6C, 3D, 5D, 6D]
+Player 1 scores the deadwood difference of 21.
+Player	Score
+0	63
+1	118
+Player 1 wins.
+0 games played in 0 ms.
+Games Won: P0:0, P1:0.
+
+
+
+NN SIMPLE ===============================
+Player 0 is dealt [7S, QH, KD, 2D, 7D, JC, 7C, 3H, KS, 6D].
+Player 1 is dealt [3C, 9S, TS, TC, TH, 4H, 3D, 8C, 4D, 5D].
+Player 1 starts.
+The initial face up card is 6S.
+Player 1 declines 6S.
+Player 0 declines 6S.
+Player 1 draws QD.
+1
+Player 1 discards QD.
+Player 1 has [[3D, 4D, 5D], [TC, TH, TS], [3C, 9S, 4H, 8C]] with 24 deadwood.
+Player 0 draws 5C.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.2530	0.2512	0.2651	0.2561	FALSE	0.1981	FALSE	0.2739	0.3014	0.2830	FALSE	0.1662	0.3093
+H	0.2530	0.2512	FALSE	0.2561	0.2510	0.1981	0.2609	0.2739	0.3014	0.2830	0.3143	FALSE	0.3093
+S	0.2650	0.2488	0.2576	0.2376	0.1970	FALSE	FALSE	0.2284	0.2737	0.2741	0.3161	0.1909	FALSE
+D	0.2541	FALSE	0.2676	0.2639	0.2549	FALSE	FALSE	0.2606	0.2752	0.2240	0.2008	FALSE	FALSE
+[JS, JH, KC, KH, 9C, 9H, TC, TH, 9D, TS]
+-3.0516937 : QH : 0.2178458372801143
+-3.731527 : KD : 0.09564843001697709
+-2.1954896 : 2D : 0.3267446312388338
+-2.9808433 : JC : 0.40966389416694415
+-1.3033922 : 3H : 0.4003371627477036
+-2.6976974 : KS : 0.15599031432779514
+-0.6462219 : 6D : 0.10654286575521421
+-0.077956915 : 5C : 0.28228635446609185
+Player 0 discards 5C.
+Player 0 has [[7C, 7S, 7D], [QH, KD, 2D, JC, 3H, KS, 6D]] with 51 deadwood.
+Player 1 draws 8D.
+1
+Player 1 discards 9S.
+Player 1 has [[3D, 4D, 5D], [TC, TH, TS], [3C, 4H, 8C, 8D]] with 23 deadwood.
+Player 0 draws 7H.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.3474	0.3116	0.3140	0.2519	FALSE	0.1835	FALSE	0.3770	0.1770	0.2964	FALSE	0.1596	0.3145
+H	0.3286	0.3272	FALSE	0.3007	0.2465	0.2544	FALSE	0.3719	0.1842	0.2838	0.3168	FALSE	0.3172
+S	0.3341	0.2883	0.3215	0.3171	0.1860	FALSE	FALSE	0.2080	FALSE	0.1456	0.2182	0.1498	FALSE
+D	0.3300	FALSE	0.3274	0.3100	0.2504	FALSE	FALSE	0.3538	0.1683	0.2247	0.2025	FALSE	FALSE
+[8C, 8H, 8D, AC, AS, AD, AH, 3D, 2H, 3S]
+-1.4476014 : QH : 0.21434443510366297
+-0.4608062 : KD : 0.09976075500235301
+0.33798718 : 2D : 0.4956569657156603
+-0.1649139 : JC : 0.3273897677293588
+1.6835597 : 3H : 0.5891190822661115
+-1.0722644 : KS : 0.13244790369617226
+2.7741854 : 6D : 0.12429802943694113
+Player 0 discards 6D.
+Player 0 has [[7C, 7H, 7S, 7D], [QH, KD, 2D, JC, 3H, KS]] with 45 deadwood.
+Player 1 draws 6D.
+2
+Player 1 discards 8D.
+Player 1 has [[3D, 4D, 5D, 6D], [TC, TH, TS], [3C, 4H, 8C]] with 15 deadwood.
+Player 0 draws AS.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.4224	0.3764	0.3884	0.2876	FALSE	0.4862	FALSE	0.1803	0.0729	0.1149	FALSE	0.0733	0.1139
+H	0.3995	0.3952	FALSE	0.3434	0.2855	0.6739	FALSE	0.1779	0.0759	0.1101	0.1352	FALSE	0.1149
+S	FALSE	0.3482	0.3977	0.3620	0.2154	FALSE	FALSE	0.0995	FALSE	0.0565	0.0931	0.0689	FALSE
+D	0.4012	FALSE	0.3569	0.6507	0.4960	*TRUE*	FALSE	FALSE	0.0594	0.0735	0.0929	FALSE	FALSE
+[6D, 6H, 4D, 5D, 6C, AC, AD, AH, 3S, 2H]
+-4.957758 : QH : 0.03548021576707464
+-6.33342 : KD : 0.013090779253160077
+-5.9600945 : 2D : 0.7929047134086687
+-4.913808 : JC : 0.05897699033404237
+-5.7387724 : 3H : 0.8267105004323531
+-6.1799603 : KS : 0.019504085520743383
+-7.345936 : AS : 0.29875732121648646
+Player 0 discards JC.
+Player 0 has [[7C, 7H, 7S, 7D], [QH, KD, 2D, 3H, KS, AS]] with 36 deadwood.
+Player 1 draws KH.
+1
+Player 1 discards KH.
+Player 1 has [[3D, 4D, 5D, 6D], [TC, TH, TS], [3C, 4H, 8C]] with 15 deadwood.
+Player 0 draws KH.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.4029	0.3615	0.3706	0.2714	FALSE	0.5194	FALSE	0.2146	0.0929	0.1114	FALSE	0.0907	0.0827
+H	0.3865	0.3764	FALSE	0.3331	0.2853	0.7219	FALSE	0.2210	0.1021	0.1392	0.1038	FALSE	FALSE
+S	FALSE	0.3360	0.3814	0.3517	0.2111	FALSE	FALSE	0.1219	FALSE	0.0769	0.1028	0.1047	FALSE
+D	0.3840	FALSE	0.3423	0.6321	0.4859	*TRUE*	FALSE	FALSE	0.0789	0.1002	0.1025	FALSE	FALSE
+[6D, 6H, 4D, 6C, 5D, AC, AH, AD, 3S, 2H]
+11.183631 : QH : 0.023946803909112097
+6.01149 : 2D : 0.7318757273891863
+6.597974 : 3H : 0.764735643799167
+3.8578384 : AS : 0.27658259018573494
+Player 0 discards QH.
+Player 0 has [[7C, 7H, 7S, 7D], [KH, KS, KD], [2D, 3H, AS]] with 6 deadwood.
+Player 0 melds [[7C, 7H, 7S, 7D], [KH, KS, KD]] with 6 deadwood from [3H, AS, 2D].
+Player 1 melds [[3D, 4D, 5D, 6D], [TC, TH, TS]].
+Player 1 has 15 deadwood with [3C, 8C, 4H]
+Player 0 scores the deadwood difference of 9.
+Player	Score
+0	9
+1	0
+Player 0 is dealt [2D, 4C, TH, 2C, 3H, 9D, 3D, 9S, JC, 8H].
+Player 1 is dealt [3S, KC, 8S, JH, JD, TD, QC, 2S, TS, 6H].
+Player 0 starts.
+The initial face up card is 3C.
+Player 0 draws 3C.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.2439	FALSE	FALSE	FALSE	0.2439	0.2439	0.2439	0.2439	0.2439	0.2439	FALSE	0.2439	0.2439
+H	0.2439	0.2439	FALSE	0.2439	0.2439	0.2439	0.2439	FALSE	0.2439	FALSE	0.2439	0.2439	0.2439
+S	0.2439	0.2439	0.2439	0.2439	0.2439	0.2439	0.2439	0.2439	FALSE	0.2439	0.2439	0.2439	0.2439
+D	0.2439	FALSE	FALSE	0.2439	0.2439	0.2439	0.2439	0.2439	FALSE	0.2439	0.2439	0.2439	0.2439
+[AC, 5C, 6C, 7C, 8C, 9C, TC, QC, KC, AH]
+3.239936 : 2D : 0.05948839976204635
+3.823292 : TH : 0.29744199881023176
+3.4441273 : 3H : 0.17846519928613905
+4.4104424 : 9D : 0.2379535990481854
+2.647547 : 3D : 0.05948839976204635
+3.7706645 : 9S : 0.2379535990481854
+3.4378798 : JC : 0.3569303985722781
+5.2039423 : 8H : 0.29744199881023176
+Player 0 discards 8H.
+Player 0 has [[2C, 3C, 4C], [2D, TH, 3H, 9D, 3D, 9S, JC]] with 46 deadwood.
+Player 1 draws KS.
+7
+Player 1 discards TS.
+Player 1 has [3S, KC, 8S, JH, JD, TD, QC, 2S, 6H, KS] with 79 deadwood.
+Player 0 draws 7C.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.2583	FALSE	FALSE	FALSE	0.2620	0.2675	FALSE	0.2250	0.3176	0.1807	FALSE	0.2961	0.3024
+H	0.2606	0.2562	FALSE	0.2574	0.2628	0.2471	0.2097	FALSE	0.2638	FALSE	0.2787	0.2835	0.2945
+S	0.2598	0.2500	0.2560	0.2599	0.2662	0.2639	0.2431	0.1744	FALSE	FALSE	0.1869	0.2193	0.2763
+D	0.2583	FALSE	FALSE	0.2568	0.2620	0.2675	0.2689	0.2250	FALSE	0.1807	0.3025	0.2961	0.3024
+[9C, JD, KC, KD, QC, QD, KH, QH, JH, KS]
+0.5772517 : 2D : 0.06403372068363859
+1.4284527 : TH : 0.1851817893210953
+0.78144383 : 3H : 0.20032899224619427
+1.5679524 : 9D : 0.23960940487266474
+-0.015139341 : 3D : 0.06727130031522371
+1.1067717 : 9S : 0.12616772976589513
+0.7752011 : JC : 0.3933822664798511
+4.239687 : 7C : 0.3745005697583976
+Player 0 discards 7C.
+Player 0 has [[2C, 3C, 4C], [2D, TH, 3H, 9D, 3D, 9S, JC]] with 46 deadwood.
+Player 1 draws 5S.
+6
+Player 1 discards JH.
+Player 1 has [3S, KC, 8S, JD, TD, QC, 2S, 6H, KS, 5S] with 74 deadwood.
+Player 0 draws QS.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.2803	FALSE	FALSE	FALSE	0.2523	0.2291	FALSE	0.2083	0.3406	0.1949	FALSE	0.3686	0.3777
+H	0.2895	0.2811	FALSE	0.2878	0.2925	0.2663	0.1748	FALSE	0.2749	FALSE	FALSE	0.2324	0.2924
+S	0.2765	0.2722	0.2842	0.2799	0.2876	0.2722	0.2005	0.2063	FALSE	FALSE	0.1358	FALSE	0.3504
+D	0.2749	FALSE	FALSE	0.2765	0.2831	0.2760	0.2218	0.2662	FALSE	0.2185	0.2197	0.3707	0.3835
+[KD, KC, QD, QC, KS, 9C, 5H, KH, AH, 4H]
+1.7699606 : 2D : 0.07650168410549006
+2.953107 : TH : 0.042588385869233365
+1.9741518 : 3H : 0.2464871017277302
+2.559415 : 9D : 0.25882835885418815
+1.1775734 : 3D : 0.07829566180115248
+1.8918355 : 9S : 0.13497289875281193
+1.9668705 : JC : 0.3072999205851276
+1.8805497 : QS : 0.3559841401490821
+Player 0 discards TH.
+Player 0 has [[2C, 3C, 4C], [2D, 3H, 9D, 3D, 9S, JC, QS]] with 46 deadwood.
+Player 1 draws QH.
+6
+Player 1 discards KS.
+Player 1 has [3S, KC, 8S, JD, TD, QC, 2S, 6H, 5S, QH] with 74 deadwood.
+Player 0 draws 8D.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.2640	FALSE	FALSE	FALSE	0.2502	0.2401	FALSE	0.2541	0.4614	0.2040	FALSE	0.5481	0.3377
+H	0.2746	0.2675	FALSE	0.2801	0.2869	0.2775	0.1942	FALSE	0.3082	FALSE	FALSE	0.2878	0.2333
+S	0.2605	0.2594	0.2720	0.2680	0.2866	0.2796	0.2244	0.2552	FALSE	FALSE	0.1496	FALSE	FALSE
+D	0.2589	FALSE	FALSE	0.2658	0.2808	0.2892	0.2490	FALSE	FALSE	0.2286	0.3088	0.5512	0.3429
+[QD, QC, 9C, KD, KC, JD, 9H, 6D, QH, 5H]
+1.9998038 : 2D : 0.06940209997996566
+2.203997 : 3H : 0.22873389754769424
+0.90467477 : 9D : 0.2127940794461088
+1.4074166 : 3D : 0.07461809518535346
+2.4091275 : 9S : 0.1994480539562515
+1.5160887 : JC : 0.4372064415785715
+1.7332356 : QS : 0.6184433703496242
+3.2946389 : 8D : 0.13686780663718093
+Player 0 discards 8D.
+Player 0 has [[2C, 3C, 4C], [2D, 3H, 9D, 3D, 9S, JC, QS]] with 46 deadwood.
+Player 1 draws 2H.
+5
+Player 1 discards TD.
+Player 1 has [3S, KC, 8S, JD, QC, 2S, 6H, 5S, QH, 2H] with 66 deadwood.
+Player 0 draws 6D.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.2745	FALSE	FALSE	FALSE	0.2698	0.2543	FALSE	0.2183	0.5701	0.1537	FALSE	0.6412	0.3994
+H	0.2855	0.2707	FALSE	0.2993	0.3094	0.2939	0.2082	FALSE	0.3808	FALSE	FALSE	0.3366	0.2759
+S	0.2709	0.2625	0.2832	0.2864	0.3090	0.2961	0.2405	0.2192	FALSE	FALSE	0.1773	FALSE	FALSE
+D	0.2768	FALSE	FALSE	0.2996	0.2891	FALSE	0.2541	FALSE	FALSE	FALSE	0.2709	0.4687	0.3543
+[QC, 9C, QD, KC, 9H, KD, QH, 5H, 5S, 4D]
+-0.1788528 : 2D : 0.0710824454391869
+-0.8694055 : 3H : 0.25090578601175983
+-0.041853666 : 9D : 0.21707470879734875
+-0.9842355 : 3D : 0.08659152407571974
+-0.5162895 : 9S : 0.26980146469551647
+-0.94825244 : JC : 0.4902394928070616
+-0.7717073 : QS : 0.6741749745300938
+3.438306 : 6D : 0.3970775323682413
+Player 0 discards 6D.
+Player 0 has [[2C, 3C, 4C], [2D, 3H, 9D, 3D, 9S, JC, QS]] with 46 deadwood.
+Player 1 draws KH.
+5
+Player 1 discards QC.
+Player 1 has [3S, KC, 8S, JD, 2S, 6H, 5S, QH, 2H, KH] with 66 deadwood.
+Player 0 draws 9C.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.3207	FALSE	FALSE	FALSE	0.3162	0.2180	FALSE	0.2616	FALSE	0.1583	FALSE	FALSE	0.4557
+H	0.3321	0.3127	FALSE	0.3524	0.3570	0.2677	0.2497	FALSE	0.5277	FALSE	FALSE	0.2572	0.3923
+S	0.3151	0.3033	0.3453	0.3372	0.3566	0.2698	0.2885	0.2760	FALSE	FALSE	0.2562	FALSE	FALSE
+D	0.3373	FALSE	FALSE	0.3273	0.2619	FALSE	0.2401	FALSE	FALSE	FALSE	0.3937	0.4113	0.5015
+[9H, KD, KC, QD, JD, KH, 5H, 5S, 4H, 3S]
+7.0368385 : 2D : 0.09484434208569885
+7.1765976 : 3H : 0.3398236179179629
+5.844036 : 3D : 0.0857134085150263
+7.3626175 : JC : 0.10084968171837029
+7.482527 : QS : 0.10580314117700243
+Player 0 discards QS.
+Player 0 has [[2C, 3C, 4C], [9C, 9S, 9D], [2D, 3H, 3D, JC]] with 18 deadwood.
+Player 1 draws AD.
+4
+Player 1 discards KC.
+Player 1 has [3S, 8S, JD, 2S, 6H, 5S, QH, 2H, KH, AD] with 57 deadwood.
+Player 0 draws 4H.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.3136	FALSE	FALSE	FALSE	0.3220	0.2375	FALSE	0.3289	FALSE	0.2100	FALSE	FALSE	FALSE
+H	0.3257	0.3035	FALSE	FALSE	0.3698	0.2866	0.2893	FALSE	0.7272	FALSE	FALSE	0.2880	0.3666
+S	0.3118	0.2967	0.3333	0.3300	0.3648	0.2959	0.3330	0.3548	FALSE	FALSE	0.2951	FALSE	FALSE
+D	0.3307	FALSE	FALSE	0.3237	0.2713	FALSE	0.2781	FALSE	FALSE	FALSE	0.5829	0.4606	0.4685
+[9H, JD, KD, QD, 5H, KH, 5S, 8S, 3S, 7S]
+6.769492 : 2D : 0.09004306340995841
+6.864216 : 3H : 0.09883918097052698
+6.757971 : 3D : 0.0878352537140351
+9.514303 : JC : 0.17201457457878128
+8.598604 : 4H : 0.21281715592860206
+Player 0 discards JC.
+Player 0 has [[2C, 3C, 4C], [9C, 9S, 9D], [2D, 3H, 3D, 4H]] with 12 deadwood.
+Player 1 draws AH.
+3
+Player 1 discards KH.
+Player 1 has [3S, 8S, JD, 2S, 6H, 5S, QH, 2H, AD, AH] with 48 deadwood.
+Player 0 draws AC.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	FALSE	FALSE	FALSE	FALSE	0.3120	0.2519	FALSE	0.3885	FALSE	0.2021	FALSE	FALSE	FALSE
+H	0.3128	0.2870	FALSE	FALSE	0.3669	0.3047	0.3244	FALSE	0.9714	FALSE	FALSE	0.3231	FALSE
+S	0.2962	0.2842	0.3173	0.3183	0.3548	0.3097	0.3703	0.4315	FALSE	FALSE	0.3234	FALSE	FALSE
+D	0.3142	FALSE	FALSE	0.3122	0.2639	FALSE	0.3093	FALSE	FALSE	FALSE	0.6388	0.6950	0.4159
+[9H, QD, JD, 8S, KD, 8C, 7S, 5H, 5S, 7H]
+14.242824 : 2D : 0.08156055032444112
+16.382097 : 3H : 0.08976891823296611
+15.248374 : 3D : 0.08239092522583705
+17.147411 : 4H : 0.21117153799020788
+Player 0 discards 4H.
+Player 0 has [[9C, 9S, 9D], [AC, 2C, 3C, 4C], [2D, 3H, 3D]] with 8 deadwood.
+Player 0 melds [[9C, 9S, 9D], [AC, 2C, 3C, 4C]] with 8 deadwood from [3H, 2D, 3D].
+Player 1 melds [].
+Player 1 has 48 deadwood with [AH, 2H, 6H, QH, 2S, 3S, 5S, 8S, AD, JD]
+Player 0 scores the deadwood difference of 40.
+Player	Score
+0	49
+1	0
+Player 0 is dealt [3C, 9S, KH, TC, 3S, 6C, QH, QS, JC, AD].
+Player 1 is dealt [2H, 5H, 7D, 4H, 9D, QD, 6S, 8H, 8S, 6D].
+Player 1 starts.
+The initial face up card is 5C.
+Player 1 declines 5C.
+Player 0 declines 5C.
+Player 1 draws 8D.
+1
+Player 1 discards QD.
+Player 1 has [[6D, 7D, 8D, 9D], [2H, 5H, 4H, 6S, 8H, 8S]] with 33 deadwood.
+Player 0 draws QD.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.2520	0.2221	FALSE	0.1870	FALSE	FALSE	0.2133	0.2455	0.2819	FALSE	FALSE	0.2204	0.3843
+H	0.2393	0.2284	0.2363	0.2257	0.1736	0.2361	0.2440	0.2717	0.2858	0.3117	0.3272	FALSE	FALSE
+S	0.2393	0.2284	FALSE	0.2257	0.1736	0.2361	0.2440	0.2717	FALSE	0.3117	0.3272	FALSE	0.3496
+D	FALSE	0.2364	0.2350	0.2180	0.1972	0.2434	0.2338	0.2590	0.2451	0.2571	0.2105	FALSE	0.2709
+[KC, KS, JH, JS, TH, TS, 9H, 9C, 8H, 8S]
+2.8922417 : 3C : 0.15300934767464291
+4.3410654 : 9S : 0.4726940160312074
+2.5128329 : KH : 0.3332217910906372
+2.038253 : TC : 0.3266612722590436
+3.7660868 : 3S : 0.20090903101077484
+5.8538485 : 6C : 0.22304689481606316
+1.2326386 : JC : 0.3295253704836878
+3.0200179 : AD : 0.11284225456717395
+Player 0 discards 6C.
+Player 0 has [[QH, QS, QD], [3C, 9S, KH, TC, 3S, JC, AD]] with 46 deadwood.
+Player 1 draws 6C.
+1
+Player 1 discards 9D.
+Player 1 has [[6C, 6S, 6D], [8H, 8S, 8D], [2H, 5H, 7D, 4H]] with 18 deadwood.
+Player 0 draws 5S.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.2411	0.1930	FALSE	0.2661	FALSE	*TRUE*	0.5364	0.5128	0.1879	FALSE	FALSE	0.0837	0.1430
+H	0.2245	0.2156	0.2168	0.1962	0.1645	0.5260	0.3326	0.3702	0.1263	0.1022	0.1193	FALSE	FALSE
+S	0.2245	0.2156	FALSE	0.1962	FALSE	0.5260	0.3326	0.3702	FALSE	0.1022	0.1193	FALSE	0.1203
+D	FALSE	0.2040	0.2222	0.2036	0.2009	0.5218	0.2719	0.2405	FALSE	0.0490	0.0506	FALSE	0.0705
+[6C, 7C, 6H, 6S, 6D, 8C, 8H, 8S, 7H, 7S]
+-0.2934482 : 3C : 0.14608407962754585
+0.75819516 : 9S : 0.19686501017611402
+-0.88463664 : KH : 0.03577683336351807
+-1.3592155 : TC : 0.11678549386084079
+-0.8853862 : 3S : 0.13887179092376806
+-2.1648328 : JC : 0.03828669842782421
+-0.37745166 : AD : 0.0957204323647026
+1.7977507 : 5S : 0.31117873271484386
+Player 0 discards 5S.
+Player 0 has [[QH, QS, QD], [3C, 9S, KH, TC, 3S, JC, AD]] with 46 deadwood.
+Player 1 draws TD.
+1
+Player 1 discards TD.
+Player 1 has [[6C, 6S, 6D], [8H, 8S, 8D], [2H, 5H, 7D, 4H]] with 18 deadwood.
+Player 0 draws 2S.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.2431	0.1932	FALSE	0.2685	FALSE	*TRUE*	0.5521	0.5791	0.2152	FALSE	FALSE	0.1223	0.2409
+H	0.2263	0.2158	0.2194	0.1979	0.1305	0.5368	0.3423	0.4181	0.1446	0.0818	0.1675	FALSE	FALSE
+S	0.2519	FALSE	FALSE	0.1528	FALSE	0.4219	0.2730	0.4043	FALSE	0.0947	0.1708	FALSE	0.1891
+D	FALSE	0.2115	0.2142	0.2175	0.1577	0.5125	0.2600	0.2263	FALSE	FALSE	0.0452	FALSE	0.1012
+[6C, 8C, 7C, 6H, 6D, 6S, 8H, 8S, 7H, 7S]
+2.556432 : 3C : 0.14582677269380784
+3.4518816 : 9S : 0.1960077396204034
+1.8090489 : KH : 0.0890688726095699
+1.3344691 : TC : 0.1323658540727776
+1.2653639 : 3S : 0.04699468005983054
+0.5288527 : JC : 0.07334773869918493
+2.2183564 : AD : 0.10231424242801095
+1.5500004 : 2S : 0.12820606438418938
+Player 0 discards 9S.
+Player 0 has [[QH, QS, QD], [3C, KH, TC, 3S, JC, AD, 2S]] with 39 deadwood.
+Player 1 draws 8C.
+1
+Player 1 discards 7D.
+Player 1 has [[6C, 6S, 6D], [8C, 8H, 8S, 8D], [2H, 5H, 4H]] with 11 deadwood.
+Player 0 draws 2D.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.3311	0.2617	FALSE	0.3627	FALSE	*TRUE*	0.3984	0.4873	0.1138	FALSE	FALSE	0.1519	0.2773
+H	0.3083	0.2923	0.2951	0.2673	0.1820	0.8114	0.2471	0.3518	0.0765	0.1110	0.2083	FALSE	FALSE
+S	0.3361	FALSE	FALSE	0.2111	FALSE	0.6299	0.1529	0.1956	FALSE	0.0641	0.1225	FALSE	0.1972
+D	FALSE	FALSE	0.2886	0.2930	0.1829	0.5209	FALSE	0.1005	FALSE	FALSE	0.0526	FALSE	0.1169
+[6C, 6H, 6S, 6D, 8C, 7C, 4C, 8H, AS, AC]
+-2.9038827 : 3C : 0.26671356268982943
+-2.925719 : KH : 0.11016111354949097
+-4.2608128 : TC : 0.06257626113319467
+-2.7142055 : 3S : 0.08514571684716142
+-4.479645 : JC : 0.08504821346997957
+-3.8385637 : AD : 0.10360943716319912
+-4.6421595 : 2S : 0.07650536874244615
+-3.560024 : 2D : 0.16104112419924255
+Player 0 discards 3S.
+Player 0 has [[QH, QS, QD], [3C, KH, TC, JC, AD, 2S, 2D]] with 38 deadwood.
+Player 1 draws 9H.
+1
+Player 1 discards 9H.
+Player 1 has [[6C, 6S, 6D], [8C, 8H, 8S, 8D], [2H, 5H, 4H]] with 11 deadwood.
+Player 0 draws AS.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.3243	0.2358	FALSE	0.3188	FALSE	*TRUE*	0.4599	0.7002	0.0583	FALSE	FALSE	0.1360	0.5352
+H	0.3132	0.1686	0.2556	0.2350	0.1383	0.7900	0.1316	0.4880	FALSE	0.1365	0.1155	FALSE	FALSE
+S	FALSE	FALSE	FALSE	0.1082	FALSE	0.5111	0.2579	0.2326	FALSE	0.1577	0.1811	FALSE	0.2959
+D	FALSE	FALSE	0.2604	0.2575	0.1390	0.6340	FALSE	0.1444	FALSE	FALSE	0.0534	FALSE	0.2256
+[6C, 6H, 8C, 6D, KC, 6S, 8H, 7C, AC, 4C]
+4.5215826 : 3C : 0.2182182327292772
+1.1216176 : KH : 0.3459004818843162
+1.0299351 : TC : 0.062350681780634826
+0.81110024 : JC : 0.10956433168646741
+1.3015759 : AD : 0.0
+1.7958567 : 2S : 0.039755025316301935
+0.5677345 : 2D : 0.10681263348734507
+0.46135736 : AS : 0.0
+Player 0 discards 3C.
+Player 0 has [[QH, QS, QD], [KH, TC, JC, AD, 2S, 2D, AS]] with 36 deadwood.
+Player 1 draws 4C.
+1
+Player 1 discards 5H.
+Player 1 has [[6C, 6S, 6D], [8C, 8H, 8S, 8D], [2H, 4H, 4C]] with 10 deadwood.
+Player 1 melds [[6C, 6S, 6D], [8C, 8H, 8S, 8D]] with 10 deadwood from [4C, 2H, 4H].
+Player 0 melds [[QH, QS, QD]].
+Player 0 has 36 deadwood with [TC, JC, KH, AS, 2S, AD, 2D]
+Player 1 scores the deadwood difference of 26.
+Player	Score
+0	49
+1	26
+Player 0 is dealt [6H, QC, 5H, 2H, KC, 6D, AS, 2S, AH, QH].
+Player 1 is dealt [KD, 5C, JC, QS, 5D, 4H, 8S, TH, KH, 9S].
+Player 0 starts.
+The initial face up card is 8H.
+Player 0 declines 8H.
+Player 1 declines 8H.
+Player 0 draws AC.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	FALSE	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500	FALSE	FALSE
+H	FALSE	FALSE	0.2500	0.2500	FALSE	FALSE	0.2500	FALSE	0.2500	0.2500	0.2500	FALSE	0.2500
+S	FALSE	FALSE	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500
+D	0.2500	0.2500	0.2500	0.2500	0.2500	FALSE	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500
+[2C, 3C, 4C, 5C, 6C, 7C, 8C, 9C, TC, JC]
+5.2069683 : 6H : 0.06249999999999993
+4.3898516 : QC : 0.12499999999999986
+7.14143 : 5H : 0.24999999999999972
+7.2606983 : 2H : 0.12499999999999986
+4.837488 : KC : 0.18749999999999978
+7.8266134 : 6D : 0.24999999999999972
+6.6673365 : 2S : 0.12499999999999986
+5.151636 : QH : 0.18749999999999978
+Player 0 discards 6D.
+Player 0 has [[AC, AH, AS], [6H, QC, 5H, 2H, KC, 2S, QH]] with 45 deadwood.
+Player 1 draws 2C.
+5
+Player 1 discards TH.
+Player 1 has [KD, 5C, JC, QS, 5D, 4H, 8S, KH, 9S, 2C] with 73 deadwood.
+Player 0 draws 4S.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	FALSE	0.2568	0.2583	0.2526	0.2553	0.2022	0.2700	0.2883	0.3125	0.1989	0.3253	FALSE	FALSE
+H	FALSE	FALSE	0.2605	0.2670	FALSE	FALSE	0.2512	FALSE	0.2337	FALSE	0.1921	FALSE	0.3060
+S	FALSE	FALSE	0.2583	FALSE	0.2553	0.2022	0.2700	0.2883	0.3125	0.1989	0.3253	0.3081	0.3114
+D	0.2598	0.2830	0.2608	0.2430	0.2123	FALSE	0.2168	0.2455	0.2892	0.1689	0.3197	0.3059	0.3335
+[KD, JC, JS, JD, 9C, 9S, KS, QS, KH, QD]
+6.8271933 : 6H : 0.04087491876629669
+4.767165 : QC : 0.15895504407762268
+6.1759167 : 5H : 0.24321097643320044
+7.8783827 : 2H : 0.14226000402503255
+4.147442 : KC : 0.30122209129363964
+6.8825655 : 2S : 0.07269022901139931
+5.463296 : QH : 0.15303079241736176
+8.666233 : 4S : 0.3113117946822951
+Player 0 discards 4S.
+Player 0 has [[AC, AH, AS], [6H, QC, 5H, 2H, KC, 2S, QH]] with 45 deadwood.
+Player 1 draws 2D.
+4
+Player 1 discards KH.
+Player 1 has [KD, 5C, JC, QS, 5D, 4H, 8S, 9S, 2C, 2D] with 65 deadwood.
+Player 0 draws TC.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	FALSE	0.2055	0.2124	0.1706	0.2198	0.1708	0.2566	0.3023	0.3725	FALSE	0.4903	FALSE	FALSE
+H	FALSE	FALSE	0.1962	0.1731	FALSE	FALSE	0.2681	FALSE	0.2586	FALSE	0.2355	FALSE	FALSE
+S	FALSE	FALSE	0.1572	FALSE	0.1628	0.1629	0.2391	0.3136	0.3562	0.3195	0.4916	0.4783	0.3705
+D	0.2077	0.2265	0.2145	0.1642	0.1828	FALSE	0.2060	0.2573	0.3448	0.2601	0.4819	0.5106	0.3596
+[QD, JS, JC, JD, QS, 9C, KS, KD, 9S, 9D]
+7.506505 : 6H : 0.02782720834504249
+5.4281893 : QC : 0.24419616663452395
+7.1576796 : 5H : 0.13967755440703916
+8.334237 : 2H : 0.08049168545271349
+5.002285 : KC : 0.13324176973462618
+7.7408705 : 2S : 0.04653826251689872
+6.3535185 : QH : 0.24419616663452395
+6.9085884 : TC : 0.3783687940500621
+Player 0 discards 2H.
+Player 0 has [[AC, AH, AS], [6H, QC, 5H, KC, 2S, QH, TC]] with 53 deadwood.
+Player 1 draws 2H.
+3
+Player 1 discards QS.
+Player 1 has [[2C, 2H, 2D], [KD, 5C, JC, 5D, 4H, 8S, 9S]] with 51 deadwood.
+Player 0 draws QS.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	FALSE	0.3371	0.1396	0.1107	0.1323	0.1080	0.1790	0.2465	0.3780	FALSE	0.5254	FALSE	FALSE
+H	FALSE	*TRUE*	0.3284	0.1818	FALSE	FALSE	0.2285	FALSE	0.2679	FALSE	0.2604	FALSE	FALSE
+S	FALSE	FALSE	0.0849	FALSE	0.0879	0.1071	0.1800	0.2867	0.3387	0.3011	0.3851	FALSE	0.4854
+D	0.1334	0.3715	0.1409	0.1065	0.1100	FALSE	0.1437	0.2099	0.3498	0.2708	0.5163	0.4813	0.4855
+[2H, JC, JD, KD, KS, QD, JS, 9C, 2D, 9D]
+9.543676 : 6H : 0.011572198351475878
+9.2397175 : 5H : 0.09556061266415858
+6.880831 : KC : 0.23566643484820085
+9.855523 : 2S : 0.8338047267860196
+8.831889 : TC : 0.37324860579289015
+Player 0 discards 2S.
+Player 0 has [[AC, AH, AS], [QC, QH, QS], [6H, 5H, KC, TC]] with 31 deadwood.
+Player 1 draws 2S.
+2
+Player 1 discards KD.
+Player 1 has [[2C, 2H, 2S, 2D], [5C, JC, 5D, 4H, 8S, 9S]] with 41 deadwood.
+Player 0 draws KS.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	FALSE	0.6095	0.0873	0.0698	0.0846	0.0567	0.1290	0.2251	0.3911	FALSE	0.6457	FALSE	FALSE
+H	FALSE	*TRUE*	0.2054	0.1146	FALSE	FALSE	0.1647	FALSE	0.2772	FALSE	0.3201	FALSE	FALSE
+S	FALSE	*TRUE*	0.1383	FALSE	0.0603	0.0647	0.1736	0.2393	0.3292	0.3229	0.3648	FALSE	FALSE
+D	0.0673	0.6568	0.0869	0.0533	0.0796	FALSE	0.0965	0.1294	0.2818	0.3194	0.5240	0.6311	FALSE
+[2H, 2S, 2D, JC, QD, 2C, JD, 9C, JS, 9S]
+1.858927 : 6H : 0.003668768993762744
+2.0400565 : 5H : 0.04018421408144654
+-0.44545913 : KC : 0.0
+1.7015765 : TC : 0.443669979286737
+1.708832 : KS : 0.0
+Player 0 discards 5H.
+Player 0 has [[AC, AH, AS], [QC, QH, QS], [6H, KC, TC, KS]] with 36 deadwood.
+Player 1 draws 5H.
+1
+Player 1 discards JC.
+Player 1 has [[2C, 2H, 2S, 2D], [5C, 5H, 5D], [4H, 8S, 9S]] with 21 deadwood.
+Player 0 draws JC.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	FALSE	0.4639	0.0642	0.0453	0.1613	0.0343	0.0885	0.2334	0.3231	FALSE	FALSE	FALSE	FALSE
+H	FALSE	*TRUE*	0.2265	0.1702	*TRUE*	FALSE	0.2343	FALSE	0.3361	FALSE	0.3068	FALSE	FALSE
+S	FALSE	*TRUE*	0.0998	FALSE	0.1107	0.0567	0.1388	0.2180	0.3445	0.3076	0.3337	FALSE	FALSE
+D	0.0518	0.4130	0.0627	0.0331	0.1460	FALSE	0.0772	0.1179	0.2948	0.3044	0.4793	0.7222	FALSE
+[2H, 5H, 2S, QD, JD, 2C, 2D, 9S, 9H, JS]
+-1.2241447 : 6H : 0.40647810371591303
+-2.6861742 : QH : 0.0
+-2.4764812 : QS : 0.1026517797033979
+-1.6621358 : KS : 0.0
+Player 0 discards 6H.
+Player 0 has [[TC, JC, QC, KC], [AC, AH, AS], [QH, QS, KS]] with 30 deadwood.
+Player 1 draws 6H.
+1
+Player 1 discards 9S.
+Player 1 has [[4H, 5H, 6H], [2C, 2H, 2S, 2D], [5C, 5D, 8S]] with 18 deadwood.
+Player 0 draws TS.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	FALSE	0.5160	0.0693	0.0464	0.1801	0.0899	0.1422	0.3746	0.1682	FALSE	FALSE	FALSE	FALSE
+H	FALSE	*TRUE*	0.2740	0.2854	*TRUE*	*TRUE*	0.6941	FALSE	0.2638	FALSE	0.1506	FALSE	FALSE
+S	FALSE	*TRUE*	0.1112	FALSE	0.1328	0.1431	0.1901	0.2383	FALSE	FALSE	0.0945	FALSE	FALSE
+D	0.0572	0.4593	0.0677	0.0339	0.1629	FALSE	0.1239	0.1892	0.1534	0.1175	0.2059	0.2643	FALSE
+[2H, 5H, 6H, 2S, 7H, 2C, 2D, 8C, 4H, 3H]
+1.2057116 : QH : 0.0
+1.2796481 : QS : 0.0
+2.1245224 : KS : 0.0
+1.672868 : TS : 0.0
+Player 0 discards KS.
+Player 0 has [[TC, JC, QC, KC], [AC, AH, AS], [QH, QS, TS]] with 30 deadwood.
+Player 1 draws TD.
+1
+Player 1 discards TD.
+Player 1 has [[4H, 5H, 6H], [2C, 2H, 2S, 2D], [5C, 5D, 8S]] with 18 deadwood.
+Player 0 draws TD.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	FALSE	0.4605	0.0625	0.0418	0.1686	0.0885	0.1515	0.4347	0.2155	FALSE	FALSE	FALSE	FALSE
+H	FALSE	*TRUE*	0.2469	0.2575	*TRUE*	*TRUE*	0.7398	FALSE	0.3382	FALSE	0.2059	FALSE	FALSE
+S	FALSE	*TRUE*	0.1002	FALSE	0.1244	0.1423	0.1992	0.2697	FALSE	FALSE	0.1128	FALSE	FALSE
+D	0.0505	0.4125	0.0616	0.0310	0.1529	FALSE	0.1291	0.1834	0.1438	FALSE	0.1883	0.2864	FALSE
+[2H, 5H, 6H, 2S, 7H, 2C, 8C, 2D, 9H, QD]
+11.227246 : QH : 0.0
+11.011901 : QS : 0.0
+Player 0 discards QH.
+Player 0 has [[TC, TS, TD], [JC, QC, KC], [AC, AH, AS], [QS]] with 10 deadwood.
+Player 0 melds [[TC, TS, TD], [JC, QC, KC], [AC, AH, AS]] with 10 deadwood from [QS].
+Player 1 melds [[2C, 2H, 2S, 2D], [5C, 5H, 5D]].
+Player 1 has 18 deadwood with [4H, 6H, 8S]
+Player 0 scores the deadwood difference of 8.
+Player	Score
+0	57
+1	26
+Player 0 is dealt [2C, AC, 3S, KS, 8S, 9H, KH, 4C, KD, JC].
+Player 1 is dealt [6S, TC, TH, 9C, QC, 6C, 5C, 3C, 5H, AS].
+Player 1 starts.
+The initial face up card is QS.
+Player 1 declines QS.
+Player 0 declines QS.
+Player 1 draws 7H.
+3
+Player 1 discards TC.
+Player 1 has [6S, TH, 9C, QC, 6C, 5C, 3C, 5H, AS, 7H] with 62 deadwood.
+Player 0 draws 4H.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	FALSE	FALSE	0.2309	FALSE	0.2438	0.2564	0.2661	0.2520	0.2374	FALSE	FALSE	0.1886	0.3357
+H	0.2295	0.2327	0.2302	FALSE	0.2405	0.2532	0.2698	0.3001	FALSE	0.2167	0.3589	0.2711	FALSE
+S	0.2333	0.2311	FALSE	0.2333	0.2384	0.2554	0.2730	FALSE	0.3153	0.1652	0.2708	FALSE	FALSE
+D	0.2295	0.2327	0.2302	0.2344	0.2405	0.2532	0.2698	0.3001	0.3334	0.2167	0.3589	0.2711	FALSE
+[JH, JD, KC, 9D, 9S, 8H, 8D, 7S, QH, QD]
+2.3217347 : 2C : 0.16165981458587753
+1.9471562 : AC : 0.1597247804668802
+3.6861298 : 3S : 0.3227625681057609
+3.6892664 : 8S : 0.4492426221805569
+2.0733407 : 9H : 0.4829207227443004
+1.9120047 : 4C : 0.1734730699796979
+1.1399462 : JC : 0.38651690437853425
+2.634556 : 4H : 0.2245239618324597
+Player 0 discards 8S.
+Player 0 has [[KH, KS, KD], [2C, AC, 3S, 9H, 4C, JC, 4H]] with 33 deadwood.
+Player 1 draws 6D.
+2
+Player 1 discards QC.
+Player 1 has [[6C, 6S, 6D], [TH, 9C, 5C, 3C, 5H, AS, 7H]] with 40 deadwood.
+Player 0 draws QD.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	FALSE	FALSE	0.2380	FALSE	0.2551	0.2815	0.2850	0.2188	0.2981	FALSE	FALSE	FALSE	0.3330
+H	0.2355	0.2416	0.2397	FALSE	0.2520	0.2696	0.2943	0.2684	FALSE	0.2501	0.4424	0.1783	FALSE
+S	0.2468	0.2427	FALSE	0.2385	0.2582	0.2490	0.2440	FALSE	0.3101	0.1531	0.3054	FALSE	FALSE
+D	0.2355	0.2416	0.2397	0.2428	0.2520	0.2696	0.2943	0.2684	0.4343	0.2501	0.4424	FALSE	FALSE
+[JH, JD, 9D, KC, 9S, JS, 9C, 7H, 7D, 7C]
+1.0719044 : 2C : 0.17566623499027936
+0.69732404 : AC : 0.17165616450068305
+2.4362996 : 3S : 0.35094228347764694
+0.6022885 : 9H : 0.6134026802279839
+0.6621735 : 4C : 0.19044105776228762
+-0.09948039 : JC : 0.4659581608687159
+1.3847239 : 4H : 0.2441580501856702
+0.42746663 : QD : 0.11065473022292759
+Player 0 discards 3S.
+Player 0 has [[KH, KS, KD], [2C, AC, 9H, 4C, JC, 4H, QD]] with 40 deadwood.
+Player 1 draws JH.
+2
+Player 1 discards TH.
+Player 1 has [[6C, 6S, 6D], [9C, 5C, 3C, 5H, AS, 7H, JH]] with 40 deadwood.
+Player 0 draws 5D.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	FALSE	FALSE	0.1527	FALSE	0.2105	0.2592	0.2781	0.2384	0.3933	FALSE	FALSE	FALSE	0.6385
+H	0.1812	0.1972	0.1618	FALSE	0.2000	0.2452	0.2901	0.2371	FALSE	FALSE	0.5186	0.2890	FALSE
+S	0.1831	0.1483	FALSE	0.1433	0.1802	0.2188	0.2393	FALSE	0.4246	0.1824	0.6018	FALSE	FALSE
+D	0.1836	0.1905	0.1538	0.1853	FALSE	0.2482	0.2872	0.2924	0.5730	0.2885	0.7846	FALSE	FALSE
+[JD, KC, JS, 9D, JH, 9S, 9C, 8D, 7H, QH]
+0.9625771 : 2C : 0.09505110894000435
+0.56622434 : AC : 0.10008059866552096
+0.52751374 : 9H : 0.7044995612212785
+1.088691 : 4C : 0.11323968008755635
+0.17642045 : JC : 1.1912574655993604
+0.65652585 : 4H : 0.13987896146009415
+0.2943461 : QD : 0.22634104731921637
+3.7136567 : 5D : 0.2618616868037996
+Player 0 discards 5D.
+Player 0 has [[KH, KS, KD], [2C, AC, 9H, 4C, JC, 4H, QD]] with 40 deadwood.
+Player 1 draws 5D.
+1
+Player 1 discards JH.
+Player 1 has [[5C, 5H, 5D], [6C, 6S, 6D], [9C, 3C, AS, 7H]] with 20 deadwood.
+Player 0 draws 2D.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	FALSE	FALSE	0.1010	FALSE	0.3540	0.2082	0.2039	0.1991	0.3773	FALSE	FALSE	FALSE	0.8463
+H	0.1137	0.1376	0.1091	FALSE	0.3496	0.1359	0.1826	0.2255	FALSE	FALSE	FALSE	0.2735	FALSE
+S	0.1292	0.0855	FALSE	0.0817	0.3031	0.1757	0.1754	FALSE	0.4073	0.1594	0.5048	FALSE	FALSE
+D	0.1082	FALSE	0.1555	0.2523	*TRUE*	0.4336	0.3748	0.2380	0.6371	0.2718	0.6894	FALSE	FALSE
+[5D, KC, JD, 9D, JS, 6D, 9S, 9C, 7D, 5C]
+-0.05717063 : 2C : 0.01176613938749624
+-0.20975184 : AC : 0.04098846944436629
+0.9899857 : 9H : 0.6947671000719278
+0.6124642 : 4C : 0.1300622382580791
+-0.5054996 : JC : 0.34802281739202195
+1.1776717 : 4H : 0.12125662466798198
+0.32272935 : QD : 0.18735657071267847
+-0.7410381 : 2D : 0.06781954412535672
+Player 0 discards 4H.
+Player 0 has [[KH, KS, KD], [2C, AC, 9H, 4C, JC, QD, 2D]] with 38 deadwood.
+Player 1 draws 4D.
+1
+Player 1 discards 9C.
+Player 1 has [[5C, 5H, 5D], [6C, 6S, 6D], [3C, AS, 7H, 4D]] with 15 deadwood.
+Player 0 draws 8H.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	FALSE	FALSE	0.1201	FALSE	0.4074	0.2783	0.2068	0.2097	FALSE	FALSE	FALSE	FALSE	0.8679
+H	0.1556	0.1634	0.0774	FALSE	0.2471	0.1553	0.1982	FALSE	FALSE	FALSE	FALSE	0.2602	FALSE
+S	0.1433	0.0983	FALSE	0.0811	0.3918	0.2141	0.2111	FALSE	0.3018	0.1712	0.5825	FALSE	FALSE
+D	0.1200	FALSE	0.1595	0.2505	*TRUE*	0.5282	0.4510	0.3885	0.4720	0.2919	0.7956	FALSE	FALSE
+[5D, KC, JD, JS, 6D, 9D, 7D, 5C, 5S, 8D]
+-1.052593 : 2C : 0.0160606093443462
+-1.3720653 : AC : 0.05816905114812545
+-2.6996095 : 9H : 0.14246549721298443
+0.7102883 : 4C : 0.18266263121362242
+-1.7762706 : JC : 0.46343555168316397
+-0.8193481 : QD : 0.23223242195478846
+-1.5024078 : 2D : 0.07517200335002469
+-1.6429975 : 8H : 0.11224956242598598
+Player 0 discards 4C.
+Player 0 has [[KH, KS, KD], [2C, AC, 9H, JC, QD, 2D, 8H]] with 42 deadwood.
+Player 1 draws 4C.
+1
+Player 1 discards 7H.
+Player 1 has [[3C, 4C, 5C, 6C], [4D, 5D, 6D], [6S, 5H, AS]] with 12 deadwood.
+Player 0 draws 7H.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	FALSE	FALSE	0.2090	*TRUE*	1.0015	0.6374	0.1456	0.0791	FALSE	FALSE	FALSE	FALSE	0.5311
+H	0.1826	0.1905	0.0762	FALSE	0.3453	0.1439	FALSE	FALSE	FALSE	FALSE	FALSE	0.1314	FALSE
+S	0.1698	0.1337	FALSE	0.1611	0.6467	0.2947	0.0981	FALSE	0.0762	0.0477	0.2731	FALSE	FALSE
+D	0.1422	FALSE	0.1716	0.4976	*TRUE*	0.7272	0.2095	0.1038	0.1192	0.0813	0.3730	FALSE	FALSE
+[4C, 5D, 5C, 6D, 5S, 6C, KC, 4D, JD, 5H]
+-0.98636603 : 2C : 0.23445011006554556
+-1.1464779 : AC : 0.08111504440585135
+1.740391 : JC : 0.10184689707911795
+2.4800742 : QD : 0.030337070765719905
+1.4326661 : 2D : 0.13527893453498996
+Player 0 discards QD.
+Player 0 has [[7H, 8H, 9H], [KH, KS, KD], [2C, AC, JC, 2D]] with 15 deadwood.
+Player 1 draws 6H.
+1
+Player 1 discards 5H.
+Player 1 has [[3C, 4C, 5C], [4D, 5D, 6D], [6C, 6H, 6S], [AS]] with 1 deadwood.
+Player 1 melds [[3C, 4C, 5C], [4D, 5D, 6D], [6C, 6H, 6S]] with 1 deadwood from [AS].
+Player 0 melds [[7H, 8H, 9H], [KH, KS, KD]].
+Player 0 lays off 2C on [3C, 4C, 5C].
+Player 0 lays off AC on [3C, 4C, 5C, 2C].
+Player 0 has 12 deadwood with [JC, 2D]
+Player 1 scores the deadwood difference of 11.
+Player	Score
+0	57
+1	37
+Player 0 is dealt [8H, TC, 7C, 3H, 4H, 9C, 3S, 5S, 9H, QH].
+Player 1 is dealt [2D, JS, JD, 9S, 6H, 8C, 9D, 6C, AD, 8D].
+Player 0 starts.
+The initial face up card is KS.
+Player 0 declines KS.
+Player 1 declines KS.
+Player 0 draws 3D.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500	FALSE	0.2500	FALSE	FALSE	0.2500	0.2500	0.2500
+H	0.2500	0.2500	FALSE	FALSE	0.2500	0.2500	0.2500	FALSE	FALSE	0.2500	0.2500	FALSE	0.2500
+S	0.2500	0.2500	FALSE	0.2500	FALSE	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500	FALSE
+D	0.2500	0.2500	FALSE	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500	0.2500
+[AC, 2C, 3C, 4C, 5C, 6C, 8C, JC, QC, KC]
+-0.108822584 : 8H : 0.24999999999999972
+-1.760597 : TC : 0.24999999999999972
+1.2944453 : 7C : 0.31249999999999967
+1.9930947 : 4H : 0.24999999999999972
+-1.618634 : 9C : 0.06249999999999993
+1.7157099 : 5S : 0.31249999999999967
+-1.503001 : 9H : 0.12499999999999986
+-1.358937 : QH : 0.31249999999999967
+Player 0 discards 4H.
+Player 0 has [[3H, 3S, 3D], [8H, TC, 7C, 9C, 5S, 9H, QH]] with 58 deadwood.
+Player 1 draws QS.
+3
+Player 1 discards JD.
+Player 1 has [2D, JS, 9S, 6H, 8C, 9D, 6C, AD, 8D, QS] with 69 deadwood.
+Player 0 draws 5C.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.1974	0.2056	0.2042	0.1640	FALSE	0.2189	FALSE	0.2792	FALSE	FALSE	0.2719	0.4340	0.4105
+H	0.2044	0.1794	FALSE	FALSE	0.1709	0.2130	0.2280	FALSE	FALSE	0.3973	0.2960	FALSE	0.4750
+S	0.1974	0.2056	FALSE	0.1640	FALSE	0.2189	0.2396	0.2792	0.3000	0.3634	0.2719	0.4340	FALSE
+D	0.2077	0.2187	FALSE	0.1590	0.1994	0.2148	0.2713	0.2770	0.2521	0.2396	FALSE	0.3006	0.4360
+[KH, KD, QC, QS, KC, TH, TS, QD, 9S, JH]
+1.2586195 : 8H : 0.28115432381238453
+-0.45824885 : TC : 0.4446754575339277
+2.36436 : 7C : 0.24260968021606408
+-0.3162868 : 9C : 0.07563002958069877
+1.5032752 : 5S : 0.12244702491787114
+-0.20065475 : 9H : 0.19325357137754579
+-0.05658984 : QH : 0.707566349045589
+1.6789744 : 5C : 0.10347780304145959
+Player 0 discards 7C.
+Player 0 has [[3H, 3S, 3D], [8H, TC, 9C, 5S, 9H, QH, 5C]] with 56 deadwood.
+Player 1 draws 7C.
+2
+Player 1 discards JS.
+Player 1 has [[6C, 7C, 8C], [2D, 9S, 6H, 9D, AD, 8D, QS]] with 45 deadwood.
+Player 0 draws 4D.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.1334	0.1380	0.1303	0.1113	FALSE	0.3921	*TRUE*	0.6357	FALSE	FALSE	0.1451	0.4095	0.3908
+H	0.1432	0.1176	FALSE	FALSE	0.1165	0.1561	0.4633	FALSE	FALSE	0.2920	0.1674	FALSE	0.4457
+S	0.1235	0.1310	FALSE	0.1238	FALSE	0.1463	0.4878	0.2779	0.3120	0.2451	FALSE	0.2234	FALSE
+D	0.1456	0.1434	FALSE	FALSE	0.1359	0.1574	0.5515	0.2940	0.2690	0.1761	FALSE	0.2592	0.4091
+[7C, 8C, 7D, 7S, 7H, KH, QC, KD, 6C, KC]
+-6.055567 : 8H : 0.5176103713781645
+-5.8891525 : TC : 0.22556014618900497
+-6.249077 : 9C : 0.7196799324390623
+-5.040122 : 5S : 0.10530006746105199
+-6.385051 : 9H : 0.13283695818986757
+-5.331114 : QH : 0.37899313133991325
+-5.1688433 : 5C : 0.4661326960255756
+-3.8093174 : 4D : 0.0351742577570357
+Player 0 discards 4D.
+Player 0 has [[3H, 3S, 3D], [8H, TC, 9C, 5S, 9H, QH, 5C]] with 56 deadwood.
+Player 1 draws 6D.
+1
+Player 1 discards QS.
+Player 1 has [[6C, 7C, 8C], [2D, 9S, 6H, 9D, AD, 8D, 6D]] with 41 deadwood.
+Player 0 draws JC.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.1020	0.1061	0.0948	0.0683	FALSE	0.2962	*TRUE*	0.6604	FALSE	FALSE	FALSE	0.4584	0.6308
+H	0.1096	0.0904	FALSE	FALSE	0.0964	0.1179	0.3938	FALSE	FALSE	0.4175	0.2799	FALSE	0.7194
+S	0.0870	0.1005	FALSE	0.0782	FALSE	0.1403	0.4155	0.2586	0.3348	0.2998	FALSE	FALSE	FALSE
+D	0.1081	0.1037	FALSE	FALSE	0.0823	0.1142	0.4618	0.3030	0.3222	0.2317	FALSE	0.2525	0.6639
+[7C, KH, KD, 8C, KC, 7D, QC, TH, 7S, 7H]
+3.700724 : 8H : 0.4956629562262391
+4.2880106 : 5S : 0.07718241100327894
+1.6977713 : 9H : 0.22473771335851783
+3.5252821 : QH : 0.43393153443829874
+3.016637 : 5C : 0.3308475027383909
+Player 0 discards 5S.
+Player 0 has [[9C, TC, JC], [3H, 3S, 3D], [8H, 9H, QH, 5C]] with 32 deadwood.
+Player 1 draws 7D.
+1
+Player 1 discards 9S.
+Player 1 has [[6C, 7C, 8C], [6D, 7D, 8D, 9D], [2D, 6H, AD]] with 9 deadwood.
+Player 1 melds [[6C, 7C, 8C], [6D, 7D, 8D, 9D]] with 9 deadwood from [6H, AD, 2D].
+Player 0 melds [[9C, TC, JC], [3H, 3S, 3D]].
+Player 0 lays off 5C on [6C, 7C, 8C].
+Player 0 has 27 deadwood with [8H, 9H, QH]
+Player 1 scores the deadwood difference of 18.
+Player	Score
+0	57
+1	55
+Player 0 is dealt [TS, 7C, QH, 6C, 8C, 3C, 9S, 2S, 9C, AD].
+Player 1 is dealt [8H, KD, 2H, JH, 3H, JC, 8S, JD, 3S, 5C].
+Player 1 starts.
+The initial face up card is 4C.
+Player 1 declines 4C.
+Player 0 declines 4C.
+Player 1 draws 6H.
+1
+Player 1 discards KD.
+Player 1 has [[JC, JH, JD], [8H, 2H, 3H, 8S, 3S, 5C, 6H]] with 35 deadwood.
+Player 0 draws QC.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.1983	0.1782	FALSE	FALSE	0.1593	FALSE	FALSE	FALSE	FALSE	0.4015	0.3778	FALSE	0.2975
+H	0.1998	0.2000	0.2056	0.1689	0.2152	0.2112	0.2376	0.2621	0.2980	0.3850	0.3769	FALSE	0.2695
+S	0.1998	FALSE	0.2056	0.1689	0.2152	0.2112	0.2376	0.2621	FALSE	FALSE	0.3769	0.4172	0.2695
+D	FALSE	0.2053	0.1883	0.1620	0.2339	0.2150	0.2667	0.2636	0.2766	0.3062	0.3065	0.3695	FALSE
+[QS, TC, TH, JC, JH, JS, QD, JD, TD, 9H]
+7.601115 : TS : 0.552634224961671
+8.959478 : QH : 0.40081047949663806
+10.663814 : 3C : 0.15500512516487203
+8.081507 : 9S : 0.1446861828603502
+9.885105 : 2S : 0.18910402205703836
+8.767625 : AD : 0.0785774393764774
+7.660533 : QC : 0.4182399775722316
+Player 0 discards 3C.
+Player 0 has [[6C, 7C, 8C, 9C], [TS, QH, 9S, 2S, AD, QC]] with 42 deadwood.
+Player 1 draws 3C.
+2
+Player 1 discards 8S.
+Player 1 has [[3C, 3H, 3S], [JC, JH, JD], [8H, 2H, 5C, 6H]] with 21 deadwood.
+Player 0 draws 8S.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.1833	0.1647	*TRUE*	FALSE	0.1473	FALSE	FALSE	FALSE	FALSE	0.3711	0.3492	FALSE	0.2749
+H	0.1847	0.1849	0.1900	0.1561	0.1989	0.1952	0.2196	0.2422	0.2754	0.3558	0.3483	FALSE	0.2491
+S	0.1847	FALSE	0.1900	0.1561	0.1989	0.1952	0.2196	FALSE	FALSE	FALSE	0.3483	0.3856	0.2491
+D	FALSE	0.1897	0.1740	0.1497	0.2161	0.1987	0.2465	0.2436	0.2557	0.2830	0.2833	0.3415	FALSE
+[3C, QS, TC, TH, JC, JH, JS, QD, JD, TD]
+24.64797 : QH : 0.342364916700884
+19.81415 : 2S : 0.1615291667040934
+19.493536 : AD : 0.06711939897500134
+23.47595 : QC : 0.3572528723857823
+Player 0 discards QH.
+Player 0 has [[6C, 7C, 8C, 9C], [8S, 9S, TS], [2S, AD, QC]] with 13 deadwood.
+Player 1 draws 2D.
+1
+Player 1 discards 8H.
+Player 1 has [[3C, 3H, 3S], [JC, JH, JD], [2H, 5C, 6H, 2D]] with 15 deadwood.
+Player 0 draws 8H.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.2174	0.1922	*TRUE*	FALSE	0.1778	FALSE	FALSE	FALSE	FALSE	0.4407	0.4162	FALSE	0.2959
+H	0.2353	0.2217	0.2256	0.1886	0.2407	0.2153	0.2001	FALSE	0.1132	0.2063	0.2059	FALSE	0.1921
+S	0.2191	FALSE	0.2227	0.1874	0.2401	0.2595	0.3172	FALSE	FALSE	FALSE	0.4151	0.1851	0.2681
+D	FALSE	0.2214	0.2040	0.1798	0.2609	0.2642	0.3561	0.1713	0.2056	0.3361	0.3376	0.1639	FALSE
+[3C, TC, JC, JS, 7D, JD, TD, 7S, KC, KS]
+12.113129 : 2S : 0.22479610376188525
+10.415799 : AD : 0.0967085090648249
+12.374817 : QC : 0.3369015896586438
+Player 0 discards QC.
+Player 0 has [[6C, 7C, 8C, 9C], [8S, 9S, TS], [2S, AD, 8H]] with 11 deadwood.
+Player 1 draws 7H.
+1
+Player 1 discards 7H.
+Player 1 has [[3C, 3H, 3S], [JC, JH, JD], [2H, 5C, 6H, 2D]] with 15 deadwood.
+Player 0 draws 6D.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.2620	0.2349	*TRUE*	FALSE	0.2326	FALSE	FALSE	FALSE	FALSE	0.3664	0.2611	FALSE	0.2323
+H	0.2901	0.2781	0.2814	0.2305	0.2549	0.1958	FALSE	FALSE	0.0681	0.2076	0.2437	FALSE	0.2067
+S	0.2617	FALSE	0.2703	0.2294	0.3084	0.3620	0.2233	FALSE	FALSE	FALSE	0.5189	0.0964	0.2955
+D	FALSE	0.2714	0.2476	0.2200	0.3351	FALSE	0.2507	0.1345	0.1855	0.4357	0.4220	0.0854	FALSE
+[3C, JS, TD, JD, TC, 6S, 5D, 5S, KS, AH]
+6.1420183 : 2S : 0.3373521308129049
+3.6843364 : AD : 0.14311428288275108
+6.625779 : 8H : 0.014133228152216341
+6.286805 : 6D : 0.26231856963837685
+Player 0 discards 8H.
+Player 0 has [[6C, 7C, 8C, 9C], [8S, 9S, TS], [2S, AD, 6D]] with 9 deadwood.
+Player 0 melds [[6C, 7C, 8C, 9C], [8S, 9S, TS]] with 9 deadwood from [2S, AD, 6D].
+Player 1 melds [[3C, 3H, 3S], [JC, JH, JD]].
+Player 1 lays off 5C on [6C, 7C, 8C, 9C].
+Player 1 has 10 deadwood with [2H, 6H, 2D]
+Player 0 scores the deadwood difference of 1.
+Player	Score
+0	58
+1	55
+Player 0 is dealt [QH, QC, 2H, 4D, 6S, 6D, 4C, 5H, 3C, 7C].
+Player 1 is dealt [2D, JC, AC, 4H, JD, 9D, KH, QD, JS, 5D].
+Player 0 starts.
+The initial face up card is 2C.
+Player 0 draws 2C.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.2439	FALSE	FALSE	FALSE	0.2439	0.2439	FALSE	0.2439	0.2439	0.2439	0.2439	FALSE	0.2439
+H	0.2439	FALSE	0.2439	0.2439	FALSE	0.2439	0.2439	0.2439	0.2439	0.2439	0.2439	FALSE	0.2439
+S	0.2439	0.2439	0.2439	0.2439	0.2439	FALSE	0.2439	0.2439	0.2439	0.2439	0.2439	0.2439	0.2439
+D	0.2439	0.2439	0.2439	FALSE	0.2439	FALSE	0.2439	0.2439	0.2439	0.2439	0.2439	0.2439	0.2439
+[AC, 5C, 6C, 8C, 9C, TC, JC, KC, AH, 3H]
+0.8501098 : QH : 0.17846519928613905
+-0.44901538 : QC : 0.17846519928613905
+1.4284585 : 2H : 0.17846519928613905
+0.53580594 : 4D : 0.17846519928613905
+-0.42282844 : 6S : 0.2379535990481854
+-0.0745008 : 6D : 0.17846519928613905
+4.263571 : 5H : 0.3569303985722781
+2.950816 : 7C : 0.3569303985722781
+Player 0 discards 5H.
+Player 0 has [[2C, 3C, 4C], [QH, QC, 2H, 4D, 6S, 6D, 7C]] with 45 deadwood.
+Player 1 draws 7H.
+2
+Player 1 discards KH.
+Player 1 has [[JC, JS, JD], [2D, AC, 4H, 9D, QD, 5D, 7H]] with 38 deadwood.
+Player 0 draws 6H.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.2278	FALSE	FALSE	FALSE	0.1761	0.2416	FALSE	0.2698	0.2829	0.2891	0.3730	FALSE	0.2191
+H	0.2455	FALSE	0.2037	0.1753	FALSE	FALSE	0.2091	0.2686	0.2638	0.2792	0.3074	FALSE	FALSE
+S	0.2278	0.2353	0.2303	0.2168	0.1761	FALSE	0.2462	0.2698	0.2829	0.2891	0.3730	0.3260	0.2191
+D	0.2278	0.2353	0.2303	FALSE	0.1761	FALSE	0.2462	0.2698	0.2829	0.2891	0.3730	0.3260	0.2191
+[JC, JS, JD, QS, QD, JH, TC, TS, TD, 9C]
+13.115621 : QH : 0.1921156203840891
+11.776302 : QC : 0.29583737514397124
+10.393869 : 2H : 0.14109841277233903
+9.786139 : 4D : 0.1327443988701672
+14.50326 : 7C : 0.34761736643966434
+Player 0 discards 7C.
+Player 0 has [[2C, 3C, 4C], [6H, 6S, 6D], [QH, QC, 2H, 4D]] with 26 deadwood.
+Player 1 draws TC.
+2
+Player 1 discards TC.
+Player 1 has [[JC, JS, JD], [2D, AC, 4H, 9D, QD, 5D, 7H]] with 38 deadwood.
+Player 0 draws QS.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.2449	FALSE	FALSE	FALSE	0.1679	0.2176	FALSE	0.2431	0.2712	FALSE	0.2617	FALSE	0.2801
+H	0.2638	FALSE	0.2181	0.1987	FALSE	FALSE	0.1789	0.3340	0.3470	0.1868	0.3676	FALSE	FALSE
+S	0.2449	0.2505	0.2465	0.2458	0.1965	FALSE	0.2106	0.3355	0.3722	0.1934	0.4460	FALSE	0.2889
+D	0.2449	0.2505	0.2465	FALSE	0.1965	FALSE	0.2106	0.3355	0.3722	0.1934	0.4460	0.4030	0.2889
+[JS, JD, QD, 9S, 9D, JH, 9H, 8S, 8D, 8H]
+43.47712 : 2H : 0.1636534626470391
+44.792553 : 4D : 0.1590313301419251
+Player 0 discards 4D.
+Player 0 has [[2C, 3C, 4C], [6H, 6S, 6D], [QC, QH, QS], [2H]] with 2 deadwood.
+Player 0 melds [[2C, 3C, 4C], [6H, 6S, 6D], [QC, QH, QS]] with 2 deadwood from [2H].
+Player 1 melds [[JC, JS, JD]].
+Player 1 lays off AC on [2C, 3C, 4C].
+Player 1 lays off QD on [QC, QH, QS].
+Player 1 has 27 deadwood with [4H, 7H, 2D, 5D, 9D]
+Player 0 scores the deadwood difference of 25.
+Player	Score
+0	83
+1	55
+Player 0 is dealt [2H, QS, AS, 3D, 9S, 8S, 5S, TS, AH, KC].
+Player 1 is dealt [JD, 5C, TC, 3S, QH, 4D, 4C, TD, 3H, 6D].
+Player 1 starts.
+The initial face up card is KH.
+Player 1 declines KH.
+Player 0 declines KH.
+Player 1 draws 8H.
+4
+Player 1 discards QH.
+Player 1 has [JD, 5C, TC, 3S, 4D, 4C, TD, 3H, 6D, 8H] with 63 deadwood.
+Player 0 draws KD.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.2305	0.2260	0.2291	0.2287	0.2375	0.2523	0.2671	0.2926	0.3201	0.3259	0.3096	0.2219	FALSE
+H	FALSE	FALSE	0.2324	0.2273	0.2411	0.2472	0.2784	0.2956	0.3073	0.2573	0.0852	FALSE	FALSE
+S	FALSE	0.2260	0.2291	0.2287	FALSE	0.2523	0.2671	FALSE	FALSE	FALSE	0.3096	FALSE	0.2626
+D	0.2305	0.2260	FALSE	0.2287	0.2375	0.2523	0.2671	0.2926	0.3201	0.3259	0.3096	0.2219	FALSE
+[TC, TD, 9C, 9D, JC, JS, JD, 9H, 8H, 8C]
+4.685134 : 2H : 0.20600066052443705
+4.0169563 : QS : 0.1305238339811096
+4.2995586 : AS : 0.0517617391264992
+6.588126 : 3D : 0.31698938765415274
+7.9791994 : 5S : 0.34832927828481985
+2.9386609 : AH : 0.0
+3.7980359 : KC : 0.06869350086154845
+3.8666642 : KD : 0.06869350086154845
+Player 0 discards 5S.
+Player 0 has [[8S, 9S, TS], [2H, QS, AS, 3D, AH, KC, KD]] with 37 deadwood.
+Player 1 draws JS.
+4
+Player 1 discards JS.
+Player 1 has [JD, 5C, TC, 3S, 4D, 4C, TD, 3H, 6D, 8H] with 63 deadwood.
+Player 0 draws JS.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.2152	0.2268	0.1956	0.2274	0.1753	0.2530	0.2848	0.3211	0.3805	0.4552	0.2598	0.3185	FALSE
+H	FALSE	FALSE	0.1985	0.2260	0.1779	0.2479	0.2968	0.3244	0.3652	0.3594	0.0715	FALSE	FALSE
+S	FALSE	0.2071	0.2065	0.1648	FALSE	0.2091	0.2118	FALSE	FALSE	FALSE	FALSE	FALSE	0.3025
+D	0.2152	0.2268	FALSE	0.2274	0.1753	0.2530	0.2848	0.3211	0.3805	0.4552	0.2598	0.3185	FALSE
+[TC, TD, 9C, 9D, 9H, TH, 8H, 8C, 8D, QC]
+12.196861 : 2H : 0.1902636073796184
+11.653138 : AS : 0.042764162246752564
+14.23386 : 3D : 0.26043478308093976
+9.275153 : AH : 0.0
+12.191604 : KC : 0.08274682804669865
+12.84844 : KD : 0.08274682804669865
+Player 0 discards 3D.
+Player 0 has [[8S, 9S, TS, JS, QS], [2H, AS, AH, KC, KD]] with 24 deadwood.
+Player 1 draws 3D.
+3
+Player 1 discards TD.
+Player 1 has [[3H, 3S, 3D], [JD, 5C, TC, 4D, 4C, 6D, 8H]] with 47 deadwood.
+Player 0 draws QD.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.1461	0.1588	0.3123	0.1657	0.1200	0.1874	0.2397	0.2829	0.3952	0.4306	0.4326	0.3856	FALSE
+H	FALSE	FALSE	0.3168	0.1647	0.1218	0.1836	0.2497	0.2859	0.3794	0.3400	0.1190	FALSE	FALSE
+S	FALSE	0.1450	0.3296	0.1201	FALSE	0.1549	0.1782	FALSE	FALSE	FALSE	FALSE	FALSE	0.4782
+D	0.2576	0.3903	*TRUE*	0.3158	0.1870	0.1802	0.1598	0.2569	0.2432	FALSE	0.1854	FALSE	FALSE
+[3D, KS, JC, TC, 9C, 2D, QC, 9H, TH, 3S]
+8.775588 : 2H : 0.19378904624354165
+8.928051 : AS : 0.04779642088604975
+7.0193186 : AH : 0.0
+8.425297 : KC : 0.16679488499954556
+9.859046 : KD : 0.0
+10.490985 : QD : 0.0
+Player 0 discards QD.
+Player 0 has [[8S, 9S, TS, JS, QS], [2H, AS, AH, KC, KD]] with 24 deadwood.
+Player 1 draws JC.
+3
+Player 1 discards JC.
+Player 1 has [[3H, 3S, 3D], [JD, 5C, TC, 4D, 4C, 6D, 8H]] with 47 deadwood.
+Player 0 draws 7S.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.1373	0.1524	0.2895	0.1556	0.1201	0.1972	0.2719	0.3379	0.4558	0.4130	FALSE	0.2439	FALSE
+H	FALSE	FALSE	0.3044	0.1577	0.1224	0.1908	0.2842	0.3550	0.5181	0.4825	0.1132	FALSE	FALSE
+S	FALSE	0.1376	0.3167	0.1150	FALSE	0.1610	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	0.7354
+D	0.2398	0.3705	*TRUE*	0.3122	0.1862	0.1893	0.1802	0.3161	0.3251	FALSE	0.1117	FALSE	FALSE
+[3D, KS, 9H, TH, 9C, TC, 2D, 8H, 8C, 9D]
+13.700688 : 2H : 0.17645884275311524
+14.032189 : AS : 0.0435813738867846
+11.719329 : AH : 0.0
+17.017246 : KC : 0.0
+17.510073 : KD : 0.0
+Player 0 discards KD.
+Player 0 has [[7S, 8S, 9S, TS, JS, QS], [2H, AS, AH, KC]] with 14 deadwood.
+Player 1 draws AC.
+2
+Player 1 discards JD.
+Player 1 has [[3H, 3S, 3D], [5C, TC, 4D, 4C, 6D, 8H, AC]] with 38 deadwood.
+Player 0 draws 9H.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.1240	0.1381	0.2606	0.1486	0.1185	0.2020	0.2925	0.3961	0.5986	0.5480	FALSE	0.3265	FALSE
+H	FALSE	FALSE	0.2740	0.1507	0.1208	0.1955	0.3057	0.4161	FALSE	0.6403	0.1018	FALSE	FALSE
+S	FALSE	0.1246	0.2851	0.1099	FALSE	0.1649	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	0.7780
+D	0.2211	0.3622	*TRUE*	0.2976	0.1765	0.1934	0.1991	0.3618	0.3674	FALSE	FALSE	FALSE	FALSE
+[3D, KS, TH, 9C, TC, 8H, 8C, 9D, 2D, 8D]
+9.67527 : 2H : 0.153655366222828
+9.827733 : AS : 0.035539183339208386
+6.97007 : AH : 0.0
+11.135754 : KC : 0.0
+13.7289295 : 9H : 0.6787447001696866
+Player 0 discards 9H.
+Player 0 has [[7S, 8S, 9S, TS, JS, QS], [2H, AS, AH, KC]] with 14 deadwood.
+Player 1 draws JH.
+2
+Player 1 discards TC.
+Player 1 has [[3H, 3S, 3D], [5C, 4D, 4C, 6D, 8H, AC, JH]] with 38 deadwood.
+Player 0 draws 4S.
+Rank	A	2	3	4	5	6	7	8	9	T	J	Q	K
+C	0.1389	0.1568	0.2944	0.1654	0.1398	0.2422	0.3491	0.4067	0.4101	FALSE	FALSE	0.3436	FALSE
+H	FALSE	FALSE	0.3022	0.1717	0.1367	0.2361	0.3264	0.4685	FALSE	0.2419	0.1193	FALSE	FALSE
+S	FALSE	0.1421	0.3144	FALSE	FALSE	0.1992	FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	1.1313
+D	0.2469	0.4129	*TRUE*	0.3373	0.2024	0.2336	0.2510	0.4637	0.4152	FALSE	FALSE	FALSE	FALSE
+[3D, KS, 8H, 8D, 9D, 2D, 9C, 8C, 7C, QC]
+9.782333 : 2H : 0.19760403702550797
+9.293373 : AS : 0.04468933189773491
+6.545727 : AH : 0.0
+17.378267 : KC : 0.0
+12.799256 : 4S : 0.18679680426154827
+Player 0 discards KC.
+Player 0 has [[7S, 8S, 9S, TS, JS, QS], [2H, AS, AH, 4S]] with 8 deadwood.
+Player 0 melds [[7S, 8S, 9S], [TS, JS, QS]] with 8 deadwood from [AH, 2H, AS, 4S].
+Player 1 melds [[3H, 3S, 3D]].
+Player 1 has 38 deadwood with [AC, 4C, 5C, 8H, JH, 4D, 6D]
+Player 0 scores the deadwood difference of 30.
+Player	Score
+0	113
+1	55
+Player 0 wins.
+0 games played in 0 ms.
+Games Won: P0:0, P1:0.
+
+
