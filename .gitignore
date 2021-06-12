@@ -4,6 +4,8 @@ ginrummy1.0/GinRummy/.DS_Store
 ginrummy1.0/GinRummy/GR-Data/June19_gamestates.txt
 ginrummy1.0/GinRummy/.DS_Store
 ginrummy1.0/GR-Git/GR-Data/June19_gamestates.txt
+ginrummy1.0/.DS_Store
+
 ginrummy2.0/result/Random16/Random16Last-DI/DiscountRandom.csv
 ginrummy2.0/result/Random16/Random16Last-DI/DiscountSimple.csv
 ginrummy2.0/result/Random16/Random16Last-DI/TrainRandom.csv
@@ -17,3 +19,6 @@ ginrummy2.0/result/SimpleLast/SimpleLast-LinearReg/SimpleLastTrain.csv
 ginrummy2.0/result/SimpleLast/SimpleLast-LinearReg/SimpleLastVal.csv
 ginrummy1.0/GinRummy/.DS_Store
 .DS_Store
+
+ginrummy-data/
+ginrummy1.0/.DS_Store
