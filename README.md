@@ -17,6 +17,22 @@
 - Tuesday 06/08: Reinforcement learning tutorial 1
 - Thursday 06/10: Reinforcement learning tutorial 2
 - Monday 06/14: Merge repo, reinfocement learning 3
+- Thursday 06/17: Graph Representation Learning
+
+## Topics to learn (together!) "like a painting" - Flow-Recover Algorithm -
+- [x] Chapter 1: Intro
+- [ ] Chapter 2: Background and Traditional Approaches
+  - [ ] Graph Statistics and Kernel Methods
+  - [ ] Neighborhood Overlap Detection
+  - [ ] Graph Laplacians and Spectral Methods
+- [ ] Chapter 3: Neighborhood Reconstruction Methods
+- [ ] Chapter 5: The Graph Neural Network Model
+- [ ] Chapter 6: Graph Neural Networks in Practice
+- [ ] Chapter 7: Theoretical Motivations
+- [ ] Spectral Clustering
+- [ ] Node Embedding (Chapter 3)
+- [ ] Method Passing
+- [ ] Generative Model
 
 ## Resource
 * Potential venue: https://ieee-cog.org/2021/index.html
