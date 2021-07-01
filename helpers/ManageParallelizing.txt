@@ -1,0 +1,15 @@
+# Collect Data
+ssh ...
+cd GR/GinRummy/GR-CollectData
+nohup java GinRummyGame_Parallel_OHE_fix10 &
+
+# Dropping collumn
+data.drop(['GameplayID'], axis=1, inplace = True)
+data = data[data.GamestateNum == 0]
+result = pd.concat([data1, data2, data3, data4])
+data1 = pd.read_csv("DiscountSimple4_Last.csv", index_col = 0)
+
+
+# Remove bracket
+:%s/\[//g
+:%s/\]//g

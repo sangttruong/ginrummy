@@ -1,0 +1,7 @@
+echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.bash_profile
+source ~/.bash_profile
+
+bundle install
+git add --all
+git commit -m "committing my jekyll theme"
+git push
