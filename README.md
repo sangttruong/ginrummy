@@ -44,7 +44,6 @@ To test the player, run GinRummy.java concurrently with Service.py.
 
 ## Resource
 * Potential venue: https://ieee-cog.org/2021/index.html
-* Previous year result: 
 
 ## Contributors: 
 Sang Truong, Masayuki Nagai, Shuto Araki
