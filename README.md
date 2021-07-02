@@ -46,6 +46,6 @@ To test the player, run GinRummy.java concurrently with Service.py.
 * Potential venue: https://ieee-cog.org/2021/index.html
 
 ## Contributors: 
-Sang Truong - Stanford University
-Masayuki Nagai - DePauw University
-Shuto Araki - Amazon Web Services
+- Sang Truong - Stanford University
+- Masayuki Nagai - DePauw University
+- Shuto Araki - Amazon Web Services
