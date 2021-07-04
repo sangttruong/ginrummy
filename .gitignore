@@ -11,3 +11,5 @@ ginrummy-data/SimpleAllTrain.csv
 ginrummy-data/SimpleAllVal.csv
 ginrummy-data/SimpleLastTrain.csv
 ginrummy-data/SimpleLastVal.csv
+*.dat
+*.class
