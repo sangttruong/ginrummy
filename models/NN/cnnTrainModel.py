@@ -13,6 +13,19 @@ from tensorflow.python.keras import Input
 from tensorflow.python.keras.models import Model
 from tensorflow.python.keras.layers import LeakyReLU
 
+# Step Decay
+import numpy as np
+from tensorflow.python.keras.callbacks import LearningRateScheduler
+
+def step_decay_schedule(initial_lr=1e-3, decay_factor=0.75, step_size=10):
+  '''
+  Wrapper function to create a LearningRateScheduler with step decay schedule.
+  '''
+  def schedule(epoch):
+    return initial_lr * (decay_factor ** np.floor(epoch/step_size))
+
+  return LearningRateScheduler(schedule)
+
 
 def NeuralNet_TF_0L():
   model = Sequential()
@@ -46,6 +59,15 @@ def NeuralNet_TF_3L():
 
 def NeuralNet_TF_Functional_0L():
   inputs = Input(shape=(4,13,1,))
+  # EXP 3
+  # x = Conv2D(filters = 64, kernel_size = 4, strides = 1, padding = 'same', activation = 'relu')(inputs)
+  # x = Conv2D(filters = 64, kernel_size = 4, strides = 1, padding = 'same', activation = 'relu')(x)
+
+  # EXP 2
+  # x = Conv2D(filters = 64, kernel_size = 4, strides = 1, padding = 'same', activation = 'sigmoid')(inputs)
+  # x = Conv2D(filters = 64, kernel_size = 4, strides = 1, padding = 'same', activation = 'sigmoid')(x)
+
+  # EXP 1
   x = Conv2D(filters = 64, kernel_size = 4, strides = 1, padding = 'same')(inputs)
   x = LeakyReLU(alpha=0.3)(x)
   x = Conv2D(filters = 64, kernel_size = 4, strides = 1, padding = 'same')(x)
@@ -81,6 +103,7 @@ X = X.reshape((-1,4,13,1)) # If use convolution operator
 # Split X and y to train and test
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.15, random_state=42)
 
+# EXP 1
 # Training model
 # name = 'NeuralNet_TF_0L_Geo_1M_onlyhand'
 NN   = NeuralNet_TF_Functional_0L()
@@ -90,6 +113,20 @@ history_NN = NN.fit(X_train,
                    epochs = 100,
                    batch_size = 64,
                    callbacks = [es])
+
+# EXP 2
+# Training model
+# name = 'NeuralNet_TF_0L_Geo_1M_onlyhand'
+# NN   = NeuralNet_TF_Functional_0L()
+# history_NN = NN.fit(X_train,
+#                    y_train,
+#                    validation_data = (X_test, y_test),
+#                    epochs = 100,
+#                    batch_size = 64,
+#                    callbacks = [schedule, es])
+
+# EXP 3
+
 
 # Compare with other model
 # print("y: \n", NN.predict(X_test[0:1]))
@@ -136,13 +173,7 @@ class SGDRScheduler(Callback):
   Blog post: jeremyjordan.me/nn-learning-rate
   Original paper: http://arxiv.org/abs/1608.03983
   '''
-  def __init__(self,
-     min_lr,
-     max_lr,
-     steps_per_epoch,
-     lr_decay=1,
-     cycle_length=10,
-     mult_factor=2):
+  def __init__(self, min_lr, max_lr, steps_per_epoch, lr_decay=1, cycle_length=10, mult_factor=2):
 
     self.min_lr = min_lr
     self.max_lr = max_lr

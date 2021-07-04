@@ -64,7 +64,7 @@ X = data.to_numpy()
 # Split X and y to train and test
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.15, random_state=42)
 
-# Training model
+# Training model 0L
 name = 'NeuralNet_TF_0L_Geo_1M_onlyhand'
 NN   =  NeuralNet_TF_0L()
 history_NN = NN.fit(X_train,
@@ -73,6 +73,17 @@ history_NN = NN.fit(X_train,
                    epochs = 100,
                    batch_size = 64,
                    callbacks = [es, tensorboard_callback])
+
+
+# Training model	1L
+# name = 'NeuralNet_TF_0L_Geo_1M_onlyhand'	
+# NN   =  NeuralNet_TF_1L ()	
+# history_NN = NN.fit(X_train,	
+#                    y_train,	
+#                    validation_data = (X_test, y_test),	
+#                    epochs = 100,	
+#                    batch_size = 8,	
+#                    callbacks = [es, tensorboard_callback])
 
 # Compare with other model
 # print("y: \n", NN.predict(X_test[0:1]))
