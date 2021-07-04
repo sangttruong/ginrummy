@@ -1,0 +1,23 @@
+Fully connected network
+100 games played in 793361 ms.
+Games Won: P0:43, P1:57.
+100 games played in 801313 ms.
+Games Won: P0:36, P1:64.
+100 games played in 844954 ms.
+Games Won: P0:43, P1:57.
+100 games played in 293140 ms.
+Games Won: P0:42, P1:58.
+100 games played in 860750 ms.
+Games Won: P0:49, P1:51.
+100 games played in 871116 ms.
+Games Won: P0:43, P1:57.
+100 games played in 875644 ms.
+Games Won: P0:38, P1:62.
+100 games played in 807098 ms.
+Games Won: P0:39, P1:61.
+100 games played in 813454 ms.
+Games Won: P0:40, P1:60.
+100 games played in 814681 ms.
+Games Won: P0:38, P1:62.
+100 games played in 822231 ms.
+Games Won: P0:40, P1:60.

@@ -1,0 +1,32 @@
+backend: tensorflow
+class_name: Sequential
+config:
+- class_name: Dense
+  config:
+    activation: linear
+    activity_regularizer: null
+    batch_input_shape: !!python/tuple
+    - null
+    - 178
+    bias_constraint: null
+    bias_initializer:
+      class_name: Zeros
+      config:
+        dtype: float32
+    bias_regularizer: null
+    dtype: float32
+    kernel_constraint: null
+    kernel_initializer:
+      class_name: VarianceScaling
+      config:
+        distribution: uniform
+        dtype: float32
+        mode: fan_avg
+        scale: 1.0
+        seed: null
+    kernel_regularizer: null
+    name: dense_1
+    trainable: true
+    units: 1
+    use_bias: true
+keras_version: 2.1.2-tf

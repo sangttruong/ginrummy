@@ -42,6 +42,13 @@ To test the player, run GinRummy.java concurrently with Service.py.
 - [ ] Method Passing
 - [ ] Generative Model
 
+## Current useable ginrummy model in model_combination folder
+- Dual Inception
+- SGP neural network OHE
+- SGP LM5
+- SGP LM5 EVO
+- Parallel SGP neural network OHE
+
 ## Resource
 * Potential venue: https://ieee-cog.org/2021/index.html
 
