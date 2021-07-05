@@ -19,6 +19,8 @@ The base code for implementing Gin Rummy is in Java to comply with competition g
 * Linear Regressor: This player uses linear combination of several hand-crafted features for evaluating the game state. 
 * Linear Regressor with Evolution
 
+As the code is continue to evolve, please direct any question, feedback, or comment to [sttruong@stanford.edu](sttruong@stanford.edu).
+
 <!-- ## Early development component (Summer 2020)
 Gin Rummy software for the Gin Rummy EAAI Undergraduate Research Challenge. Implementation of the Dual Inception player from Truong 2021 with three main components: 
 * Convolution neural network for pattern recognition on maxtrix hand representations. 
