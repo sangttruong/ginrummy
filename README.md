@@ -64,7 +64,7 @@ To test the player, run GinRummy.java concurrently with Service.py.
 
 
 ## Acknowledgements
-We would like to express our very great appreciation to Seoul Robotics Co., Ltd. and [Dr. Minh Truong](https://kr.linkedin.com/in/hong-minh-truong-a3a26511b) for providing [Sang Truong](sangttruong.github.io) opportunities to complete this research as a part of his internship with the company during Summer 2020. We thank [Hoang Pham](https://github.com/kylepham) and [Hieu Tran](https://github.com/hieumtran) for their support on game and software testing.
+This project was started by Sang Truong in summer 2020 under the mentorship of Professor [Todd Neller](http://cs.gettysburg.edu/~tneller/) and was financially supported by the Cornelsen Charitable Foundation Fund for Career Preparation at DePauw University. We would like to express our very great appreciation to Seoul Robotics Co., Ltd. and [Dr. Minh Truong](https://kr.linkedin.com/in/hong-minh-truong-a3a26511b) for providing [Sang Truong](sangttruong.github.io) opportunities to complete this research as a part of his internship with the company during Summer 2020. We thank [Hoang Pham](https://github.com/kylepham) and [Hieu Tran](https://github.com/hieumtran) for their support on game and software testing.
 
 ## Citation
 ```
