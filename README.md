@@ -14,8 +14,8 @@ This research was conducted as a part of [EAAI Undegraduate Research Challenge](
 ## Usages 
 The base code for implementing Gin Rummy is in Java to comply with competition guideline and to enable tournament. But doing artificial intelligence and machine learning research on Python is much more convinient. Hence we did the game playing part in Java but the agent design in Python. To test each agent, you need to first running the Server.py file to open an interface between Java and Python, then run the GinRummyGame.java file to initialize the game. Bellow is a list of currently supported players/strategies:
 
-* Dual Inception: Using a convolution neural network operating on two 4x13 matrices representing player hand and opponent hand estimation. The opponent hand was estimated using Bayesian reasoning. Data for training network was generated using Monte Carlo simulation. 
-* Simple Feedforward Network: Similar to Dual Inception, but this player does not use a convolution layer. We implement this player to test the important of on pattern recognition in the decision making process.
+* Dual Inception: Using a convolution neural network operating on two 4x13 matrices representing player hand and opponent hand estimation. The opponent hand was estimated using Bayesian reasoning. Data for training network was generated using Monte Carlo simulation. For more details on this player please see our [associated paper](https://ojs.aaai.org/index.php/AAAI/article/view/17843). 
+* Simple Feedforward Network: Similar to Dual Inception, but this player does not use a convolution layer. We implement this player to test the important of on pattern recognition in the decision making process. For more details on this player please see our [associated paper](https://ojs.aaai.org/index.php/AAAI/article/view/17843).
 * Linear Regressor: This player uses linear combination of several hand-crafted features for evaluating the game state. 
 * Linear Regressor with Evolution
 
