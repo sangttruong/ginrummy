@@ -4,14 +4,16 @@ Although Gin Rummy was one of the most popular card games of the 1930's and 1940
 
 Gin Rummy is a 2-player imperfect information card games played with a standard (a.k.a. French) 52-card deck.  Ranks run from aces low to kings high.  The game's object is to be the first player to score 100 or more points accumulated through the scoring of individual rounds. We follow standard Gin Rummy rules [(McLeod 2020)](https://www.pagat.com/rummy/ginrummy.html) with North American 25-point bonuses for both gin and undercut.
 
-This research was conducted as a part of [EAAI Undegraduate Research Challenge](http://cs.gettysburg.edu/~tneller/games/ginrummy/eaai/) in the summer of 2020. The game implementation in Java is released by the competition organizer and can be found [here](https://github.com/tneller/gin-rummy-eaai). Althought this research has been published at AAA21, a significant extension of this work on reinforcement learning on graph representation of game states has been conduct by Sang Truong, Masayuki Nagai, and Shuto Araki. 
+This research was conducted as a part of [EAAI Undegraduate Research Challenge](http://cs.gettysburg.edu/~tneller/games/ginrummy/eaai/) in the summer of 2020. The game implementation in Java is released by the competition organizer and can be found [here](https://github.com/tneller/gin-rummy-eaai). Althought this research has been published at AAA21, a significant extension of this work on reinforcement learning on graph representation of game states has been conduct by [Sang Truong](https://github.com/sangttruong), [Masayuki Nagai](https://github.com/MasayukiNagai), and (Shuto Araki)[https://github.com/ShutoAraki]. 
 
 ## Requirements 
 * Java >= 8
 * Python >= 3.5
 * Tensorflow Keras >= 2.3.0
 
-## Current players
+## Usages 
+The base code for implementing Gin Rummy is in Java to comply with competition guideline and to enable tournament. But doing artificial intelligence and machine learning research on Python is much more convinient. Hence we did the game playing part in Java but the agent design in Python. To test each agent, you need to first running the Server.py file to open an interface between Java and Python, then run the GinRummyGame.java file to initialize the game. Bellow is a list of currently supported players/strategies:
+
 * Dual Inception: Using a convolution neural network operating on two 4x13 matrices representing player hand and opponent hand estimation. The opponent hand was estimated using Bayesian reasoning. Data for training network was generated using Monte Carlo simulation. 
 * Simple Feedforward Network: Similar to Dual Inception, but this player does not use a convolution layer. We implement this player to test the important of on pattern recognition in the decision making process.
 * Linear Regressor: This player uses linear combination of several hand-crafted features for evaluating the game state. 
@@ -55,11 +57,6 @@ To test the player, run GinRummy.java concurrently with Service.py.
 
 ## Resource
 * Potential venue: https://ieee-cog.org/2021/index.html
-
-## Contributors: 
-- Sang Truong - Stanford University
-- Masayuki Nagai - DePauw University
-- Shuto Araki - Amazon Web Services 
 -->
 
 
