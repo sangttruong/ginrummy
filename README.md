@@ -1,6 +1,12 @@
 # Gin Rummy
 
-## Early development component (Summer 2020)
+Although Gin Rummy was one of the most popular card games of the 1930's and 1940's [(Parlett 2020)](https://www.parlettgames.uk/histocs/ginrummy.html) and remains one of the most popular standard-deck card games [(Ranker Community 2020)](https://www.ranker.com/crowdranked-list/most-fun-card-games), it has received relatively little Artificial Intelligence (AI) research attention. Here, we develop initial steps towards hand strength evaluation in the game of Gin Rummy.
+
+Gin Rummy is a 2-player imperfect information card games played with a standard (a.k.a. French) 52-card deck.  Ranks run from aces low to kings high.  The game's object is to be the first player to score 100 or more points accumulated through the scoring of individual rounds. We follow standard Gin Rummy rules [(McLeod 2020)](https://www.pagat.com/rummy/ginrummy.html) with North American 25-point bonuses for both gin and undercut.
+
+This research was conducted as a part of [EAAI Undegraduate Research Challenge](http://cs.gettysburg.edu/~tneller/games/ginrummy/eaai/) in the summer of 2020. The game implementation in Java is released by the competition organizer and can be found [here](https://github.com/tneller/gin-rummy-eaai). Althought this research has been published at AAA21, a significant extension of this work on reinforcement learning on graph representation of game states has been conduct by Sang Truong, Masayuki Nagai, and Shuto Araki. 
+
+<!-- ## Early development component (Summer 2020)
 Gin Rummy software for the Gin Rummy EAAI Undergraduate Research Challenge. Implementation of the Dual Inception player from Truong 2021 with three main components: 
 * Convolution neural network for pattern recognition on maxtrix hand representations. 
 * Bayesian reasoning for opponent hand estimation
@@ -55,4 +61,21 @@ To test the player, run GinRummy.java concurrently with Service.py.
 ## Contributors: 
 - Sang Truong - Stanford University
 - Masayuki Nagai - DePauw University
-- Shuto Araki - Amazon Web Services
+- Shuto Araki - Amazon Web Services 
+-->
+
+
+## Acknowledgements
+We would like to express our very great appreciation to Seoul Robotics Co., Ltd. for providing Sang T. Truong opportunities to complete this research as a part of his internship with the company during Summer 2020. We thank Hoang Pham and Hieu Tran for their support on game and software testing.
+
+## Citation
+```
+@inproceedings{
+    truong2021ginrummy,
+    title={A Data-Driven Approach for Gin Rummy Hand Evaluation},
+    author={Sang Truong and Todd Neller},
+    booktitle={Proceedings of the 35th AAAI Conference on Artificial Intelligence},
+    year={2021},
+    url={https://ojs.aaai.org/index.php/AAAI/article/view/17843}
+}
+```
