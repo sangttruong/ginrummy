@@ -1,5 +1,6 @@
 # Gin Rummy
 
+## Introduction
 Although Gin Rummy was one of the most popular card games of the 1930's and 1940's [(Parlett 2020)](https://www.parlettgames.uk/histocs/ginrummy.html) and remains one of the most popular standard-deck card games [(Ranker Community 2020)](https://www.ranker.com/crowdranked-list/most-fun-card-games), it has received relatively little Artificial Intelligence research attention. Here, we develop initial steps towards hand strength evaluation in the game of Gin Rummy.
 
 Gin Rummy is a 2-player imperfect information card games played with a standard (a.k.a. French) 52-card deck.  Ranks run from aces low to kings high.  The game's object is to be the first player to score 100 or more points accumulated through the scoring of individual rounds. We follow standard Gin Rummy rules [(McLeod 2020)](https://www.pagat.com/rummy/ginrummy.html) with North American 25-point bonuses for both gin and undercut.
