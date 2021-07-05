@@ -18,7 +18,7 @@ The base code for implementing Gin Rummy is in Java to comply with competition g
 * Dual Inception: Using a convolution neural network operating on two 4x13 matrices representing player hand and opponent hand estimation. The opponent hand was estimated using Bayesian reasoning. Data for training network was generated using Monte Carlo simulation. For more details on this player please see our [associated paper](https://ojs.aaai.org/index.php/AAAI/article/view/17843). 
 * Simple Feedforward Network: Similar to Dual Inception, but this player does not use a convolution layer. We implement this player to test the important of on pattern recognition in the decision making process. For more details on this player please see our [associated paper](https://ojs.aaai.org/index.php/AAAI/article/view/17843).
 * Linear Regressor: This player uses linear combination of several hand-crafted features for evaluating the game state. 
-* Linear Regressor with Evolution
+* Linear Regressor with Coevolution of the value function. For more detail of this player, please see [Kotnik 2013](https://www.aaai.org/Papers/ICML/2003/ICML03-050.pdf).
 
 As the project is continue to evolve, please direct any question, feedback, or comment to [sttruong@stanford.edu](sttruong@stanford.edu).
 
