@@ -6,6 +6,17 @@ Gin Rummy is a 2-player imperfect information card games played with a standard 
 
 This research was conducted as a part of [EAAI Undegraduate Research Challenge](http://cs.gettysburg.edu/~tneller/games/ginrummy/eaai/) in the summer of 2020. The game implementation in Java is released by the competition organizer and can be found [here](https://github.com/tneller/gin-rummy-eaai). Althought this research has been published at AAA21, a significant extension of this work on reinforcement learning on graph representation of game states has been conduct by Sang Truong, Masayuki Nagai, and Shuto Araki. 
 
+## Requirements 
+* Java >= 8
+* Python >= 3.5
+* Tensorflow Keras >= 2.3.0
+
+## Current players
+* Dual Inception
+* Simple Feedforward Network
+* Linear Regressor
+* Linear Regressor with Evolution
+
 <!-- ## Early development component (Summer 2020)
 Gin Rummy software for the Gin Rummy EAAI Undergraduate Research Challenge. Implementation of the Dual Inception player from Truong 2021 with three main components: 
 * Convolution neural network for pattern recognition on maxtrix hand representations. 
@@ -15,14 +26,8 @@ Gin Rummy software for the Gin Rummy EAAI Undergraduate Research Challenge. Impl
 To test the player, run GinRummy.java concurrently with Service.py. 
 
 ## Summer 2021 development ideas:
-- [ ] Representation of game state
-  - [x] Learning on matrix
-  - [ ] Learning on graph
-  - [ ] Explainable AI 
-
-- [ ] Opponent han estimation 
-  - [ ] Bayesian learning
-
+- [ ] Representation of game state: Learning on graph and Explainable AI 
+- [ ] Opponent han estimation: Bayesian learning
 - [ ] Hand evaluation 
   - [ ]  Counter factual regret minimization: http://modelai.gettysburg.edu/2013/cfr/cfr.pdf
   - [ ]  Reinforcement learning 
@@ -47,13 +52,6 @@ To test the player, run GinRummy.java concurrently with Service.py.
 - [ ] Node Embedding (Chapter 3)
 - [ ] Method Passing
 - [ ] Generative Model
-
-## Current useable ginrummy model in model_combination folder
-- Dual Inception
-- SGP neural network OHE
-- SGP LM5
-- SGP LM5 EVO
-- Parallel SGP neural network OHE
 
 ## Resource
 * Potential venue: https://ieee-cog.org/2021/index.html
