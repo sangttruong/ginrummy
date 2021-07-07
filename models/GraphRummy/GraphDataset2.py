@@ -10,7 +10,7 @@ class MyOwnDataset():
   
   	
   def process(self):
-    # Read data into huge `Data` list.
+  	# Read data into huge `Data` list.
     edge_index = torch.tensor(self.c_e_index(), dtype=torch.long)
     x = torch.tensor(self.c_e_attr(), dtype=torch.float)
 
