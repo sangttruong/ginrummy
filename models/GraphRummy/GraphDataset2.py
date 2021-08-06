@@ -1,14 +1,12 @@
 import torch
-from torch_geometric.data import InMemoryDataset
 import pandas as pd
-from torch_geometric.data import Data
+from torch_geometric.data import InMemoryDataset, Data
 
 class MyOwnDataset():
   def __init__(self, df, n):
   	self.df = df
   	self.n = n
   
-  	
   def process(self):
   	# Read data into huge `Data` list.
     edge_index = torch.tensor(self.c_e_index(), dtype=torch.long)
@@ -16,11 +14,7 @@ class MyOwnDataset():
 
     data_n = Data(x=x, edge_index=edge_index)
     return data_n
-	
-    #data, slices = self.collate(data_list)
-    #return data_list
-    #torch.save((data, slices), self.processed_paths[0])
-       
+
   def c_e_index(self):
     deck = self.df.columns.to_list()
     #create y
@@ -59,7 +53,6 @@ class MyOwnDataset():
         num.append(0)
       e.append(num)
     return e
-
 
 class Data_Process:
   def __init__(self, path):
@@ -115,8 +108,6 @@ class Data_Process:
     #geoData.to_csv(pathOut, index=False)
     
     return geoData
-
-
 
 path = '/Users/sangtruong_2021/Desktop/' + 'short_2M_Simple_All.csv'
 dp = Data_Process(path)
