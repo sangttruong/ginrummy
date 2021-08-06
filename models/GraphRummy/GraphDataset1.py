@@ -1,7 +1,6 @@
 import torch
 from torch_geometric.data import InMemoryDataset
 from torch_geometric.data import Data
-from torch_geometric.data import Dataset
 import pandas as pd
 
 class GinRummyDataset(InMemoryDataset):
